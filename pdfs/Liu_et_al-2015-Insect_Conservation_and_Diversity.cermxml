@@ -1,0 +1,5707 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Insect Conservation and Diversity</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1111/icad.12096</article-id>
+      <title-group>
+        <article-title>Effects of plant diversity, habitat and agricultural landscape structure on the functional diversity of carabid assemblages in the North China Plain</article-title>
+      </title-group>
+      <contrib-group>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Beijing Key Laboratory of Biodiversity and Organic Farming, China Agricultural University</institution>
+          ,
+          <addr-line>Beijing</addr-line>
+          ,
+          <country country="CN">China</country>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>College of Agricultural Resources and Environmental Sciences, China Agricultural University</institution>
+          ,
+          <addr-line>Beijing</addr-line>
+          ,
+          <country country="CN">China</country>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>Resources and Environmental Sciences, China Agricultural University</institution>
+          ,
+          <addr-line>Beijing 100193</addr-line>
+          ,
+          <country country="CN">China</country>
+        </aff>
+        <aff id="aff3">
+          <label>3</label>
+          <institution>UCL Department of Geography, University College London</institution>
+          ,
+          <addr-line>London</addr-line>
+          ,
+          <country country="UK">UK</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2015</year>
+      </pub-date>
+      <volume>8</volume>
+      <fpage>163</fpage>
+      <lpage>176</lpage>
+      <abstract>
+        <p>1. This study investigated the effects of plant diversity, habitat type and landscape structure on the functional diversity of the carabid assemblages in the agro-landscape of the North China Plain. We hypothesise (i) small, herbivorous and omnivorous carabids are more strongly affected by local plant diversity, while large and predatory carabids are strongly affected by landscape structure, and (ii) habitat type influences the diversity across functional groups. 2. In 2010, carabid beetles were sampled by pitfall traps in six typical habitats of the agro-landscape: wheat/maize fields, peanut fields, orchards, field margins, windbreaks and woodland. 3. Our results showed that (i) habitat type played a predominant role in driving the changes in the diversity of carabid assemblages, followed by local plant diversity while the landscape structure had little effect; (ii) small and omnivorous carabid were strongly affected by local plant diversity, while the composition of large and predatory carabid was strongly associated with the landscape structure; and (iii) habitats dominated by woody species harboured different assemblages to habitats dominated by herbaceous plants for overall carabids and three functional groups excluding omnivorous beetles. 4. Informed by our results, we suggest the differentiated responses between functional groups should be appreciated in conservation management. In the intensively managed agro-landscape, maintenance of diverse habitats and creating a more complex vegetation structure would be the most efficient measures to enhance the diversity of carabid assemblages. Particularly, the maintenance of extensively managed habitats coupled with a targeted increase in the local plant diversity is crucial to optimise the biological pest control by carabid assemblages.</p>
+      </abstract>
+      <kwd-group>
+        <kwd />
+        <kwd>Functional groups</kwd>
+        <kwd>ground beetles</kwd>
+        <kwd>landscape heterogeneity</kwd>
+        <kwd>vegetation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="pdfs\Liu_et_al-2015-Insect_Conservation_and_Diversity.images\img_1_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="pdfs\Liu_et_al-2015-Insect_Conservation_and_Diversity.images\img_3_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="pdfs\Liu_et_al-2015-Insect_Conservation_and_Diversity.images\img_6_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="pdfs\Liu_et_al-2015-Insect_Conservation_and_Diversity.images\img_6_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="pdfs\Liu_et_al-2015-Insect_Conservation_and_Diversity.images\img_6_3.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="pdfs\Liu_et_al-2015-Insect_Conservation_and_Diversity.images\img_6_4.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="pdfs\Liu_et_al-2015-Insect_Conservation_and_Diversity.images\img_6_5.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="pdfs\Liu_et_al-2015-Insect_Conservation_and_Diversity.images\img_7_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="pdfs\Liu_et_al-2015-Insect_Conservation_and_Diversity.images\img_7_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="pdfs\Liu_et_al-2015-Insect_Conservation_and_Diversity.images\img_7_3.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>Introduction</title>
+      <p>
+        Agricultural landscapes account for more than 40% of
+the global land area and play a significant role in
+sustaining global biodiversity including conserving endangered
+species
+        <xref ref-type="bibr" rid="ref69 ref92">(Tscharntke et al., 2005; Norris, 2008)</xref>
+        .
+Accordingly, the implications of agricultural management for the
+protection of biodiversity and associated ecosystem
+services in the agricultural landscape are increasingly
+recognised. A variety of factors ranging from the complexity of
+the landscape structure
+        <xref ref-type="bibr" rid="ref1 ref95">(Weibull et al., 2000; Aavik &amp;
+Liira, 2010)</xref>
+        , habitat diversity
+        <xref ref-type="bibr" rid="ref37">(Hendrickx et al., 2007)</xref>
+        as
+well as vegetation structure and composition
+        <xref ref-type="bibr" rid="ref86 ref90">(Thomas &amp;
+Marshall, 1999; So€derstro€m et al., 2001)</xref>
+        strongly influence
+the community structure and diversity of invertebrate
+        <xref ref-type="bibr" rid="ref37 ref86 ref95">(Weibull et al., 2000; So€derstro€m et al., 2001; Hendrickx
+et al., 2007)</xref>
+        , vertebrate
+        <xref ref-type="bibr" rid="ref86">(So€derstro€m et al., 2001)</xref>
+        and
+plant species assemblages
+        <xref ref-type="bibr" rid="ref1">(Aavik &amp; Liira, 2010)</xref>
+        at
+different spatial scales. In particular, complex structured
+landscapes with high proportions of non-crop habitat can
+enhance local diversity, where source populations can spill
+over into cropland and therefore provide spatio-temporal
+insurances
+        <xref ref-type="bibr" rid="ref93">(Tscharntke et al., 2012)</xref>
+        . Diverse habitats
+support higher species richness due to the widespread
+existence of strong species-habitat associations
+        <xref ref-type="bibr" rid="ref98">(Willand et al.,
+2011)</xref>
+        . Habitat management intensity can also affect
+biodiversity, with less intensive managed habitat commonly
+sustaining a greater diversity
+        <xref ref-type="bibr" rid="ref106 ref59">(Yu et al., 2006)</xref>
+        . Plant
+communities determine the physical structure, niche and food
+resource in most habitats and therefore exert considerable
+influence on the distributions and interactions of animal
+species considerably
+        <xref ref-type="bibr" rid="ref53 ref63 ref9">(Bazzaz, 1975; Lawton, 1983; McCoy
+&amp; Bell, 1991)</xref>
+        . In recognition of the importance of the
+agricultural landscape context, research emphasis has
+started to shift from centring on individual species and
+species assemblages, protected area management and farm
+practice improvements to more holistic perspectives
+considering conservation and sustainable management of
+larger regions containing a diversity of different landscape
+elements
+        <xref ref-type="bibr" rid="ref10 ref101">(Bennett et al., 2006; Wu, 2008)</xref>
+        . Targeted
+modifications of these factors are believed to potentially
+provide an effective approach to compensate for negative
+effects from intensive modern agricultural practices
+        <xref ref-type="bibr" rid="ref30 ref92">(Tscharntke et al., 2005; Fischer et al., 2006)</xref>
+        .
+      </p>
+      <p>
+        In Europe, environmental and agricultural policies have
+strongly promoted measures to increase landscape
+heterogeneity, habitat diversity and vegetation diversity to foster
+regional biodiversity and ecosystem service provision.
+Agri-environment schemes in England, for example,
+encourage the establishment of ecological corridors,
+extensively managed field margins, wildflower strips and ‘beetle
+banks’ to foster regional biodiversity and ecosystem
+service provision (http://www.naturalengland.org.uk). Recent
+debates, however, have put the effectiveness of such
+landscape development approaches in promoting biodiversity
+into question
+        <xref ref-type="bibr" rid="ref49 ref79">(Kleijn &amp; Sutherland, 2003; Roth et al.,
+2008)</xref>
+        . Discrete and even diverging responses to changes
+in landscape structure
+        <xref ref-type="bibr" rid="ref16 ref4">(Burel et al., 2004; Aviron et al.,
+2005)</xref>
+        , habitat type
+        <xref ref-type="bibr" rid="ref31 ref58">(Gabriel et al., 2010; Liu et al., 2012)</xref>
+        and vegetation
+        <xref ref-type="bibr" rid="ref100 ref91">(Woodcock et al., 2009; Tischler et al.,
+2013)</xref>
+        have emerge when comparing diversity responses of
+different organism groups, especially where these also
+differ in their functional traits
+        <xref ref-type="bibr" rid="ref100 ref4 ref58">(Aviron et al., 2005;
+Woodcock et al., 2009; Liu et al., 2012)</xref>
+        . Body size and feeding
+habit, for example, are factors potentially leading
+divergent responses to environmental factors
+        <xref ref-type="bibr" rid="ref38 ref43">(Henle et al.,
+2004; Jetz et al., 2004)</xref>
+        . Larger species are expected to be
+more susceptive to larger scale landscape changes than
+small species
+        <xref ref-type="bibr" rid="ref12 ref22 ref50">(Concepcion &amp; Dıaz, 2011)</xref>
+        , because they
+have a longer duration of juvenile stages and large home
+ranges
+        <xref ref-type="bibr" rid="ref11 ref12 ref22 ref50 ref60">(Blake et al.,1994; Lo€vei &amp; Magura, 2006;
+Concepcion &amp; Dıaz, 2011)</xref>
+        . Species at higher trophic levels are
+suggested to be more susceptive to changes in
+environmental conditions than species at lower levels, because
+these species commonly have lower population densities,
+longer juvenile stages or larger home ranges
+        <xref ref-type="bibr" rid="ref32 ref39 ref60">(Gard, 1984;
+Holt, 1996; Lo€vei &amp; Magura, 2006)</xref>
+        . They are also
+believed to be more severely affected by the larger scale
+landscape structure than herbivorous and omnivorous
+species
+        <xref ref-type="bibr" rid="ref18 ref75 ref76 ref78 ref92">(Ritchie &amp; Olff, 1999; Purtauf et al., 2005a)</xref>
+        . These
+trends reflect highly complex and spatially specific taxon
+response patterns to environmental change, requiring the
+development of a functional-group specific management
+and to identify the appropriate scale for more effective
+conservation measures
+        <xref ref-type="bibr" rid="ref103 ref31 ref8">(Yaacobi et al., 2006; Gabriel
+et al., 2010; Batary et al., 2012)</xref>
+        .
+      </p>
+      <p>
+        In China, with more than 50% of its terrestrial land
+area under agricultural use, the intensification of
+agricultural production in recent decades has had strong negative
+effects on agricultural biodiversity
+        <xref ref-type="bibr" rid="ref102">(Xu &amp; Wilkes, 2004)</xref>
+        .
+In the key cereal production area, the North China Plain
+(NCP), a significant intensification in agricultural
+production
+        <xref ref-type="bibr" rid="ref34 ref46">(Ju et al., 2006; Guo et al., 2010)</xref>
+        has been associated
+with a high risk of biodiversity loss. Unfortunately,
+biodiversity conservation in the agricultural landscape has so
+far received limited attention
+        <xref ref-type="bibr" rid="ref106 ref34 ref57 ref58 ref59">(but see Liu et al., 2006,
+2010, 2012)</xref>
+        , with very limited information available on
+the connections between landscape structure and
+biodiversity
+        <xref ref-type="bibr" rid="ref28">(EBIBAG, 2009)</xref>
+        or on differential responses of
+functional groups to environmental change at different scales.
+An understanding of the spatial scale-dependent effects of
+land-use patterns on the diversity in China’s agricultural
+landscape is nonetheless vital to promote a more
+sustainable landscape management and the conservation of high
+levels of biodiversity
+        <xref ref-type="bibr" rid="ref28">(EBIBAG, 2009)</xref>
+        .
+      </p>
+      <p>
+        Our study aims to address current knowledge deficits,
+investigating how variations in local plant diversity,
+habitat type and landscape structure affect the diversity of the
+carabid assemblages in the agricultural landscape of the
+NCP. We also explore how functional grouping influences
+species–environment relationships. Carabid beetles were
+chosen as focal taxon as they play multiple important
+ecological roles in agro-ecosystems especially in controlling
+biological pests
+        <xref ref-type="bibr" rid="ref51">(Kromp, 1999)</xref>
+        and weed species
+        <xref ref-type="bibr" rid="ref12 ref44">(Bohan
+et al., 2011; Jonason et al., 2013)</xref>
+        . We classified carabids
+into two binomial functional groups according to body
+size (large vs. small) and main feeding traits during their
+life cycle (predatory vs. omnivorous). Previous studies
+indicated strong effects of landscape structure
+        <xref ref-type="bibr" rid="ref71 ref75 ref76">(de la Pen~a
+et al., 2003; Purtauf et al., 2005b)</xref>
+        or both local and
+landscape-scale factors on carabid assemblages
+        <xref ref-type="bibr" rid="ref4 ref69 ref97">(Aviron et al.,
+2005; Werling and Gratton 2008)</xref>
+        . Beetle responses have
+been suggested to vary with functional traits such as body
+size, feeding habit or habitat affinity
+        <xref ref-type="bibr" rid="ref18 ref19 ref4 ref7">(Aviron et al., 2005;
+Batary et al., 2007; Clough et al., 2007)</xref>
+        . Predatory
+carabid species have been reported to be more affected by
+changing landscape structure than herbivorous and
+omnivorous species
+        <xref ref-type="bibr" rid="ref18 ref75 ref76 ref92">(Purtauf et al., 2005a)</xref>
+        . We
+hypothesise that carabid beetles response to environmental factors
+depend on their functional traits. Predatory and large
+species, which have good dispersal abilities, large home
+range sizes, long life cycles and are hence more susceptible
+to human disturbances, are believed to be more strongly
+affected by the overall landscape structure and more
+abundant in less intensively managed habitats. In
+contrast, omnivorous and small beetles are hypothetically
+more strongly linked to local plant diversity because of
+their lower dispersal ability, smaller home ranges and
+lower sensitivity to disturbance. Finally, the habitat type
+is hypothesised to influence the diversity across the
+functional groups.
+      </p>
+    </sec>
+    <sec id="sec-2">
+      <title>Materials and methods</title>
+      <sec id="sec-2-1">
+        <title>Study area and site selection</title>
+        <p>This study was conducted at Xitiange village in
+Northeastern Miyun County (40 210–40 250N, 116 420–
+116 470E) near the northern boundary of the NCP. The
+area is situated about 70 km north of Beijing city centre.
+The local climate is continental, with an annual
+temperature of 11.5 °C and an average annual precipitation of
+~700 mm.</p>
+        <p>The sampling sites were located in the plain area that
+covers about 27% of Xitiange village mainly to the
+south of the village centre. In this area, agricultural
+land accounts for about 55% of the total area, while
+residential and roads account for a further 21%
+(Fig. 1). The most common agricultural crops are winter
+wheat/summer maize and peanuts, with large areas also
+used as fruit orchards. Semi-natural land, which mainly
+consists of woodland, windbreaks, field margins, weeds
+land, accounts for about 12% of the sampled
+landscape.</p>
+        <p>The six most common habitats in the research region:
+wheat/maize rotation fields, peanut fields, woodland,
+windbreaks, field margins and orchards, were selected for
+beetle sampling. Field margins were defined as linear
+noncropping areas with a naturally colonised grass-dominated
+vegetation covering a width &gt;2 m between fields.
+Windbreaks consisted of poplar tree lines planted between
+fields. Woodland was also planted with Populus spp., but
+had a much greater width with an overall area exceeding
+1 ha.</p>
+        <p>In maize/wheat fields, about 300 kg ha 1 of N fertilizer
+and 110 kg ha 1 of P2O5 were applied during two
+growing season. Herbicides were applied after each crop
+sowing and pesticides were applied once in spring and
+autumn respectively. In peanut fields, about 60 kg ha 1 of
+N fertilizer and 170 kg ha 1 of P2O5 were applied in
+addition to herbicides and fungicides, which were sprayed
+after sowing and flowering respectively. No fertilizer was
+applied in the orchards, while fungicide was sprayed after
+the flowering. No agro-chemicals were used in woodland,
+windbreaks and on the field margins.</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>Beetle and plant surveys</title>
+        <p>Beetles were sampled over periods of 6 days every
+month between the beginning of May and the end of
+September 2010 using a total of five pitfall traps at each plot.</p>
+        <p>
+          Arrangements of pitfall traps were adjusted according to
+the shape of habitat to enable more typical catchment of
+fauna
+          <xref ref-type="bibr" rid="ref50">(Kotze et al., 2011)</xref>
+          and also to limit the edge effect
+        </p>
+        <p>2014 The Authors. Insect Conservation and Diversity published by John Wiley &amp; Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+in linear habitats. At the agricultural fields, orchards and
+in woodland, plots measuring 20 9 20 m2 were
+established, and five pitfall traps were placed at the centre of
+each of these plots and at a distance of 5 m from the plot
+centre along N–S and E–W facing diagonal lines. At field
+margins and windbreaks, plots were established at the
+centre of these linear habitats to minimise edge effects. To
+achieve comparative results across the different habitats,
+five traps in these linear habitats were placed with a
+distance of 5 m between individual pitfall traps as in
+agricultural lands.</p>
+        <p>The % cover of vascular plant species was surveyed in
+June and September 2010. Within each plot, all tree and
+shrub species were recorded in four randomly selected
+1 m 9 5 m sub-plots, while herb species were surveyed in
+four randomly selected 1 m 9 1 m sub-plots. Data sets in
+both seasons for each plot were combined, allocating the
+maximum % cover recorded at these two sampling events
+to each plant species.</p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>Landscape data</title>
+        <p>
+          Land-use types in the study region were digitised based
+on an extensive field mapping surveys in combination
+with high-resolution Quickbird satellite imagery
+(resolution 0.6 m) during sampling season. Landscape metrics
+within a radius of 300 m were considered in this study as
+it was supposed that most carabid beetles disperse within
+the limited distance of up to 50 m
+          <xref ref-type="bibr" rid="ref96">(Welsh, 1990)</xref>
+          and
+respond to landscape structure at fine spatial scales
+          <xref ref-type="bibr" rid="ref4 ref7">(Aviron et al., 2005; Batary et al., 2007)</xref>
+          . Shannon Diversity
+Index was selected as an indicator for the heterogeneity of
+landscape structure as it is widely applied in research on
+landscape–biodiversity relationships
+          <xref ref-type="bibr" rid="ref23 ref6">(Concepcion et al.,
+2008; Bassa et al., 2011)</xref>
+          , and it was calculated using
+FRAGSTATS 3.3
+          <xref ref-type="bibr" rid="ref64">(Mcgarigal et al., 2002)</xref>
+          .
+        </p>
+      </sec>
+      <sec id="sec-2-4">
+        <title>Data analysis</title>
+        <p>
+          Carabid beetles were divided into small (&lt;15 mm) and
+large species (&gt;15 mm)
+          <xref ref-type="bibr" rid="ref20">(Cole et al., 2002)</xref>
+          according to
+their averaged body size measured using a vernier calliper.
+They were also divided into predators and omnivores
+according to their predominantly feeding traits during
+their entire life cycle
+          <xref ref-type="bibr" rid="ref104 ref105 ref2 ref24 ref25 ref55 ref80 ref81">(Antonenko, 1980; Yu, 1980, 1981;
+Deng, 1983; Deng et al., 1985; Liang &amp; Yu, 2000;
+Sasakawa, 2007, 2009)</xref>
+          . As little information is available for the
+feeding habits of Chinese carabids, we categorised them
+depending on assumptions on the basis of taxonomic
+affinity in the cases where information for a specific
+species was lacking. Accordingly, Amara spp. was assumed
+to be omnivorous
+          <xref ref-type="bibr" rid="ref41">(Hurka &amp; Jarosık, 2003)</xref>
+          . Harpalus
+spp., which tends to be gramnivorous, but is also known
+to utilise other food sources
+          <xref ref-type="bibr" rid="ref105 ref13 ref24 ref48 ref55 ref61">(Brandmayr, 1990; Deng
+1983; Kirk, 1973; Liang &amp; Yu, 2000; Lund &amp; Turpin,
+1977; Yu, 1981)</xref>
+          , was categorised as omnivorous.
+        </p>
+        <p>
+          Beetle data for each plot were pooled for subsequent
+analysis. Non-metric multidimensional scaling base on
+Chord distances was applied to analyse species turnover
+rates of different carabid groups between sites using
+PAST
+          <xref ref-type="bibr" rid="ref35">(Hammer et al., 2001)</xref>
+          . Species richness was
+calculated using EstimateS V9.1.0
+          <xref ref-type="bibr" rid="ref21">(Colwell, 2013)</xref>
+          based on the
+Chao1 species richness estimator to account for the
+inevitable confounding effects of sample size resulting from the
+varied shapes of investigated habitats and arrangement of
+pitfall traps. The Gini-Simpson diversity index which
+emphasises ‘evenness’ of the community and varies between
+0 and 1 was calculated to characterise the diversity of the
+plant communities using the statistical package PAST
+          <xref ref-type="bibr" rid="ref35">(Hammer et al., 2001)</xref>
+          .
+        </p>
+        <p>
+          To investigate the effects of landscape structure, habitat
+type and local plant diversity on the activity-abundance
+and estimated species richness of each beetle group, linear
+mixed effect models with fixed variance (gls, nlme package
+version 3.1-108 in R)
+          <xref ref-type="bibr" rid="ref74">(Pinheiro et al., 2013)</xref>
+          were used in
+R 2.15.2
+          <xref ref-type="bibr" rid="ref77">(R Core Team, 2012)</xref>
+          . Landscape diversity,
+habitat type as well as local plant diversity were used as fixed
+predictors, and the model was simplified using the
+stepAIC function in the package MASS
+          <xref ref-type="bibr" rid="ref94">(Venables &amp; Ripley,
+2002)</xref>
+          . The normality of the distribution of the
+raw-dependent variables was assessed using QQ–plots. Data were
+log10-transformed or sqrt-transformed where necessary.
+To account for spatial autocorrelation, we fitted gls
+models to response variables with Gauss–Kru€ger coordinates
+treated as spatial covariates, assuming a spherical spatial
+correlation structure
+          <xref ref-type="bibr" rid="ref73">(Pinheiro &amp; Bates, 2000)</xref>
+          , but no
+spatial autocorrelation was found.
+        </p>
+        <p>
+          Three separate partial redundancy analyses (pRDA)
+were used to investigate the separate effects of local plant
+diversity, habitat type and landscape diversity on species
+composition of the all beetle assemblages and the four
+functional groups when combining the other two variables
+as conditional variables. Prior to the analyses, the beetle
+species matrix was modified using Hellinger
+transformation
+          <xref ref-type="bibr" rid="ref54">(Legendre &amp; Gallagher, 2001)</xref>
+          in preparation for the
+use in PCA and RDA Pseudo-F values and the
+corresponding significance levels were calculated based on 999
+Monte-Carlo permutations. Finally, spatial
+autocorrelations of plots were diagnosed using the mso function, but
+no spatial patterns were apparent. Calculations were
+performed using the vegan package (version 2.0-2) in
+R
+          <xref ref-type="bibr" rid="ref70">(Oksanen et al., 2012)</xref>
+          .
+        </p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>Results</title>
+      <sec id="sec-3-1">
+        <title>Species composition and turnover</title>
+        <p>A total of 1750 carabids representing 17 species and 9
+genera were caught during the sampling season (Table 1).
+Among these, 11 species with a total of 1246 individuals
+were smaller than 15 mm, while the remaining six species
+representing 504 individuals were classified as large beetles
+(&gt;15 mm). Furthermore, six species representing 781
+individuals were predatory, while the remaining 12 species
+accounting for 969 individuals were classed as omnivores.
+Among the omnivorous carabids, more than 97% of the
+individuals were also small species. Accordingly, more
+than 75% of small carabids were omnivorous. On the
+other hand, 94% of large individuals were classed as
+predatory, but only 61% of the predatory individuals
+represented large species. Harpalus pastor, Dolichus halensis,</p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>Chlaenius posticalis and Harpalus pallidipennis were the</title>
+        <p>four most common species in the sampled agricultural
+landscape, accounting for 43.3%, 21.3%, 17.5% and
+8.2% of all sampled individuals respectively.</p>
+        <p>The NMDS ordination showed that plots dominated by
+woody plants including orchards, windbreaks and
+woodland harboured distinctly different carabid species
+assemblage from the plots dominated by herbaceous plants,
+including wheat/maize fields, peanut fields and field
+margins (Fig. 2a). This distinction was also evident for large
+carabids (Fig. 2b), small carabids (Fig. 2c) and predators
+(Fig. 2d). In contrast, all sampling plots for omnivorous
+carabids were closely clustered together with an exception
+of four plots, indicating a more homogenous composition
+of omnivorous carabid species across the sampled habitats
+(Fig. 2e).</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>Effects of local plant diversity, habitat type and landscape</title>
+        <p>structure on abundance and diversity</p>
+        <p>Activity-abundance and species richness. The
+activityabundance of the overall carabid assemblage and of the
+four functional groups were strongly influenced by the
+difference in habitat types, but not by landscape diversity
+and local plant diversity (Table 1). Peanut fields generally
+harboured the lowest activity-abundance, followed
+generally by woodland activity-abundance levels (Fig. 3a).
+Field margins in contrast were characterised by a high
+activity-abundance of large and predatory carabids, and
+in orchards a high activity-abundance of carabid species
+across all four groups.</p>
+        <p>Differences in species richness for the overall carabid
+assemblages, large and predatory carabid functional groups
+were all strongly associated with differences in habitat type,
+but no differences were observed for the species richness of
+both small and omnivorous carabids (Table 1). Peanut
+fields harboured the lowest species richness for the overall
+carabid assemblage and all functional groups (Fig. 3b).
+Wheat/maize field, field margins and orchard harboured a
+large species richness of both large and predatory carabids,
+while woodland assemblages contained a large number of
+predatory carabids (Fig. 3b). In addition, species richness
+of small carabid was positively associated with plant
+diversity (Table 1; Fig. 4), while omnivorous species richness
+responded to none of the parameters landscape structure,
+habitat type or local plant diversity (Table 1).</p>
+        <p>Species composition. The partial RDA ordination
+plots indicate varied responses of beetle assemblages to
+the individual variable of landscape diversity, habitat type
+and plant diversity across the different functional carabid
+groups when the effects of the other two of these three
+variables were excluded (Table 2). The overall carabid
+assemblage was significantly associated with habitat type
+and local plant diversity, but not with landscape diversity.
+Large carabid assemblages changed significantly only
+between habitat types, while shifts in small and
+omnivorous carabid assemblages were again associated with both
+changes in habitat type and local plant diversity.
+Predatory carabid turnover finally was not significantly
+associated with any of the factors. Habitat type was the
+variable that explained the overall greatest amount in
+variation (&gt;21%) in the species composition across all
+carabid groups; species composition of overall, small and
+omnivorous assemblages were much more closely linked
+to plant diversity than by landscape structures. In
+contrasted, large and predatory carabid assemblages, whose
+species compositions were much more explained by
+landscape structure than by local plant diversity.</p>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>Discussion</title>
+      <sec id="sec-4-1">
+        <title>Effects of plant diversity</title>
+        <p>
+          The taxonomic diversity of plant species is commonly
+suggested to be directly and indirectly linked to the
+2014 The Authors. Insect Conservation and Diversity published by John Wiley &amp; Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+diversity of invertebrate taxa
+          <xref ref-type="bibr" rid="ref47 ref84 ref85">(Kareiva, 1983; Siemann,
+1998)</xref>
+          . On one hand, increasing in plant species richness
+can potentially support increasing numbers of specialised
+consumers
+          <xref ref-type="bibr" rid="ref67 ref84 ref85">(Murdoch et al., 1972; Siemann et al., 1998)</xref>
+          ,
+which in turn can encourage a greater diversity of
+predators through cascade effects
+          <xref ref-type="bibr" rid="ref40">(Hunter &amp; Price, 1992)</xref>
+          . On
+the other hand, plant communities can impact consumer
+diversity indirectly by mediating the physical structure of
+the environment, which again increases in heterogeneity
+with increasing plant species richness, with implications
+for distribution and interactions of species in the increased
+niche spaces
+          <xref ref-type="bibr" rid="ref53 ref63">(Lawton, 1983; McCoy &amp; Bell, 1991)</xref>
+          . The
+strong association observed between changes in overall
+beetle and plant species composition in our study could
+be explained by either of these direct and indirect effects,
+especially in relation to the strong correlation between
+abppnlleaatdnnwtteste.odnivtheharebsiittsyattrsoannddgolmysmindaaifltfleedrceabnrytaibawtideodoadssyspeevmceibreslsuagsceohmesrtpbruoacscitetuoioruens, ltraxaypnoE secaadnpL iitrsevyd
+2014 The Authors. Insect Conservation and Diversity published by John Wiley &amp; Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+5 udP =P .203 seudP =P .312 seP P
+        </p>
+        <p>ud =
+.6 se
+3 udP =P .012 seP P .50 seP P</p>
+        <p>ud = ud =
+.8 se
+5 udP =P .253 seudP =P .321 seP P</p>
+        <p>ud =
+.6 se
+;
+5
+1
+9
+.
+5
+=
+)
+6
+1
+,
+(1 3
+-oF .001
+;
+1
+8
+1
+.
+0
+=
+)
+6
+1
+,
+(1 9
+-oF .091
+;
+9
+9
+8
+.
+3
+=
+)
+6
+1
+,
+(1 3
+-oF .002
+;
+1
+3
+2
+.
+0
+=
+)
+6
+1
+,
+(1 1
+-oF .087
+;
+7
+0
+0
+.
+3
+=
+)
+6
+1
+,
+(1 5
+-oF .003
+.)
+A
+D
+R
+p
+(
+s
+e
+s
+y
+l
+a
+n
+a
+y
+c
+n
+a
+d
+n
+u
+d
+e
+r
+l
+a
+it
+r
+a
+p
+y
+b
+d
+e
+n
+i
+a
+l
+p
+x
+e
+e
+c
+n
+a
+i
+r
+a
+v
+f
+o
+e
+g
+a
+t
+n
+e
+c
+r
+e
+p
+:
+s
+p
+u
+o
+r
+g
+l
+a
+n
+o
+it
+c
+n
+u
+f
+d
+i
+b
+a
+r
+a
+c
+f
+o
+n
+o
+iit
+s
+o
+p
+m
+o
+c
+s
+e
+i
+c
+e
+p
+S
+.
+2
+e
+l
+b
+a
+T
+;
+1
+7
+6
+.
+1
+=
+)
+6
+1
+,
+(1 2
+-oF .015
+;
+9
+1
+4
+.
+1
+=
+)
+6
+1
+,
+(1 9
+-oF .023
+;
+8
+8
+7
+.
+1
+=
+)
+6
+1
+,
+(1 3
+-oF .016
+;
+1
+3
+9
+.
+0
+=
+)
+6
+1
+,
+(1 8
+-oF .043
+;
+1
+0
+6
+.
+1
+=
+)
+6
+1
+,
+1
+-(oF .016
+;
+5
+9
+7
+.
+1
+=
+)
+6
+1
+,
+(5 2
+-oF .004
+;
+6
+5
+5
+.
+1
+=
+)
+6
+1
+,
+(5 2
+-oF .011
+;
+1
+4
+2
+.
+2
+=
+)
+6
+1
+,
+(5 2
+-oF .001
+;
+7
+0
+9
+.
+1
+=
+)
+6
+1
+,
+(5 2
+-oF .002
+;
+1
+4
+0
+.
+2
+=
+)
+6
+1
+,
+(5 8
+-oF .000
+4 udP =P .042 seP P .60 seP P</p>
+        <p>ud = ud =
+.4 se
+5 udP =P .323 seP P .59 seP P</p>
+        <p>ud = ud =
+.1 se
+t
+ita e
+abH typ
+y
+it
+s
+t re
+lanP ivd</p>
+        <p>
+          The significant association between the functional
+groups of both omnivores and small carabids, but not
+predatory or large beetles, with plant diversity is
+congruent with observations made in previous studies
+          <xref ref-type="bibr" rid="ref36 ref83">(Harvey
+et al., 2008; Seric Jelaska et al., 2010)</xref>
+          . The previous
+studies suggested that herbivore diversity is affected
+predominantly by bottom-up effects related to resource
+availability, a trend commonly reported in environments
+with poor plant species diversity, while top-down effects
+are believed to become more pronounced in environments
+with high-quality plants or in high-productivity
+          <xref ref-type="bibr" rid="ref26 ref40 ref88">(Hunter &amp;
+Price, 1992; Stiling &amp; Rossi, 1997; Denno et al., 2002)</xref>
+          . As
+seed feeding species contribute strongly to the groups of
+omnivores and small carabid beetles in this study, their
+strong association with plant diversity could indeed be
+explained by bottom-up effects of resource availability.
+        </p>
+        <p>Top-down effects related to predation pressure might also
+be at work. For example, in the case of peanut fields, very
+low plant coverage could lead to small beetles being more
+prone to attack from their natural enemies.</p>
+        <p>
+          It is remarkable that predatory and large beetles did
+not show any significant links with plant diversity in this
+study. Predators are often assumed to be more abundant
+and more diverse in species-rich plant communities with a
+greater variety of habitats and more availability of prey
+according to the natural enemy hypothesis
+          <xref ref-type="bibr" rid="ref42">(Jactel et al.,
+2005)</xref>
+          .
+          <xref ref-type="bibr" rid="ref82">Scherber et al. (2010)</xref>
+          however, showed that the
+links between plant diversity and arthropod diversity
+dampen with increasing trophic level. The lack of
+correlation between plant diversity and predatory and large
+beetles could be explained by the poor habitat quality of
+some of the investigated habitats so that they were unable
+to support sufficient numbers of herbivores to sustain
+large predator assemblages, or by predatory and large
+beetles having strong dispersal ability, enabling them to
+use resources at large spatial scales. Vegetation structure
+still appears to play a role in affecting the composition of
+predatory and large beetles, as indicated by the
+differential species composition between habitats dominated by
+woody and herbaceous plant species for both predatory
+and large beetles.
+        </p>
+      </sec>
+      <sec id="sec-4-2">
+        <title>Effects of habitat</title>
+        <p>
+          In accordance with our initial hypothesis, habitat type
+presented a key factor in determining the overall diversity
+of carabids. As also mentioned above, the distinct plant
+structure of the different habitats determines the
+availability of both structural niches and environmental resources
+required by the different carabid species
+          <xref ref-type="bibr" rid="ref14 ref3 ref5 ref66 ref9">(Bazzaz, 1975;
+Mortimer et al., 1998; Brose, 2003; Asteraki et al., 2004;
+Axmacher et al., 2009)</xref>
+          . This is further supported by the
+observed distinct species assemblages supported by the
+structurally more complex woody habitats, which also
+tended to support a greater taxonomic diversity of plant
+species. Habitat types are also closely linked to
+disturbance intensity and productivity
+          <xref ref-type="bibr" rid="ref58 ref68">(Murison et al., 2007;
+Liu et al., 2012)</xref>
+          . Agricultural intensification is commonly
+seen as a main cause of biodiversity loss
+          <xref ref-type="bibr" rid="ref62 ref99">(Matson et al.,
+1997; Wilson et al., 1999)</xref>
+          , despite observations that
+intensively managed habitats can sometimes support diverse
+and abundant populations of ground beetles when they
+provide large quantities of potential resources in some
+cases
+          <xref ref-type="bibr" rid="ref34 ref57 ref92">(Tscharntke et al., 2005; Liu et al., 2010)</xref>
+          . Carabids
+are nonetheless generally known to show higher diversity
+levels in habitats with less intensive management
+          <xref ref-type="bibr" rid="ref17 ref72">(Carcamo et al., 1995; Pfiffner &amp; Luka, 2003)</xref>
+          . Therefore, the
+low activity-abundance and species richness of the overall
+carabid assemblages in peanut fields could be further
+contributed to higher management intensity and much
+simpler and more homogenous vegetation structure in these
+habitats. The heterogeneous carabid species composition
+of large and predatory species as well as in the overall
+species assemblage for habitats dominated by herbaceous
+plants could similarly be related to the stronger gradient
+in management intensity. Furthermore, the cultivation of
+annual crops on these sites will strongly influence their
+microclimatic conditions, which form a further, important
+factor determining carabid distribution
+          <xref ref-type="bibr" rid="ref89">(Thiele, 1977)</xref>
+          . It
+is therefore likely that the significant influence of the
+habitat type on the diversity of all carabid groups can be
+attributed to the interaction of several factors including
+plant diversity and plant structure, productivity, land-use
+intensity and microclimate conditions. This complex
+interaction appears to lead to a strong similarity in
+activityabundance and species richness between the intensively
+managed, more productive wheat/maize fields and
+extensively managed, more structurally complex habitats, such
+as orchards, field margins and woodland.
+        </p>
+      </sec>
+      <sec id="sec-4-3">
+        <title>Effects of landscape structure</title>
+        <p>
+          Wider landscape structure has been demonstrated to
+significantly affect carabid species richness and density
+          <xref ref-type="bibr" rid="ref15 ref18 ref27 ref7 ref75 ref76 ref92">(Burel et al., 1998; Purtauf et al., 2005a,b; Batary et al.,
+2007; Dieko€tter et al., 2010)</xref>
+          , as well as on ground beetle
+species composition
+          <xref ref-type="bibr" rid="ref27 ref4 ref71">(de la Pen~a et al., 2003; Aviron et al.,
+2005; Dieko€tter et al., 2010)</xref>
+          . Carabids with different traits
+also show different responses to landscape structure, with
+species richness of carnivorous and phytophagous carabid
+species decreasing with a decrease in non-cropping area in
+the landscape, while no effects on species richness were
+observed for omnivorous species
+          <xref ref-type="bibr" rid="ref18 ref75 ref76 ref92">(Purtauf et al., 2005a)</xref>
+          .
+The relative abundance of large species (&gt;15 mm) was
+also found to significantly correlate with the proportion
+of woody elements in the landscape, whereas small species
+were not similarly affected
+          <xref ref-type="bibr" rid="ref4">(Aviron et al., 2005)</xref>
+          .
+        </p>
+        <p>
+          In contrast to the above published results, landscape
+structure did not show any significant effects on
+abundance or species richness of the overall carabid
+assemblage and the four functional groups investigated in our
+study. Although consisted with our hypothesis that
+landscape structure showed a greater relative impact on the
+species composition of large and predatory carabid in
+comparison to small and omnivorous species, landscape
+structure explained very small percentage of the variance
+in species composition of both large and predatory
+carabid assemblages (&lt;6%). Compared to earlier studies
+reporting strong positive effects of a heterogeneous
+landscape on local arthropod diversity
+          <xref ref-type="bibr" rid="ref18 ref7 ref95">(see also Weibull
+et al., 2000; Clough et al., 2005; Batary et al., 2007)</xref>
+          , the
+landscape investigated in this study was overall rather
+homogenous and had experienced serious semi-natural
+loss and fragmentation for several millennia due to
+strong anthropogenic influences, leaving no natural
+residual habitats. The substantial habitat loss and
+fragmentation would result dramatic loss of biodiversity before
+this investigation. The most ‘natural’ habitats in the
+landscape we investigated are mainly formed by
+monotonous monocultures of poplar (woodland and windbreak)
+or secondary herbaceous vegetation, largely restricted to
+‘edge’ environments of a lower habitat ‘quality’ than
+pristine habitats would have contained. Overall, any
+habitat specialists specialised on the potential natural
+vegetation will have been lost, and the resulting assemblages
+are predominantly composed of generalist species which
+are at least partly adapted to crop land
+          <xref ref-type="bibr" rid="ref93">(Tscharntke
+et al., 2012)</xref>
+          . The lack of any natural habitat in the
+wider vicinity of the study area would rule out any
+cross-habitat spillover from natural habitats into the
+agricultural landscape. With more than 75% of the total
+landscape being under cultivation or classed as
+residential and roads areas and another 12% being covered in
+semi-natural habitats, the local traits and quality of
+habitats can therefore be expected to be more important
+than the surrounding landscape matrix in determining
+the ground beetle species composition and diversity
+          <xref ref-type="bibr" rid="ref92">(Tscharntke et al., 2005)</xref>
+          .
+        </p>
+      </sec>
+      <sec id="sec-4-4">
+        <title>Effects of sampling methods</title>
+        <p>
+          Although pitfall trapping is the most commonly used
+the method in to gain standardised quantitative samples
+of carabid beetles in ecological studies, its effective
+capture rates depend both on activity patterns and
+population densities of the captured species
+          <xref ref-type="bibr" rid="ref33 ref65">(Mitchell, 1963;
+Greenslade, 1964)</xref>
+          . Habitat-related or traits-related
+differences in the activity patterns of carabid species therefore
+somewhat complicate direct comparisons of pitfall
+trapping results
+          <xref ref-type="bibr" rid="ref87">(Spence &amp; Niemela€, 1994)</xref>
+          , and the subsequent
+analysis of assemblage data
+          <xref ref-type="bibr" rid="ref50">(Kotze et al., 2011)</xref>
+          .
+Unfortunately, these drawbacks in pitfall-trapped samples remain
+unresolved
+          <xref ref-type="bibr" rid="ref50">(Kotze et al., 2011)</xref>
+          . The different arrangement
+of pitfall traps between different habitat types in our
+investigation will further affect the results as well,
+although these were necessary to ensure the collection of
+representative samples for the different habitat types
+          <xref ref-type="bibr" rid="ref50">(see
+also Kotze et al., 2011)</xref>
+          , and we used the estimated species
+richness was used to eliminate the effects of differences in
+our sampling sizes. It is nonetheless important to
+recognise that there are inherent limitations to the accuracy of
+results obtained solely from pitfall trapping.
+Combinations with other sampling methods should therefore be
+considered in future research to further substantiate our
+results
+          <xref ref-type="bibr" rid="ref56">(Liu et al., 2007)</xref>
+          .
+        </p>
+      </sec>
+      <sec id="sec-4-5">
+        <title>Implications for conservation</title>
+        <p>
+          With a long history of agricultural use, little natural or
+even semi-natural residual habitats remaining in this key
+area of China’s cereal production. A first important
+measure to support and enhance the existing regional
+biodiversity in the region should therefore focus on
+improvements at small spatial scales. As our study
+indicates, the habitat type and plant diversity currently play
+an important role in driving the diversity of the overall
+carabid assemblages. A diverse range of cropping systems
+in the landscape is therefore seen as critical for enhancing
+the carabid diversity. Specifically, extensively managed
+orchards appear to be of high value for carabid
+conservation particularly when there is a high production pressure
+on the land due to food requirements and to ensure the
+farmers’ income. Field margins which are allowed to go
+through succession to increase in complexity and in their
+proportion of woody plant components could also be an
+economic and efficient way to promote the abundance
+particularly of large and predatory carabids, which are
+the key group in arthropod pests control
+          <xref ref-type="bibr" rid="ref106 ref59">(Yu et al.,
+2006)</xref>
+          . In addition, given the strong effects of the plant
+community on overall ground beetle diversity, future
+management of non-cropping habitats should be aimed
+towards creating a more complex vegetation structure
+with higher levels of plant diversity. Specifically, habitats
+containing woody vegetation such as orchard, woodland
+and windbreak in addition to semi-natural field margins,
+should be maintained and sustainably managed as a
+further loss of such habitat would be detrimental to the
+biological control service in the agricultural landscape. At
+the same time, the plant species composition should be
+carefully managed
+          <xref ref-type="bibr" rid="ref29 ref52">(Landis et al., 2000; Fiedler et al.,
+2008)</xref>
+          , as particularly small and omnivorous ground beetle
+species, which show strong association with plant diversity
+in our study, are known to form agricultural pests
+themselves in some circumstances
+          <xref ref-type="bibr" rid="ref104">(Yu, 1980)</xref>
+          . Given our
+substantial knowledge gaps in this area, a better
+understanding of plant–insect relationships is critical to
+formulate clear guidance for the enhancement of biodiversity
+and associated ecosystem services in the agricultural
+landscape.
+        </p>
+        <p>
+          Despite a less pronounced effect of the landscape
+structure on carabid assemblages in comparison to habitat and
+plant diversity and the scarcity of any pristine habitats in
+the study area, maintaining landscape heterogeneity is
+particularly important to support the biological pests
+control function of ground beetles. This is crucially important
+for predatory carabid since variation in predatory carabid
+assemblage was much more strongly linked to landscape
+structure than local plant diversity. On the other hand,
+2014 The Authors. Insect Conservation and Diversity published by John Wiley &amp; Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+the 17 species sampled in six different habitats during a
+period of 30 sampling days between May and September
+indicated an overall very low level of species richness in
+the local carabid species pool compared to other regions
+          <xref ref-type="bibr" rid="ref58">(Liu et al., 2012)</xref>
+          or even to other villages in the same
+area
+          <xref ref-type="bibr" rid="ref10 ref106 ref59">(Yu et al., 2006 – unfortunately these study sites
+have now been replaced by a residential area due to the
+rapid urbanisation of Beijing)</xref>
+          . On a longer term, measures
+at larger scales, like ecological networks connecting
+agricultural land with high-quality natural or semi-natural
+habitats, could be effective steps for the recovery of the
+remaining biodiversity in the entire region
+          <xref ref-type="bibr" rid="ref45">(Jones-Walters,
+2007)</xref>
+          .
+        </p>
+      </sec>
+    </sec>
+    <sec id="sec-5">
+      <title>Conclusion</title>
+      <p>The key finding of this study is that it is habitat and local
+plant diversity rather than landscape structure are driving
+the changes in diversity of carabid assemblages; and
+carabid beetles, response patterns to local plant diversity and
+landscape structure depending on their functional traits.
+Small and omnivorous carabid assemblages are more
+affected local plant diversity, while large and predatory
+carabid assemblages are more strongly associated with
+landscape structure. Conservation management needs to
+consider these spatially varied responses of functional
+groups to optimise diversity and biological pest control
+service. In the intensively managed agricultural landscape
+of the NCP, a tailored increase in habitat diversity and
+local plant diversity can therefore provide a good starting
+point to support the carabid diversity and assemblage
+structure. In the long term, the establishment of a
+protected area network specifically based on strongly
+degraded agricultural habitats left to natural vegetation
+succession and linking the overall agricultural landscape
+with remnants of pristine habitats could enable the future
+enhancement of the carabid biodiversity and their
+biological pest control service.</p>
+    </sec>
+    <sec id="sec-6">
+      <title>Acknowledgements</title>
+      <p>The authors are greatly indebted to the National Natural
+Science Foundation of China (30800150 and 41271198)
+and the China University Scientific Fund (2014JD067).</p>
+      <p>We are also very grateful to Dr. Hongbin Liang from the
+Institute of Zoology at the Chinese Academy of Sciences
+for his great help with the identification of carabid
+specimens. We also would finally like to thank two anonymous
+reviewers for their valuable suggestions and comments,
+which were of great help in improving the paper.</p>
+      <p>2014 The Authors. Insect Conservation and Diversity published by John Wiley &amp; Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+Editor: Alan Stewart
+Associate editor: Robert Ewers
+2014 The Authors. Insect Conservation and Diversity published by John Wiley &amp; Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176</p>
+    </sec>
+    <sec id="sec-7">
+      <title>Appendix</title>
+      <p>6.0
+22.2
+9
+306
+15
+1
+372
+10
+5
+1
+3
+144
+10
+758
+7
+92
+15</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Aavik</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Liira</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2010</year>
+          )
+          <article-title>Quantifying the effect of organic farming, field boundary type and landscape structure on the vegetation of field boundaries</article-title>
+          .
+          <source>Agriculture, Ecosystems &amp; Environment</source>
+          ,
+          <volume>135</volume>
+          ,
+          <fpage>178</fpage>
+          -
+          <lpage>186</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Antonenko</surname>
+            ,
+            <given-names>O.P.</given-names>
+          </string-name>
+          (
+          <year>1980</year>
+          )
+          <article-title>Remove from marked Records Biological peculiarities of predacious carabids and their role in the reduction of numbers of the noxious pentatomid (Eurygaster integriceps) in the Saratov region</article-title>
+          .
+          <source>Zoologicheskii Zhurnal</source>
+          ,
+          <volume>59</volume>
+          ,
+          <fpage>1634</fpage>
+          -
+          <lpage>1643</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Asteraki</surname>
+            ,
+            <given-names>E.J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hart</surname>
+            ,
+            <given-names>B.J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Ings</surname>
+            ,
+            <given-names>T.C.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Manley</surname>
+            ,
+            <given-names>W.J.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          )
+          <article-title>Factors influencing the plant and invertebrate diversity of arable field margins</article-title>
+          .
+          <source>Agriculture, Ecosystems and Environment</source>
+          ,
+          <volume>102</volume>
+          ,
+          <fpage>219</fpage>
+          -
+          <lpage>231</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Aviron</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Burel</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Baudry</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Schermann</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          (
+          <year>2005</year>
+          )
+          <article-title>Carabid assemblages in agricultural landscapes: impacts of habitat features, landscape context at different spatial scales and farming intensity</article-title>
+          .
+          <source>Agriculture, Ecosystems &amp; Environment</source>
+          ,
+          <volume>108</volume>
+          ,
+          <fpage>205</fpage>
+          -
+          <lpage>217</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Axmacher</surname>
+            ,
+            <given-names>J.C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Brehm</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hemp</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          , Tu€nte, H.,
+          <string-name>
+            <surname>Lyaruu</surname>
+            ,
+            <given-names>H.V.M.</given-names>
+          </string-name>
+          ,
+          <article-title>Mu€ller-</article-title>
+          <string-name>
+            <surname>Hohenstein</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Fiedler</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2009</year>
+          )
+          <article-title>Determinants of diversity in afrotropical herbivorous insects (Lepidoptera: Geometridae): plant diversity, vegetation structure or abiotic factors</article-title>
+          ?
+          <source>Journal of Biogeography</source>
+          ,
+          <volume>36</volume>
+          ,
+          <fpage>337</fpage>
+          -
+          <lpage>349</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Bassa</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Boutin</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Chamorro</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Sans</surname>
+            ,
+            <given-names>F.X.</given-names>
+          </string-name>
+          (
+          <year>2011</year>
+          )
+          <article-title>Effects of farming management and landscape heterogeneity on plant species composition of Mediterranean field boundaries</article-title>
+          .
+          <source>Agriculture, Ecosystems &amp; Environment</source>
+          ,
+          <volume>141</volume>
+          ,
+          <fpage>455</fpage>
+          -
+          <lpage>460</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Batary</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Baldi</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Sze</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Podlussany</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rozner</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          &amp; Erdo}s,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          (
+          <year>2007</year>
+          )
+          <article-title>Responses of grassland specialist and generalist beetles to management and landscape complexity</article-title>
+          .
+          <source>Diversity and Distribution</source>
+          ,
+          <volume>13</volume>
+          ,
+          <fpage>196</fpage>
+          -
+          <lpage>202</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Batary</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Holzschuh</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Orci</surname>
+            ,
+            <given-names>K.M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Samu</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Tscharntke</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          (
+          <year>2012</year>
+          )
+          <article-title>Responses of plant, insect and spider biodiversity to local and landscape scale management intensity in cereal crops and grasslands</article-title>
+          .
+          <source>Agriculture, Ecosystems and Environment</source>
+          ,
+          <volume>146</volume>
+          ,
+          <fpage>130</fpage>
+          -
+          <lpage>136</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Bazzaz</surname>
+            ,
+            <given-names>F.A.</given-names>
+          </string-name>
+          (
+          <year>1975</year>
+          )
+          <article-title>Plant species diversity in old-field successional ecosystems in southern Illinois</article-title>
+          . Ecology,
+          <volume>56</volume>
+          ,
+          <fpage>485</fpage>
+          -
+          <lpage>488</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Bennett</surname>
+            ,
+            <given-names>A.F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Radford</surname>
+            ,
+            <given-names>J.Q.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Haslem</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>Properties of land mosaics: implications for nature conservation in agricultural environments</article-title>
+          .
+          <source>Biological Conservation</source>
+          ,
+          <volume>133</volume>
+          ,
+          <fpage>250</fpage>
+          -
+          <lpage>264</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Blake</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Foster</surname>
+            ,
+            <given-names>G.N.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Eyre</surname>
+            ,
+            <given-names>M.D.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Luff</surname>
+            ,
+            <given-names>M.L.</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          )
+          <article-title>Effects of habitat type and grassland management practice on the body size distribution of carabid beetles</article-title>
+          .
+          <source>Pedobiologia</source>
+          ,
+          <volume>28</volume>
+          ,
+          <fpage>502</fpage>
+          -
+          <lpage>512</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Bohan</surname>
+            ,
+            <given-names>D.A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Boursault</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Brooks</surname>
+            ,
+            <given-names>D.R.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Sandrine</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          (
+          <year>2011</year>
+          )
+          <article-title>National-scale regulation of the weed seed bank by carabid predators</article-title>
+          .
+          <source>Journal of Applied Ecology</source>
+          ,
+          <volume>48</volume>
+          ,
+          <fpage>888</fpage>
+          -
+          <lpage>898</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Brandmayr</surname>
+            ,
+            <given-names>T.Z.</given-names>
+          </string-name>
+          (
+          <year>1990</year>
+          )
+          <article-title>Spermophagous (seed-eating) ground beetles: first comparison of the diet and ecology of the Harpaline genera Harpalus and Ophonus (Col.: Carabidae)</article-title>
+          .
+          <article-title>The Role of Ground Beetles in Ecological and Environmental Studies (ed</article-title>
+          . by N.E. Stork), pp.
+          <fpage>307</fpage>
+          -
+          <lpage>316</lpage>
+          . Intercept, Andover, Hampshire, UK.
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Brose</surname>
+            ,
+            <given-names>U.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>Bottom-up control of carabid beetle communities in early successional wetlands: mediated by vegetation structure or plant diversity?</article-title>
+          <source>Oecologia</source>
+          ,
+          <volume>135</volume>
+          ,
+          <fpage>407</fpage>
+          -
+          <lpage>413</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Burel</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Baudry</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Butet</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Clergeau</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Delettre</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Le Coeur</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Dubs</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Morvan</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Paillat</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Petit</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Thenail</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Brunel</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Lefeuvre</surname>
+            ,
+            <given-names>J.C.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          )
+          <article-title>Comparative biodiversity along a gradient of agricultural landscapes</article-title>
+          .
+          <source>Acta Oecologica</source>
+          ,
+          <volume>19</volume>
+          ,
+          <fpage>47</fpage>
+          -
+          <lpage>60</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Burel</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Butet</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Delettre</surname>
+            ,
+            <given-names>Y.R.</given-names>
+          </string-name>
+          &amp; de la Pen~a,
+          <string-name>
+            <surname>N.M.</surname>
+          </string-name>
+          (
+          <year>2004</year>
+          )
+          <article-title>Differential response of selected taxa to landscape context and agricultural intensification</article-title>
+          .
+          <source>Landscape and Urban Planning</source>
+          ,
+          <volume>67</volume>
+          ,
+          <fpage>195</fpage>
+          -
+          <lpage>204</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Carcamo</surname>
+            ,
+            <given-names>H.A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Niemala</surname>
+            ,
+            <given-names>J.K.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Spence</surname>
+            ,
+            <given-names>J.R.</given-names>
+          </string-name>
+          (
+          <year>1995</year>
+          )
+          <article-title>Farming and ground beetles - effects of agronomic practice on populations and community structure</article-title>
+          .
+          <source>Canadian Entomologist</source>
+          ,
+          <volume>127</volume>
+          ,
+          <fpage>123</fpage>
+          -
+          <lpage>140</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Clough</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kruess</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kleijn</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Tscharntke</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          (
+          <year>2005</year>
+          )
+          <article-title>Spider diversity in cereal fields: comparing factors at local, landscape and regional scales</article-title>
+          .
+          <source>Journal of Biogeography</source>
+          ,
+          <volume>11</volume>
+          ,
+          <fpage>2007</fpage>
+          -
+          <lpage>2014</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Clough</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kruess</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Tscharntke</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          (
+          <year>2007</year>
+          )
+          <article-title>Organic versus conventional arable farming systems: functional grouping helps understand staphylinid response</article-title>
+          .
+          <source>Agriculture, Ecosystems &amp; Environment</source>
+          ,
+          <volume>118</volume>
+          ,
+          <fpage>285</fpage>
+          -
+          <lpage>290</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Cole</surname>
+            ,
+            <given-names>L.J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>McCracken</surname>
+            ,
+            <given-names>D.I.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Nennis</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Downie</surname>
+            ,
+            <given-names>I.S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Griffin</surname>
+            ,
+            <given-names>A.L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Foster</surname>
+            ,
+            <given-names>G.N.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Murphy</surname>
+            ,
+            <given-names>K.J.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Waterhouse</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          )
+          <article-title>Relationships between agricultural management and ecological groups of ground beetles (Coleoptera: Carabidae) on Scottish farmland</article-title>
+          . Agriculture, Ecosystems &amp; Environment,
+          <volume>93</volume>
+          ,
+          <fpage>323</fpage>
+          -
+          <lpage>336</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Colwell</surname>
+            ,
+            <given-names>R.K.</given-names>
+          </string-name>
+          (
+          <year>2013</year>
+          )
+          <article-title>EstimateS: Statistical estimation of species richness and shared species from samples</article-title>
+          .
+          <source>Version</source>
+          <volume>9</volume>
+          . &lt;http:// purl.oclc.org/estimates&gt; 16th
+          <year>September 2013</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Concepcion</surname>
+            ,
+            <given-names>E.D.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Dıaz</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2011</year>
+          )
+          <article-title>Field, landscape and regional effects of farmland management on specialist open-land birds: does body size matter? Agriculture, Ecosystems</article-title>
+          and Environment,
+          <volume>142</volume>
+          ,
+          <fpage>303</fpage>
+          -
+          <lpage>310</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>Concepcion</surname>
+            ,
+            <given-names>E.D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Dıaz</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Baquero</surname>
+            ,
+            <given-names>R.A.</given-names>
+          </string-name>
+          (
+          <year>2008</year>
+          )
+          <article-title>Effects of landscape complexity on the ecological effectiveness of agrienvironment schemes</article-title>
+          .
+          <source>Landscape Ecology</source>
+          ,
+          <volume>23</volume>
+          ,
+          <fpage>135</fpage>
+          -
+          <lpage>148</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Deng</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>1983</year>
+          )
+          <article-title>The feeding habits of thirteen species of ground beetles (Coleoptera: Carabidae)</article-title>
+          .
+          <source>Acta Entomologica Sinica</source>
+          ,
+          <volume>26</volume>
+          ,
+          <fpage>356</fpage>
+          -
+          <lpage>357</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>Deng</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wang</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Li</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>1985</year>
+          )
+          <article-title>Bionomics of predacious carabids in Heilongjiang</article-title>
+          .
+          <source>Acta Entomologica Sinica</source>
+          ,
+          <volume>28</volume>
+          ,
+          <fpage>281</fpage>
+          -
+          <lpage>287</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>Denno</surname>
+            ,
+            <given-names>R.F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Gratton</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Peterson</surname>
+            ,
+            <given-names>M.A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Langellotto</surname>
+            ,
+            <given-names>G.A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Finke</surname>
+            ,
+            <given-names>D.L.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Huberty</surname>
+            ,
+            <given-names>A.F.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          )
+          <article-title>Bottom-up forces mediate natural-enemy impact in a phytophagous insect community</article-title>
+          .
+          <source>Ecology</source>
+          ,
+          <volume>83</volume>
+          ,
+          <fpage>1443</fpage>
+          -
+          <lpage>1458</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Dieko</surname>
+          </string-name>
+          €tter, T.,
+          <string-name>
+            <surname>Wamser</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wolters</surname>
+            ,
+            <given-names>V.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Birkhofer</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2010</year>
+          )
+          <article-title>Landscape and management effects on structure and function of soil arthropod communities in winter wheat</article-title>
+          .
+          <source>Agriculture, Ecosystems &amp; Environment</source>
+          ,
+          <volume>137</volume>
+          ,
+          <fpage>108</fpage>
+          -
+          <lpage>112</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <article-title>EBIBAG (Editor Board for Inventory on the biodiversity in agricultural region) (2009) Inventory on the Biodiversity in Agricultural Region</article-title>
+          . Chinese Environmental Sciences Press, Beijing, China.
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Fiedler</surname>
+            ,
+            <given-names>A.K.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Landis</surname>
+            ,
+            <given-names>D.A.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Wratten</surname>
+            ,
+            <given-names>S.D.</given-names>
+          </string-name>
+          (
+          <year>2008</year>
+          )
+          <article-title>Maximizing ecosystem services from conservation biological control: the role of habitat management</article-title>
+          .
+          <source>Biological Control</source>
+          ,
+          <volume>45</volume>
+          ,
+          <fpage>254</fpage>
+          -
+          <lpage>271</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <surname>Fischer</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Lindenmayer</surname>
+            ,
+            <given-names>D.B.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Manning</surname>
+            ,
+            <given-names>A.D.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>Biodiversity, ecosystem function, and resilience: ten guiding principles for commodity production landscapes</article-title>
+          .
+          <source>Frontiers in Ecology and the Environment</source>
+          ,
+          <volume>4</volume>
+          ,
+          <fpage>80</fpage>
+          -
+          <lpage>86</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <surname>Gabriel</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Sait</surname>
+            ,
+            <given-names>S.M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hodgson</surname>
+            ,
+            <given-names>J.A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Schmutz</surname>
+            ,
+            <given-names>U.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kunin</surname>
+            ,
+            <given-names>W.E.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Benton</surname>
+            ,
+            <given-names>T.G.</given-names>
+          </string-name>
+          (
+          <year>2010</year>
+          )
+          <article-title>Scale matters: the impact of organic farming on biodiversity at different spatial scales</article-title>
+          .
+          <source>Ecology Letters</source>
+          ,
+          <volume>13</volume>
+          ,
+          <fpage>858</fpage>
+          -
+          <lpage>869</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <surname>Gard</surname>
+            ,
+            <given-names>T.C.</given-names>
+          </string-name>
+          (
+          <year>1984</year>
+          )
+          <article-title>Persistence in food webs</article-title>
+          . Mathematical Ecology (ed. by
+          <string-name>
+            <given-names>S.A.</given-names>
+            <surname>Levin</surname>
+          </string-name>
+          and
+          <string-name>
+            <surname>T.G</surname>
+          </string-name>
+          . Hallam), pp.
+          <fpage>208</fpage>
+          -
+          <lpage>219</lpage>
+          . Springer Verlag, Berlin, Germany.
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <string-name>
+            <surname>Greenslade</surname>
+            ,
+            <given-names>P.J.M.</given-names>
+          </string-name>
+          (
+          <year>1964</year>
+          )
+          <article-title>Pitfall trapping as a method for studying populations of Carabidae (Coleoptera)</article-title>
+          .
+          <source>Journal of Animal Ecology</source>
+          ,
+          <volume>33</volume>
+          ,
+          <fpage>301</fpage>
+          -
+          <lpage>310</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <string-name>
+            <surname>Guo</surname>
+            ,
+            <given-names>J.H.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Liu</surname>
+            ,
+            <given-names>X.J.</given-names>
+          </string-name>
+          , Zhang,
+          <string-name>
+            <given-names>Y.</given-names>
+            ,
+            <surname>Shen</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.L.</given-names>
+            ,
+            <surname>Han</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>W.X.</given-names>
+            ,
+            <surname>Zhang</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>W.F.</given-names>
+            ,
+            <surname>Christie</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>P.</given-names>
+            ,
+            <surname>Goulding</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>K.W.T.</given-names>
+            ,
+            <surname>Vitousek</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>P.M.</given-names>
+            &amp;
+            <surname>Zhang</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>F.S.</surname>
+          </string-name>
+          (
+          <year>2010</year>
+          )
+          <article-title>Significant acidification in major Chinese croplands</article-title>
+          .
+          <source>Science</source>
+          ,
+          <volume>327</volume>
+          ,
+          <fpage>1008</fpage>
+          -
+          <lpage>1010</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <string-name>
+            <surname>Hammer</surname>
+          </string-name>
+          , Ø.,
+          <string-name>
+            <surname>Harper</surname>
+            ,
+            <given-names>D.A.T.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Ryan</surname>
+            ,
+            <given-names>P.D.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          )
+          <article-title>PAST: paleontological statistics software package for education and data analysis</article-title>
+          . &lt;http://palaeo-electronica.org/
+          <year>2001</year>
+          _1/past/issue1_
+          <fpage>01</fpage>
+          . htm&gt;
+          <issue>12th</issue>
+          <year>October 2009</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <string-name>
+            <surname>Harvey</surname>
+            ,
+            <given-names>J.A</given-names>
+          </string-name>
+          .,
+          <string-name>
+            <surname>van der Putten</surname>
+          </string-name>
+          , W.H.,
+          <string-name>
+            <surname>Turin</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wagenaar</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Bezemer</surname>
+            ,
+            <given-names>T.M.</given-names>
+          </string-name>
+          (
+          <year>2008</year>
+          )
+          <article-title>Effects of changes in plant species richness and community traits on carabid assemblages and feeding guilds</article-title>
+          .
+          <source>Agriculture, Ecosystems and Environment</source>
+          ,
+          <volume>127</volume>
+          ,
+          <fpage>100</fpage>
+          -
+          <lpage>106</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          <string-name>
+            <surname>Hendrickx</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Maelfait</surname>
+          </string-name>
+          , J.,
+          <string-name>
+            <surname>Van Wingerden</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Schweiger</surname>
+            ,
+            <given-names>O.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Speelmans</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Aviron</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Augenstein</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Billeter</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bailey</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bukacek</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Burel</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          , Dieko€tter, T.,
+          <string-name>
+            <surname>Dirksen</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Herzog</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Liira</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Roubalova</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Vandomme</surname>
+            ,
+            <given-names>V.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Bugter</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>2007</year>
+          )
+          <article-title>How landscape structure, land-use intensity and habitat diversity affect components of total arthropod diversity in agricultural landscapes</article-title>
+          .
+          <source>Journal of Applied Ecology</source>
+          ,
+          <volume>44</volume>
+          ,
+          <fpage>340</fpage>
+          -
+          <lpage>351</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          <string-name>
+            <surname>Henle</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Davies</surname>
+            ,
+            <given-names>K.F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kleyer</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Margules</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Settele</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          )
+          <article-title>Predictors of species sensitivity to fragmentation</article-title>
+          .
+          <source>Biodiversty Conservation</source>
+          ,
+          <volume>13</volume>
+          ,
+          <fpage>207</fpage>
+          -
+          <lpage>251</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          <string-name>
+            <surname>Holt</surname>
+            ,
+            <given-names>R.D.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          )
+          <article-title>Food webs in space: an island biogeographic perspective</article-title>
+          . Food Webs:
+          <article-title>Integration of Patterns and Dynamics (ed. by G.A. Polis and</article-title>
+          K.
+          <source>O. Winemiller)</source>
+          , pp.
+          <fpage>313</fpage>
+          -
+          <lpage>323</lpage>
+          . Chapman &amp; Hall, New York City, New York.
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          <string-name>
+            <surname>Hunter</surname>
+            ,
+            <given-names>M.D.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Price</surname>
+            ,
+            <given-names>P.W.</given-names>
+          </string-name>
+          (
+          <year>1992</year>
+          )
+          <article-title>Playing chutes and ladders: heterogeneity and the relative roles of bottom-up and top-down forces in natural communities</article-title>
+          .
+          <source>Ecology</source>
+          ,
+          <volume>73</volume>
+          ,
+          <fpage>724</fpage>
+          -
+          <lpage>732</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          <string-name>
+            <surname>Hurka</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Jarosık</surname>
+            ,
+            <given-names>V.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>Larval omnivory in Amara aenea (Coleoptera: Carabidae)</article-title>
+          .
+          <source>European Journal of Entomology</source>
+          ,
+          <volume>100</volume>
+          ,
+          <fpage>329</fpage>
+          -
+          <lpage>335</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          <string-name>
+            <surname>Jactel</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Brockerhoff</surname>
+            ,
+            <given-names>E.G.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Duelli</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          (
+          <year>2005</year>
+          )
+          <article-title>A test of the biodiversity-stability theory: meta-analysis of tree species diversity effects in insect pest infestations, and re-examination of responsible factors</article-title>
+          .
+          <source>Forest Diversity and Function: Temperate and Boreal</source>
+          Systems (ed. by M.
+          <article-title>Scherer-Lorenzen, Ch</article-title>
+          . Ko€rner and E.D. Schulze), pp.
+          <fpage>235</fpage>
+          -
+          <lpage>261</lpage>
+          . Springer, Berlin, Heidelberg, Germany.
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          <string-name>
+            <surname>Jetz</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Carbone</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Fulford</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Brown</surname>
+            ,
+            <given-names>J.H.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          )
+          <article-title>The scaling of animal space use</article-title>
+          .
+          <source>Science</source>
+          ,
+          <volume>306</volume>
+          ,
+          <fpage>266</fpage>
+          -
+          <lpage>268</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          <string-name>
+            <surname>Jonason</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Smith</surname>
+            ,
+            <given-names>H.G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bengtsson</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Birkhofer</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2013</year>
+          )
+          <article-title>Landscape simplification promotes weed seed predation by carabid beetles (Coleoptera: Carabidae)</article-title>
+          .
+          <source>Landscape Ecology</source>
+          ,
+          <volume>28</volume>
+          ,
+          <fpage>487</fpage>
+          -
+          <lpage>494</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          <string-name>
+            <surname>Jones-Walters</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          (
+          <year>2007</year>
+          )
+          <article-title>Pan-European ecological networks</article-title>
+          .
+          <source>Journal for Nature Conservation</source>
+          ,
+          <volume>15</volume>
+          ,
+          <fpage>262</fpage>
+          -
+          <lpage>264</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          <string-name>
+            <surname>Ju</surname>
+            ,
+            <given-names>X.T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kou</surname>
+            ,
+            <given-names>C.L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Zhang</surname>
+            ,
+            <given-names>F.S.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Christie</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>Nitrogen balance and groundwater nitrate contamination: Comparison among three intensive cropping systems on the North China Plain</article-title>
+          .
+          <source>Environmental Pollution</source>
+          ,
+          <volume>143</volume>
+          ,
+          <fpage>117</fpage>
+          -
+          <lpage>125</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          <string-name>
+            <surname>Kareiva</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          (
+          <year>1983</year>
+          )
+          <article-title>Influence of vegetation texture on herbivore populations: resource concentration and herbivore movement. Variable Plants and Herbivores in Natural and Managed Systems (ed</article-title>
+          . by
+          <string-name>
+            <given-names>R.F.</given-names>
+            <surname>Denno</surname>
+          </string-name>
+          and M.
+          <source>S. McClure)</source>
+          , pp.
+          <fpage>259</fpage>
+          -
+          <lpage>289</lpage>
+          . Academic Press, New York City, New York.
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          <string-name>
+            <surname>Kirk</surname>
+            ,
+            <given-names>V.M.</given-names>
+          </string-name>
+          (
+          <year>1973</year>
+          )
+          <article-title>Biology of a ground bootle, Harpalus pensylvanicus</article-title>
+          .
+          <source>Annals of the Entomological Society of America</source>
+          ,
+          <volume>66</volume>
+          ,
+          <fpage>513</fpage>
+          -
+          <lpage>518</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          <string-name>
+            <surname>Kleijn</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Sutherland</surname>
+            ,
+            <given-names>W.J.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>How effective are European agrienvironment schemes in conserving and promoting biodiversity</article-title>
+          ?
+          <source>Journal of Applied Ecology</source>
+          ,
+          <volume>40</volume>
+          ,
+          <fpage>947</fpage>
+          -
+          <lpage>969</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation>
+          <string-name>
+            <surname>Kotze</surname>
+            ,
+            <given-names>D.J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Brandmayr</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Casale</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Dauffy-Richard</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Dekoninck</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Koivula</surname>
+            ,
+            <given-names>M.J.</given-names>
+          </string-name>
+          , Lo€vei,
+          <string-name>
+            <given-names>G.L.</given-names>
+            ,
+            <surname>Mossakowski</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>D.</given-names>
+            ,
+            <surname>Noordijk</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            ,
+            <surname>Paarmann</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>W.</given-names>
+            ,
+            <surname>Pizzolotto</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>R.</given-names>
+            ,
+            <surname>Saska</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>P.</given-names>
+            ,
+            <surname>Schwerk</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            ,
+            <surname>Serrano</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            ,
+            <surname>Szyszko</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            ,
+            <surname>Taboada</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            ,
+            <surname>Turin</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>H.</given-names>
+            ,
+            <surname>Venn</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S.</given-names>
+            ,
+            <surname>Vermeulen</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>R.</given-names>
+            &amp;
+            <surname>Zetto</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>T.</surname>
+          </string-name>
+          (
+          <year>2011</year>
+          )
+          <article-title>Forty years of carabid beetle research in Europe-from taxonomy, biology, ecology and population studies to bioindication, habitat assessment and conservation</article-title>
+          .
+          <source>ZooKeys</source>
+          ,
+          <volume>100</volume>
+          ,
+          <fpage>55</fpage>
+          -
+          <lpage>148</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <mixed-citation>
+          <string-name>
+            <surname>Kromp</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>Carabid beetles in sustainable agriculture: a review on pest control efficacy, cultivation impacts and enhancement</article-title>
+          . Agriculture, Ecosystems &amp; Environment,
+          <volume>74</volume>
+          ,
+          <fpage>187</fpage>
+          -
+          <lpage>228</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <mixed-citation>
+          <string-name>
+            <surname>Landis</surname>
+            ,
+            <given-names>D.A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wratten</surname>
+            ,
+            <given-names>S.D.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Gurr</surname>
+            ,
+            <given-names>G.M.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          )
+          <article-title>Habitat management to conserve Natural enemies of arthropod pests in agriculture</article-title>
+          .
+          <source>Annual Review of Entomology</source>
+          ,
+          <volume>45</volume>
+          ,
+          <fpage>175</fpage>
+          -
+          <lpage>201</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <mixed-citation>
+          <string-name>
+            <surname>Lawton</surname>
+            ,
+            <given-names>J.H.</given-names>
+          </string-name>
+          (
+          <year>1983</year>
+          )
+          <article-title>Plant architecture and the diversity of phytophagous insects</article-title>
+          .
+          <source>Annual Review of Entomology</source>
+          ,
+          <volume>28</volume>
+          ,
+          <fpage>23</fpage>
+          -
+          <lpage>39</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <mixed-citation>
+          <string-name>
+            <surname>Legendre</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Gallagher</surname>
+            ,
+            <given-names>E.D.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          )
+          <article-title>Ecologically meaningful transformations for ordination of species data</article-title>
+          .
+          <source>Oecologia</source>
+          ,
+          <volume>129</volume>
+          ,
+          <fpage>271</fpage>
+          -
+          <lpage>280</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <mixed-citation>
+          <string-name>
+            <surname>Liang</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Yu</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          )
+          <article-title>Species of ground beetles (Coleopteran: Carabidae) predating oriental armyworm (Lepidoptera: Notuidae) in China</article-title>
+          .
+          <source>Journal of Environmental Entomology</source>
+          ,
+          <volume>22</volume>
+          ,
+          <fpage>160</fpage>
+          -
+          <lpage>167</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <mixed-citation>
+          <string-name>
+            <surname>Liu</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Axmacher</surname>
+            ,
+            <given-names>J.C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wang</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Li</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Yu</surname>
+            ,
+            <given-names>Z.</given-names>
+          </string-name>
+          (
+          <year>2007</year>
+          )
+          <article-title>Ground beetle (Coleoptera: Carabidae) inventories: a comparison of light and pitfall trapping</article-title>
+          .
+          <source>Bulletin of Entomological Research</source>
+          ,
+          <volume>97</volume>
+          ,
+          <fpage>577</fpage>
+          -
+          <lpage>583</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <mixed-citation>
+          <string-name>
+            <surname>Liu</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Axmacher</surname>
+            ,
+            <given-names>J.C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wang</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Li</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Yu</surname>
+            ,
+            <given-names>Z.</given-names>
+          </string-name>
+          (
+          <year>2010</year>
+          )
+          <article-title>Ground beetles (Coleoptera: Carabidae) in the intensively cultivated agricultural landscape of Northern China - implications for biodiversity conservation</article-title>
+          .
+          <source>Insect Conservation and Diversity</source>
+          ,
+          <volume>3</volume>
+          ,
+          <fpage>34</fpage>
+          -
+          <lpage>43</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref58">
+        <mixed-citation>
+          <string-name>
+            <surname>Liu</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Axmacher</surname>
+            ,
+            <given-names>J.C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wang</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Li</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Yu</surname>
+            ,
+            <given-names>Z.</given-names>
+          </string-name>
+          (
+          <year>2012</year>
+          )
+          <article-title>Ground beetle (Coleoptera: Carabidae) assemblages of restored semi-natural habitats and intensively cultivated fields in Northern China</article-title>
+          .
+          <source>Restoration Ecology</source>
+          ,
+          <volume>20</volume>
+          ,
+          <fpage>234</fpage>
+          -
+          <lpage>239</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <mixed-citation>
+          <string-name>
+            <surname>Liu</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Yu</surname>
+            ,
+            <given-names>Z.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Gu</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Axmacher</surname>
+            ,
+            <given-names>J.C.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>Diversity of carabids (Coleoptera, Carabidae) in the desalinized agricultural landscape of Quzhou county</article-title>
+          , China. Agriculture, Ecosystems &amp; Environment,
+          <volume>113</volume>
+          ,
+          <fpage>45</fpage>
+          -
+          <lpage>50</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref60">
+        <mixed-citation>
+          <string-name>
+            <surname>Lo</surname>
+            €vei,
+            <given-names>G.L.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Magura</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>Body size changes in ground beetle assemblages-a reanalysis of Braun et al</article-title>
+          . (
+          <year>2004</year>
+          )
+          <article-title>'s data</article-title>
+          .
+          <source>Ecological Entomology</source>
+          ,
+          <volume>31</volume>
+          ,
+          <fpage>411</fpage>
+          -
+          <lpage>414</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref61">
+        <mixed-citation>
+          <string-name>
+            <surname>Lund</surname>
+            ,
+            <given-names>R.D.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Turpin</surname>
+            ,
+            <given-names>F.T.</given-names>
+          </string-name>
+          (
+          <year>1977</year>
+          )
+          <article-title>Carahid damage to weed seeds found in Indiana cornfields</article-title>
+          .
+          <source>Environmental Entomology</source>
+          ,
+          <volume>6</volume>
+          ,
+          <fpage>695</fpage>
+          -
+          <lpage>698</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref62">
+        <mixed-citation>
+          <string-name>
+            <surname>Matson</surname>
+            ,
+            <given-names>P.A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Parton</surname>
+            ,
+            <given-names>W.J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Power</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Swift</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>1997</year>
+          )
+          <article-title>Agricultural intensification and ecosystem properties</article-title>
+          .
+          <source>Science</source>
+          ,
+          <volume>277</volume>
+          ,
+          <fpage>504</fpage>
+          -
+          <lpage>509</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref63">
+        <mixed-citation>
+          <string-name>
+            <surname>McCoy</surname>
+            ,
+            <given-names>E.D.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Bell</surname>
+            ,
+            <given-names>S.S.</given-names>
+          </string-name>
+          (
+          <year>1991</year>
+          )
+          <article-title>Habitat structure: the evolution and diversification of a complex topic. Habitat Structure: The Physical Arrangement of Objects in Space (ed</article-title>
+          . by
+          <string-name>
+            <given-names>S.S.</given-names>
+            <surname>Bell</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>E.D.</given-names>
+            <surname>McCoy</surname>
+          </string-name>
+          and
+          <string-name>
+            <given-names>H.R.</given-names>
+            <surname>Mushinsky</surname>
+          </string-name>
+          ), pp.
+          <fpage>3</fpage>
+          -
+          <lpage>27</lpage>
+          . Chapman and Hall, London, UK.
+        </mixed-citation>
+      </ref>
+      <ref id="ref64">
+        <mixed-citation>
+          <string-name>
+            <surname>Mcgarigal</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cushman</surname>
+            ,
+            <given-names>S.A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Neel</surname>
+            ,
+            <given-names>M.C.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Ene</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          )
+          <article-title>FRAGSTATS: Spatial Pattern Analysis Program for categorical maps</article-title>
+          . &lt;http://www.umass.edu/landeco/research/fragstats/ fragstats.html&gt; 12th May 2013
+        </mixed-citation>
+      </ref>
+      <ref id="ref65">
+        <mixed-citation>
+          <string-name>
+            <surname>Mitchell</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          (
+          <year>1963</year>
+          )
+          <article-title>Ecology of two carabid beetles, Bembidion lampros (Herbst) and Trechus quadristriatus (Schrank). II. Studies on populations of adults in the field, with special reference to the technique of pitfall trapping</article-title>
+          .
+          <source>Journal of Animal Ecology</source>
+          ,
+          <volume>32</volume>
+          ,
+          <fpage>377</fpage>
+          -
+          <lpage>392</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref66">
+        <mixed-citation>
+          <string-name>
+            <surname>Mortimer</surname>
+            ,
+            <given-names>S.R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hollier</surname>
+            ,
+            <given-names>J.A.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Brown</surname>
+            ,
+            <given-names>V.K.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          )
+          <article-title>Interactions between plant and insect diversity in the restoration of lowland calcareous grasslands in Southern Britain</article-title>
+          . Applied Vegetation Science,
+          <volume>1</volume>
+          ,
+          <fpage>101</fpage>
+          -
+          <lpage>114</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref67">
+        <mixed-citation>
+          <string-name>
+            <surname>Murdoch</surname>
+            ,
+            <given-names>W.W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Evans</surname>
+            ,
+            <given-names>F.C.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Peterson</surname>
+            ,
+            <given-names>C.H.</given-names>
+          </string-name>
+          (
+          <year>1972</year>
+          )
+          <article-title>Diversity and pattern in plants and insects</article-title>
+          .
+          <source>Ecology</source>
+          ,
+          <volume>53</volume>
+          ,
+          <fpage>819</fpage>
+          -
+          <lpage>829</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref68">
+        <mixed-citation>
+          <string-name>
+            <surname>Murison</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bullock</surname>
+            ,
+            <given-names>J.M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Underhill-Day</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Langston</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Brown</surname>
+            ,
+            <given-names>A.F.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Sutherland</surname>
+            ,
+            <given-names>W.J.</given-names>
+          </string-name>
+          (
+          <year>2007</year>
+          )
+          <article-title>Habitat type determines the effects of disturbance on the breeding productivity of the Dartford Warbler Sylvia undata</article-title>
+          .
+          <source>Ibis</source>
+          ,
+          <volume>149</volume>
+          (
+          <issue>Suppl</issue>
+          . 1),
+          <fpage>16</fpage>
+          -
+          <lpage>26</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref69">
+        <mixed-citation>
+          <string-name>
+            <surname>Norris</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2008</year>
+          )
+          <article-title>Agriculture and biodiversity conservation: opportunity knocks</article-title>
+          .
+          <source>Conservation Letters</source>
+          ,
+          <volume>1</volume>
+          ,
+          <fpage>2</fpage>
+          -
+          <lpage>11</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref70">
+        <mixed-citation>
+          <string-name>
+            <surname>Oksanen</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>Guillaume</given-names>
+            <surname>Blanchet</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>F.</given-names>
+            ,
+            <surname>Kindt</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>R</surname>
+          </string-name>
+          , Legendre,
+          <string-name>
+            <given-names>P.</given-names>
+            ,
+            <surname>Minchin</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>P.R.</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>O</given-names>
+            <surname>'Hara</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>R.B.</given-names>
+            ,
+            <surname>Simpson</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>G.L.</given-names>
+            ,
+            <surname>Solymos</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>P.</given-names>
+            ,
+            <surname>Stevens</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M.H.H.</given-names>
+            &amp;
+            <surname>Wagner</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>H.</surname>
+          </string-name>
+          (
+          <year>2012</year>
+          )
+          <article-title>Vegan: Community Ecology Package</article-title>
+          .
+          <source>R package version 2</source>
+          .0-
+          <fpage>5</fpage>
+          . &lt;http://CRAN.Rproject.org/package=vegan&gt; 10th
+          <source>March</source>
+          <year>2013</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref71">
+        <mixed-citation>
+          <string-name>
+            <surname>de la Pen</surname>
+            ~a,
+            <given-names>N.M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Butet</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Delettre</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Morant</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Burel</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>Landscape context and carabid beetles (Coleoptera: Carabidae) communities of hedgerows in western France</article-title>
+          .
+          <source>Agriculture, Ecosystems and Environment</source>
+          ,
+          <volume>94</volume>
+          ,
+          <fpage>59</fpage>
+          -
+          <lpage>72</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref72">
+        <mixed-citation>
+          <string-name>
+            <surname>Pfiffner</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Luka</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>Effects of low-input farming systems on carabids and epigeal spiders - a paired farm approach</article-title>
+          .
+          <source>Basic and Applied Ecology</source>
+          ,
+          <volume>4</volume>
+          ,
+          <fpage>117</fpage>
+          -
+          <lpage>127</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref73">
+        <mixed-citation>
+          <string-name>
+            <surname>Pinheiro</surname>
+            ,
+            <given-names>J.C.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Bates</surname>
+            ,
+            <given-names>D.M.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          )
+          <article-title>Mixed-Effects Models in S and S-plus</article-title>
+          . Springer, New York City, New York.
+        </mixed-citation>
+      </ref>
+      <ref id="ref74">
+        <mixed-citation>
+          <string-name>
+            <surname>Pinheiro</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bates</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          , DebRoy,
+          <string-name>
+            <given-names>S.</given-names>
+            &amp;
+            <surname>Sarkar</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>D.</surname>
+          </string-name>
+          ;
+          <string-name>
+            <given-names>R Core</given-names>
+            <surname>Team</surname>
+          </string-name>
+          (
+          <year>2013</year>
+          )
+          <article-title>nlme: Linear and Nonlinear Mixed Effects Models</article-title>
+          .
+          <source>R package version 3</source>
+          .
+          <fpage>1</fpage>
+          -
+          <lpage>108</lpage>
+          . http://cran.r-project.org/web/packages/ nlme/index.html 10th
+          <year>January 2013</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref75">
+        <mixed-citation>
+          <string-name>
+            <surname>Purtauf</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Dauber</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Wolters</surname>
+            ,
+            <given-names>V.</given-names>
+          </string-name>
+          (
+          <year>2005a</year>
+          )
+          <article-title>The response of carabids to landscape simplification differs between trophic groups</article-title>
+          .
+          <source>Oecologia</source>
+          ,
+          <volume>142</volume>
+          ,
+          <fpage>458</fpage>
+          -
+          <lpage>464</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref76">
+        <mixed-citation>
+          <string-name>
+            <surname>Purtauf</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Roschewitz</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Dauber</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Thies</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Tscharntke</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Wolters</surname>
+            ,
+            <given-names>V.</given-names>
+          </string-name>
+          (2005b)
+          <article-title>Landscape context of organic and conventional farms: influences on carabid beetle diversity</article-title>
+          .
+          <source>Agriculture. Ecosystems &amp; Environment</source>
+          ,
+          <volume>108</volume>
+          ,
+          <fpage>165</fpage>
+          -
+          <lpage>174</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref77">
+        <mixed-citation>
+          <string-name>
+            <given-names>R Core</given-names>
+            <surname>Team</surname>
+          </string-name>
+          (
+          <year>2012</year>
+          )
+          <article-title>R: A Language and Environment for Statistical Computing</article-title>
+          . R Foundation for Statistical Computing, Vienna, Austria.
+        </mixed-citation>
+      </ref>
+      <ref id="ref78">
+        <mixed-citation>
+          <string-name>
+            <surname>Ritchie</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Olff</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>Spatial scaling laws yield a synthetic theory of biodiversity</article-title>
+          .
+          <source>Nature</source>
+          ,
+          <volume>400</volume>
+          ,
+          <fpage>557</fpage>
+          -
+          <lpage>560</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref79">
+        <mixed-citation>
+          <string-name>
+            <surname>Roth</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Amrhein</surname>
+            ,
+            <given-names>V.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Peter</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Weber</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2008</year>
+          )
+          <article-title>A Swiss agri-environment scheme effectively enhances species richness for some taxa over time</article-title>
+          .
+          <source>Agriculture, Ecosystems and Environment</source>
+          ,
+          <volume>125</volume>
+          ,
+          <fpage>167</fpage>
+          -
+          <lpage>172</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref80">
+        <mixed-citation>
+          <string-name>
+            <surname>Sasakawa</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2007</year>
+          )
+          <article-title>Laboratory studies on larval feeding habits of Amara macronota (Coleoptera: Carabidae: Zabrini)</article-title>
+          .
+          <source>Applied Entomology and Zoology</source>
+          ,
+          <volume>42</volume>
+          ,
+          <fpage>669</fpage>
+          -
+          <lpage>674</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref81">
+        <mixed-citation>
+          <string-name>
+            <surname>Sasakawa</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2009</year>
+          )
+          <article-title>Effects of maternal diet on fecundity and larval development in the 'primitive' granivorous carabid amara (curtonotus) macronota</article-title>
+          .
+          <source>Entomologia Experimentalis Et Applicata</source>
+          ,
+          <volume>130</volume>
+          ,
+          <fpage>106</fpage>
+          -
+          <lpage>112</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref82">
+        <mixed-citation>
+          <string-name>
+            <surname>Scherber</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Eisenhauer</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Weisser</surname>
+            ,
+            <given-names>W.W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Schmid</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Voigt</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Fischer</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Schulze</surname>
+            ,
+            <given-names>E.D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Roscher</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Weigelt</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Allan</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Beßler</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bonkowski</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Buchmann</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Buscot</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Clement</surname>
+            ,
+            <given-names>L.W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Ebeling</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Engels</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Halle</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kertscher</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Klein</surname>
+            ,
+            <given-names>A.M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Koller</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          , Ko€nig,
+          <string-name>
+            <given-names>S.</given-names>
+            ,
+            <surname>Kowalski</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>E.</given-names>
+            ,
+            <surname>Kummer</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>V.</given-names>
+            ,
+            <surname>Kuu</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            ,
+            <surname>Lange</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M.</given-names>
+            ,
+            <surname>Lauterbach</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>D.</given-names>
+            ,
+            <surname>Middelhoff</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C.</given-names>
+            ,
+            <surname>Migunova</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>V.D.</given-names>
+            ,
+            <surname>Milcu</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            , Mu€ller, R.,
+            <surname>Partsch</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S.</given-names>
+            ,
+            <surname>Petermann</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.S.</given-names>
+            ,
+            <surname>Renker</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C.</given-names>
+            ,
+            <surname>Rottstock</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>T.</given-names>
+            ,
+            <surname>Sabais</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            ,
+            <surname>Scheu</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S.</given-names>
+            ,
+            <surname>Schumacher</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            ,
+            <surname>Temperton</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>V.M.</given-names>
+            &amp;
+            <surname>Tscharntke</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>T.</surname>
+          </string-name>
+          (
+          <year>2010</year>
+          )
+          <article-title>Bottom-up effects of plant diversity on multitrophic interactions in a biodiversity experiment</article-title>
+          .
+          <source>Nature</source>
+          ,
+          <volume>468</volume>
+          ,
+          <fpage>553</fpage>
+          -
+          <lpage>556</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref83">
+        <mixed-citation>
+          <string-name>
+            <given-names>Seric</given-names>
+            <surname>Jelaska</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>L.</given-names>
+            ,
+            <surname>Jesovnik</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            ,
+            <surname>Jelaska</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S.D.</given-names>
+            ,
+            <surname>Pirnat</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            ,
+            <surname>Kucinic</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M.</given-names>
+            &amp;
+            <surname>Durbesic</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>P.</surname>
+          </string-name>
+          (
+          <year>2010</year>
+          )
+          <article-title>Variations of carabid beetle and ant assemblages, and their morpho-ecological traits within natural temperate forests in Medvednica Nature Park</article-title>
+          . Sumarski list,
+          <volume>134</volume>
+          ,
+          <fpage>475</fpage>
+          -
+          <lpage>486</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref84">
+        <mixed-citation>
+          <string-name>
+            <surname>Siemann</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          )
+          <article-title>Experimental tests of effects of plant productivity and diversity on grassland arthropod diversity</article-title>
+          .
+          <source>Ecology</source>
+          ,
+          <volume>79</volume>
+          ,
+          <fpage>2057</fpage>
+          -
+          <lpage>2070</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref85">
+        <mixed-citation>
+          <string-name>
+            <surname>Siemann</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Tilman</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Haarstad</surname>
+            ,
+            <given-names>D.J.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Ritchie</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          )
+          <article-title>Experimental tests of the dependence of arthropod diversity on plant diversity</article-title>
+          .
+          <source>The American Naturalist</source>
+          ,
+          <volume>152</volume>
+          ,
+          <fpage>738</fpage>
+          -
+          <lpage>750</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref86">
+        <mixed-citation>
+          <article-title>So€derstro€m, B</article-title>
+          .,
+          <string-name>
+            <surname>Svensson</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Vessby</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Glimska€r</surname>
+          </string-name>
+          , A. (
+          <year>2001</year>
+          )
+          <article-title>Plants, insects and birds in semi-natural pastures in relation to local habitat and landscape factors</article-title>
+          .
+          <source>Biodiversity &amp; Conservation</source>
+          ,
+          <volume>10</volume>
+          ,
+          <fpage>1839</fpage>
+          -
+          <lpage>1863</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref87">
+        <mixed-citation>
+          <string-name>
+            <surname>Spence</surname>
+            ,
+            <given-names>J.R.</given-names>
+          </string-name>
+          &amp; Niemela€,
+          <string-name>
+            <surname>J.K.</surname>
+          </string-name>
+          (
+          <year>1994</year>
+          )
+          <article-title>Sampling carabid assemblages with pitfall traps: the madness and the method</article-title>
+          .
+          <source>Canadian Entomologist</source>
+          ,
+          <volume>126</volume>
+          ,
+          <fpage>881</fpage>
+          -
+          <lpage>894</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref88">
+        <mixed-citation>
+          <string-name>
+            <surname>Stiling</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Rossi</surname>
+            ,
+            <given-names>A.M.</given-names>
+          </string-name>
+          (
+          <year>1997</year>
+          )
+          <article-title>Experimental manipulations of topdown and bottom-up factors in a tri-trophic system</article-title>
+          .
+          <source>Ecology</source>
+          ,
+          <volume>78</volume>
+          ,
+          <fpage>1602</fpage>
+          -
+          <lpage>1606</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref89">
+        <mixed-citation>
+          <string-name>
+            <surname>Thiele</surname>
+            ,
+            <given-names>H.U.</given-names>
+          </string-name>
+          (
+          <year>1977</year>
+          )
+          <article-title>Carabid Beetles in their Environments - A Study on Habitat Selection by Adaptations in Physiology and Behavior</article-title>
+          . Springer-Verlag, New York City, New York.
+        </mixed-citation>
+      </ref>
+      <ref id="ref90">
+        <mixed-citation>
+          <string-name>
+            <surname>Thomas</surname>
+            ,
+            <given-names>C.F.G.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Marshall</surname>
+            ,
+            <given-names>E.J.P.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>Arthropod abundance and diversity in differently vegetated margins of arable fields</article-title>
+          .
+          <source>Agriculture</source>
+          , Ecosystems &amp; Environment,
+          <volume>72</volume>
+          ,
+          <fpage>131</fpage>
+          -
+          <lpage>144</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref91">
+        <mixed-citation>
+          <string-name>
+            <surname>Tischler</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Christopher</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Dickmanand</surname>
+            ,
+            <given-names>C.R.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Wardle</surname>
+            ,
+            <given-names>G.M.</given-names>
+          </string-name>
+          (
+          <year>2013</year>
+          )
+          <article-title>Avian functional group responses to rainfall across four vegetation types in the Simpson Desert, central Australia</article-title>
+          .
+          <source>Austral Ecology</source>
+          ,
+          <volume>38</volume>
+          ,
+          <fpage>809</fpage>
+          -
+          <lpage>819</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref92">
+        <mixed-citation>
+          <string-name>
+            <surname>Tscharntke</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Klein</surname>
+            ,
+            <given-names>A.M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kruess</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Steffan-Dewenter</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Thies</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          (
+          <year>2005</year>
+          )
+          <article-title>Landscape perspectives on agricultural intensification and biodiversity-ecosystem service management</article-title>
+          .
+          <source>Ecology Letters</source>
+          ,
+          <volume>8</volume>
+          ,
+          <fpage>857</fpage>
+          -
+          <lpage>874</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref93">
+        <mixed-citation>
+          <string-name>
+            <surname>Tscharntke</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Tylianakis</surname>
+            ,
+            <given-names>J.M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rand</surname>
+            ,
+            <given-names>T.A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Didham</surname>
+            ,
+            <given-names>R.K.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Fahrig</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Batary</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bengtsson</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Clough</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Crist</surname>
+            ,
+            <given-names>T.O.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Dormann</surname>
+            ,
+            <given-names>C.F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Ewers</surname>
+            ,
+            <given-names>R.M.</given-names>
+          </string-name>
+          , Fru€nd, J.,
+          <string-name>
+            <surname>Holt</surname>
+            ,
+            <given-names>R.D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Holzschuh</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Klein</surname>
+            ,
+            <given-names>A.M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kleijn</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kremen</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Landis</surname>
+            ,
+            <given-names>D.A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Laurance</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Lindenmayer</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Scherber</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Sodhi</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Steffan-Dewenter</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Thies</surname>
+          </string-name>
+          , C.,
+          <string-name>
+            <surname>van der Putten</surname>
+            ,
+            <given-names>W.H.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Westphal</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          (
+          <year>2012</year>
+          )
+          <article-title>Landscape moderation of biodiversity patterns and processes - eight hypotheses</article-title>
+          .
+          <source>Biological Reviews</source>
+          ,
+          <volume>87</volume>
+          ,
+          <fpage>661</fpage>
+          -
+          <lpage>685</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref94">
+        <mixed-citation>
+          <string-name>
+            <surname>Venables</surname>
+            ,
+            <given-names>W.N.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Ripley</surname>
+            ,
+            <given-names>B.D.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          )
+          <article-title>Modern Applied Statistics with S, 4th edn</article-title>
+          . Springer, New York City, New York.
+        </mixed-citation>
+      </ref>
+      <ref id="ref95">
+        <mixed-citation>
+          <string-name>
+            <surname>Weibull</surname>
+            ,
+            <given-names>A.C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bengtsson</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Nohlgren</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          )
+          <article-title>Diversity of butterflies in the agricultural landscape: the role of farming system and landscape heterogeneity</article-title>
+          .
+          <source>Ecography</source>
+          ,
+          <volume>23</volume>
+          ,
+          <fpage>743</fpage>
+          -
+          <lpage>750</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref96">
+        <mixed-citation>
+          <string-name>
+            <surname>Welsh</surname>
+            ,
+            <given-names>R.C.</given-names>
+          </string-name>
+          (
+          <year>1990</year>
+          )
+          <article-title>Dispersal of invertebrates in the agricultural environment</article-title>
+          . Species Dispersal in Agricultural Habitats (ed. by
+          <string-name>
+            <given-names>R.G.H.</given-names>
+            <surname>Bunce</surname>
+          </string-name>
+          and D.C. Howard), pp.
+          <fpage>203</fpage>
+          -
+          <lpage>218</lpage>
+          . Belhaven Press, London, UK.
+        </mixed-citation>
+      </ref>
+      <ref id="ref97">
+        <mixed-citation>
+          <string-name>
+            <surname>Werling</surname>
+            ,
+            <given-names>B.P.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Gratton</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          (
+          <year>2008</year>
+          )
+          <article-title>Influence of field margins and landscape context on ground beetle diversity in Wisconsin (USA) potato fields</article-title>
+          .
+          <source>Agriculture, Ecosystems and Environment</source>
+          ,
+          <volume>128</volume>
+          ,
+          <fpage>104</fpage>
+          -
+          <lpage>108</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref98">
+        <mixed-citation>
+          <string-name>
+            <surname>Willand</surname>
+            ,
+            <given-names>J.E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wodika</surname>
+            ,
+            <given-names>B.R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Palmer</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Jenkins</surname>
+            ,
+            <given-names>S.E.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Mccravy</surname>
+            ,
+            <given-names>K.W.</given-names>
+          </string-name>
+          (
+          <year>2011</year>
+          )
+          <article-title>Diversity of ground beetles (Coleoptera: Carabidae) in relation to habitat type in West-central Illinois</article-title>
+          .
+          <source>The American Midland Naturalist</source>
+          ,
+          <volume>166</volume>
+          ,
+          <fpage>266</fpage>
+          -
+          <lpage>282</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref99">
+        <mixed-citation>
+          <string-name>
+            <surname>Wilson</surname>
+            ,
+            <given-names>J.D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Morris</surname>
+            ,
+            <given-names>A.J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Arroyo</surname>
+            ,
+            <given-names>B.E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Clark</surname>
+            ,
+            <given-names>S.C.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Bradbury</surname>
+            ,
+            <given-names>R.B.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>A review of the abundance and diversity of invertebrate and plant foods of granivorous birds in northern Europe in relation to agricultural change</article-title>
+          .
+          <source>Agriculture, Ecosystems and Environment</source>
+          ,
+          <volume>75</volume>
+          ,
+          <fpage>13</fpage>
+          -
+          <lpage>30</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref100">
+        <mixed-citation>
+          <string-name>
+            <surname>Woodcock</surname>
+            ,
+            <given-names>B.A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Potts</surname>
+            ,
+            <given-names>S.G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Tscheulin</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Pilgrim</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Ramsey</surname>
+            ,
+            <given-names>A.J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Harrison-Cripps</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Brown</surname>
+            ,
+            <given-names>V.K.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Tallowin</surname>
+            ,
+            <given-names>J.R.</given-names>
+          </string-name>
+          (
+          <year>2009</year>
+          )
+          <article-title>Responses of invertebrate trophic level, feeding guild and body size to the management of improved grassland field margins</article-title>
+          .
+          <source>Journal of Applied Ecology</source>
+          ,
+          <volume>46</volume>
+          ,
+          <fpage>920</fpage>
+          -
+          <lpage>929</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref101">
+        <mixed-citation>
+          <string-name>
+            <surname>Wu</surname>
+            ,
+            <given-names>J.G.</given-names>
+          </string-name>
+          (
+          <year>2008</year>
+          )
+          <article-title>Changing perspectives on biodiversity conservation: from species protection to regional sustainability</article-title>
+          .
+          <source>Biodiversity Science</source>
+          ,
+          <volume>16</volume>
+          ,
+          <fpage>205</fpage>
+          -
+          <lpage>213</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref102">
+        <mixed-citation>
+          <string-name>
+            <surname>Xu</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Wilkes</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          )
+          <article-title>Biodiversity impact analysis in northwest Yunnan, southwest China</article-title>
+          .
+          <source>Biodiversity &amp; Conservation</source>
+          ,
+          <volume>13</volume>
+          ,
+          <fpage>959</fpage>
+          -
+          <lpage>983</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref103">
+        <mixed-citation>
+          <string-name>
+            <surname>Yaacobi</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Ziv</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Rosenzweig</surname>
+            ,
+            <given-names>M.L.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>Effects of interactive scale-dependent variables on beetle diversity patterns in a semi-arid agricultural landscape</article-title>
+          .
+          <source>Landscape Ecology</source>
+          ,
+          <volume>22</volume>
+          ,
+          <fpage>687</fpage>
+          -
+          <lpage>703</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref104">
+        <mixed-citation>
+          <string-name>
+            <surname>Yu</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          (
+          <year>1980</year>
+          )
+          <article-title>Preliminary study on Chinese carabid beetles as grain crop pests</article-title>
+          .
+          <source>Entomotaxonomia</source>
+          ,
+          <volume>2</volume>
+          ,
+          <fpage>81</fpage>
+          -
+          <lpage>84</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref105">
+        <mixed-citation>
+          <string-name>
+            <surname>Yu</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          (
+          <year>1981</year>
+          )
+          <article-title>Key to genera of phytophagous carabidae</article-title>
+          .
+          <source>Entomotaxonomia</source>
+          ,
+          <volume>3</volume>
+          ,
+          <fpage>153</fpage>
+          -
+          <lpage>154</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref106">
+        <mixed-citation>
+          <string-name>
+            <surname>Yu</surname>
+            ,
+            <given-names>Z.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Liu</surname>
+            ,
+            <given-names>Y.H.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Axmacher</surname>
+            ,
+            <given-names>J.C.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>Field margins as rapidly evolving local diversity hospots for ground beetles (Coleoptera: Carabidae) in Northern China</article-title>
+          .
+          <source>The Coleoperists Bulletin</source>
+          ,
+          <volume>60</volume>
+          ,
+          <fpage>135</fpage>
+          -
+          <lpage>143</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref107">
+        <mixed-citation>
+          <source>Accepted 24 September 2014</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref108">
+        <mixed-citation>
+          <source>First published online 28 October 2014</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref109">
+        <mixed-citation>
+          <string-name>
+            <surname>Gebler</surname>
+          </string-name>
+          ,
+          <year>1833</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref110">
+        <mixed-citation>
+          <source>Chlaenius micans (Fabricius)</source>
+          ,
+          <fpage>1792</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref111">
+        <mixed-citation>
+          <string-name>
+            <surname>Chlaenius posticalis Motschulsky</surname>
+          </string-name>
+          ,
+          <year>1853</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref112">
+        <mixed-citation>
+          <string-name>
+            <surname>Curtonotus giganteus Motschulsky</surname>
+          </string-name>
+          ,
+          <year>1844</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref113">
+        <mixed-citation>
+          <string-name>
+            <surname>Cymindis daimio Bates</surname>
+          </string-name>
+          ,
+          <year>1873</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref114">
+        <mixed-citation>
+          <source>Dolichus halensis (Schaller)</source>
+          ,
+          <fpage>1783</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref115">
+        <mixed-citation>
+          <string-name>
+            <surname>Harpalus bungii Chaudoir</surname>
+          </string-name>
+          ,
+          <year>1844</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref116">
+        <mixed-citation>
+          <string-name>
+            <surname>Harpalus corporosus (Motschulsky</surname>
+          </string-name>
+          ,
+          <year>1861</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref117">
+        <mixed-citation>
+          <string-name>
+            <surname>Harpalus crates Bates</surname>
+          </string-name>
+          ,
+          <year>1883</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref118">
+        <mixed-citation>
+          <string-name>
+            <surname>Harpalus lumbaris Mannerheim</surname>
+          </string-name>
+          ,
+          <year>1825</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref119">
+        <mixed-citation>
+          <string-name>
+            <surname>Harpalus pallidipennis Morawitz</surname>
+          </string-name>
+          ,
+          <year>1862</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref120">
+        <mixed-citation>
+          <source>Harpalus griseus (Panzer</source>
+          , 1796)
+        </mixed-citation>
+      </ref>
+      <ref id="ref121">
+        <mixed-citation>
+          <string-name>
+            <surname>Harpalus pastor Motschulsky</surname>
+          </string-name>
+          ,
+          <year>1844</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref122">
+        <mixed-citation>
+          <string-name>
+            <surname>Harpalus simplicidens Schauberger</surname>
+          </string-name>
+          ,
+          <year>1929</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref123">
+        <mixed-citation>
+          <string-name>
+            <surname>Pterostichus gebleri Dejean</surname>
+          </string-name>
+          ,
+          <year>1831</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref124">
+        <mixed-citation>
+          <string-name>
+            <surname>Scarites terricola Bonelli</surname>
+          </string-name>
+          ,
+          <year>1813</year>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

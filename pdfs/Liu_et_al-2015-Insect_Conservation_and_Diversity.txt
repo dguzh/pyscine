@@ -1,0 +1,2555 @@
+Insect Conservation and Diversity (2015) 8, 163–176
+
+doi: 10.1111/icad.12096
+
+Effects of plant diversity, habitat and agricultural
+landscape structure on the functional diversity of
+carabid assemblages in the North China Plain
+
+YUNHUI LIU, 1 , 2 MEICHUN DUAN, 1 XUZHU ZHANG, 1 XIN ZHANG, 1
+ZHENRONG YU 1 , 2 and JAN C. AXMACHER 3
+1College of Agricultural Resources and
+Environmental Sciences, China Agricultural University, Beijing, China, 2Beijing Key Laboratory of Biodiversity and
+Organic Farming, China Agricultural University, Beijing, China and 3UCL Department of Geography, University College
+London, London, UK
+
+Abstract. 1. This study investigated the effects of plant diversity, habitat type
+and landscape structure on the functional diversity of the carabid assemblages
+in the agro-landscape of the North China Plain. We hypothesise (i) small, her-
+bivorous and omnivorous carabids are more strongly affected by local plant
+diversity, while large and predatory carabids are strongly affected by landscape
+structure, and (ii) habitat type inﬂuences the diversity across functional groups.
+2. In 2010, carabid beetles were sampled by pitfall traps in six typical habi-
+tats of the agro-landscape: wheat/maize ﬁelds, peanut ﬁelds, orchards, ﬁeld mar-
+gins, windbreaks and woodland.
+
+3. Our results showed that (i) habitat type played a predominant role in driv-
+ing the changes in the diversity of carabid assemblages, followed by local plant
+diversity while the landscape structure had little effect; (ii) small and omnivo-
+rous carabid were strongly affected by local plant diversity, while the composi-
+tion of large and predatory carabid was strongly associated with the landscape
+structure; and (iii) habitats dominated by woody species harboured different
+assemblages to habitats dominated by herbaceous plants for overall carabids
+and three functional groups excluding omnivorous beetles.
+
+4. Informed by our results, we suggest the differentiated responses between
+functional groups should be appreciated in conservation management. In the
+intensively managed agro-landscape, maintenance of diverse habitats and creat-
+ing a more complex vegetation structure would be the most efﬁcient measures to
+enhance the diversity of carabid assemblages. Particularly, the maintenance of
+extensively managed habitats coupled with a targeted increase in the local plant
+diversity is crucial to optimise the biological pest control by carabid assemblages.
+
+Key words. Functional groups, ground beetles, landscape heterogeneity, vegetation.
+
+Introduction
+
+Agricultural
+landscapes account for more than 40% of
+the global land area and play a signiﬁcant role in sustain-
+
+Correspondence: Zhenrong Yu, College of Agricultural
+Resources and Environmental Sciences, China Agricultural Uni-
+versity, Beijing 100193, China. E-mail: yuzhr@cau.edu.cn
+
+The copyright line for this article was changed on 15 November
+
+2014 after original online publication.
+
+ing global biodiversity including conserving endangered
+species (Tscharntke et al., 2005; Norris, 2008). Accord-
+ingly, the implications of agricultural management for the
+protection of biodiversity and associated ecosystem ser-
+vices in the agricultural landscape are increasingly recog-
+nised. A variety of factors ranging from the complexity of
+the landscape structure (Weibull et al., 2000; Aavik &
+Liira, 2010), habitat diversity (Hendrickx et al., 2007) as
+well as vegetation structure and composition (Thomas &
+Marshall, 1999; S€oderstr€om et al., 2001) strongly inﬂuence
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society.
+This is an open access article under the terms of the Creative Commons Attribution License,
+which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+
+163
+
+164 Yunhui Liu et al.
+
+the community structure and diversity of
+invertebrate
+(Weibull et al., 2000; S€oderstr€om et al., 2001; Hendrickx
+et al., 2007), vertebrate (S€oderstr€om et al., 2001) and
+plant species assemblages (Aavik & Liira, 2010) at differ-
+ent spatial scales. In particular, complex structured land-
+scapes with high proportions of non-crop habitat can
+enhance local diversity, where source populations can spill
+over into cropland and therefore provide spatio-temporal
+insurances (Tscharntke et al., 2012). Diverse habitats sup-
+port higher species richness due to the widespread exis-
+tence of strong species-habitat associations (Willand et al.,
+2011). Habitat management intensity can also affect biodi-
+versity, with less intensive managed habitat commonly
+sustaining a greater diversity (Yu et al., 2006). Plant com-
+munities determine the physical structure, niche and food
+resource in most habitats and therefore exert considerable
+inﬂuence on the distributions and interactions of animal
+species considerably (Bazzaz, 1975; Lawton, 1983; McCoy
+& Bell, 1991). In recognition of the importance of the
+research emphasis has
+agricultural
+started to shift from centring on individual species and
+species assemblages, protected area management and farm
+practice improvements to more holistic perspectives con-
+sidering conservation and sustainable management of lar-
+ger regions containing a diversity of different landscape
+elements (Bennett et al., 2006; Wu, 2008). Targeted modi-
+ﬁcations of these factors are believed to potentially pro-
+vide an effective approach to compensate for negative
+effects
+from intensive modern agricultural practices
+(Tscharntke et al., 2005; Fischer et al., 2006).
+
+landscape context,
+
+for
+
+schemes
+
+in England,
+
+In Europe, environmental and agricultural policies have
+strongly promoted measures to increase landscape hetero-
+geneity, habitat diversity and vegetation diversity to foster
+regional biodiversity and ecosystem service provision.
+Agri-environment
+example,
+encourage the establishment of ecological corridors, exten-
+sively managed ﬁeld margins, wildﬂower strips and ‘beetle
+banks’ to foster regional biodiversity and ecosystem ser-
+vice provision (http://www.naturalengland.org.uk). Recent
+debates, however, have put the effectiveness of such land-
+scape development approaches in promoting biodiversity
+into question (Kleijn & Sutherland, 2003; Roth et al.,
+2008). Discrete and even diverging responses to changes
+in landscape structure (Burel et al., 2004; Aviron et al.,
+2005), habitat type (Gabriel et al., 2010; Liu et al., 2012)
+and vegetation (Woodcock et al., 2009; Tischler et al.,
+2013) have emerge when comparing diversity responses of
+different organism groups, especially where these also dif-
+fer in their functional traits (Aviron et al., 2005; Wood-
+cock et al., 2009; Liu et al., 2012). Body size and feeding
+habit, for example, are factors potentially leading diver-
+factors (Henle et al.,
+gent responses to environmental
+2004; Jetz et al., 2004). Larger species are expected to be
+more susceptive to larger scale landscape changes than
+small species (Concepci(cid:2)on & D(cid:2)ıaz, 2011), because they
+have a longer duration of juvenile stages and large home
+ranges (Blake et al.,1994; L€ovei & Magura, 2006; Concep-
+ci(cid:2)on & D(cid:2)ıaz, 2011). Species at higher trophic levels are
+
+suggested to be more susceptive to changes in environ-
+mental conditions than species at lower levels, because
+these species commonly have lower population densities,
+longer juvenile stages or larger home ranges (Gard, 1984;
+Holt, 1996; L€ovei & Magura, 2006). They are also
+believed to be more severely affected by the larger scale
+landscape structure than herbivorous and omnivorous
+species (Ritchie & Olff, 1999; Purtauf et al., 2005a). These
+trends reﬂect highly complex and spatially speciﬁc taxon
+response patterns to environmental change, requiring the
+development of a functional-group speciﬁc management
+and to identify the appropriate scale for more effective
+(Yaacobi et al., 2006; Gabriel
+conservation measures
+et al., 2010; Bat(cid:2)ary et al., 2012).
+
+In China, with more than 50% of its terrestrial land
+area under agricultural use, the intensiﬁcation of agricul-
+tural production in recent decades has had strong negative
+effects on agricultural biodiversity (Xu & Wilkes, 2004).
+In the key cereal production area, the North China Plain
+(NCP), a signiﬁcant intensiﬁcation in agricultural produc-
+tion (Ju et al., 2006; Guo et al., 2010) has been associated
+with a high risk of biodiversity loss. Unfortunately, biodi-
+versity conservation in the agricultural landscape has so
+far received limited attention (but see Liu et al., 2006,
+2010, 2012), with very limited information available on
+the connections between landscape structure and biodiver-
+sity (EBIBAG, 2009) or on differential responses of func-
+tional groups to environmental change at different scales.
+An understanding of the spatial scale-dependent effects of
+land-use patterns on the diversity in China’s agricultural
+landscape is nonetheless vital to promote a more sustain-
+able landscape management and the conservation of high
+levels of biodiversity (EBIBAG, 2009).
+
+Our study aims to address current knowledge deﬁcits,
+investigating how variations in local plant diversity, habi-
+tat type and landscape structure affect the diversity of the
+carabid assemblages in the agricultural landscape of the
+NCP. We also explore how functional grouping inﬂuences
+species–environment relationships. Carabid beetles were
+chosen as focal taxon as they play multiple important eco-
+logical roles in agro-ecosystems especially in controlling
+biological pests (Kromp, 1999) and weed species (Bohan
+et al., 2011; Jonason et al., 2013). We classiﬁed carabids
+into two binomial functional groups according to body
+size (large vs. small) and main feeding traits during their
+life cycle (predatory vs. omnivorous). Previous studies
+indicated strong effects of landscape structure (de la Pe~na
+et al., 2003; Purtauf et al., 2005b) or both local and land-
+scape-scale factors on carabid assemblages (Aviron et al.,
+2005; Werling and Gratton 2008). Beetle responses have
+been suggested to vary with functional traits such as body
+size, feeding habit or habitat afﬁnity (Aviron et al., 2005;
+Bat(cid:2)ary et al., 2007; Clough et al., 2007). Predatory cara-
+bid species have been reported to be more affected by
+changing landscape
+than herbivorous and
+omnivorous species (Purtauf et al., 2005a). We hypothes-
+ise that carabid beetles response to environmental factors
+depend on their functional traits. Predatory and large
+
+structure
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+species, which have good dispersal abilities,
+large home
+range sizes, long life cycles and are hence more susceptible
+to human disturbances, are believed to be more strongly
+affected by the overall
+landscape structure and more
+abundant in less intensively managed habitats. In con-
+trast, omnivorous and small beetles are hypothetically
+more strongly linked to local plant diversity because of
+their lower dispersal ability, smaller home ranges and
+lower sensitivity to disturbance. Finally, the habitat type
+is hypothesised to inﬂuence the diversity across the func-
+tional groups.
+
+Materials and methods
+
+Study area and site selection
+
+This
+
+study was
+
+conducted at Xitiange village
+
+in
+Northeastern Miyun County (40(cid:3)210–40(cid:3)250N, 116(cid:3)420–
+116(cid:3)470E) near the northern boundary of the NCP. The
+area is situated about 70 km north of Beijing city centre.
+The local climate is continental, with an annual tempera-
+ture of 11.5 °C and an average annual precipitation of
+~700 mm.
+
+Functional diversity of carabids in agrolandscape
+
+165
+
+land, accounts for about 12% of
+scape.
+
+the sampled land-
+
+The six most common habitats in the research region:
+wheat/maize rotation ﬁelds, peanut ﬁelds, woodland,
+windbreaks, ﬁeld margins and orchards, were selected for
+beetle sampling. Field margins were deﬁned as linear non-
+cropping areas with a naturally colonised grass-dominated
+vegetation covering a width >2 m between ﬁelds. Wind-
+breaks consisted of poplar tree lines planted between
+ﬁelds. Woodland was also planted with Populus spp., but
+had a much greater width with an overall area exceeding
+1 ha.
+
+In maize/wheat ﬁelds, about 300 kg ha(cid:2)1 of N fertilizer
+and 110 kg ha(cid:2)1 of P2O5 were applied during two grow-
+ing season. Herbicides were applied after each crop sow-
+ing and pesticides were applied once in spring and
+autumn respectively. In peanut ﬁelds, about 60 kg ha(cid:2)1 of
+N fertilizer and 170 kg ha(cid:2)1 of P2O5 were applied in addi-
+tion to herbicides and fungicides, which were sprayed
+after sowing and ﬂowering respectively. No fertilizer was
+applied in the orchards, while fungicide was sprayed after
+the ﬂowering. No agro-chemicals were used in woodland,
+windbreaks and on the ﬁeld margins.
+
+The sampling sites were located in the plain area that
+covers about 27% of Xitiange village mainly to the
+south of
+the village centre. In this area, agricultural
+land accounts for about 55% of the total area, while
+residential and roads account
+for a further 21%
+(Fig. 1). The most common agricultural crops are winter
+wheat/summer maize and peanuts, with large areas also
+used as fruit orchards. Semi-natural land, which mainly
+consists of woodland, windbreaks, ﬁeld margins, weeds
+
+Beetle and plant surveys
+
+Beetles were sampled over periods of 6 days every
+month between the beginning of May and the end of Sep-
+tember 2010 using a total of ﬁve pitfall traps at each plot.
+Arrangements of pitfall traps were adjusted according to
+the shape of habitat to enable more typical catchment of
+fauna (Kotze et al., 2011) and also to limit the edge effect
+
+Fig. 1. Map of land-use and sampling plots in Xitiange village, Miyun county, Beijing (2010).
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+166 Yunhui Liu et al.
+
+in linear habitats. At the agricultural ﬁelds, orchards and
+in woodland, plots measuring 20 9 20 m2 were estab-
+lished, and ﬁve pitfall traps were placed at the centre of
+each of these plots and at a distance of 5 m from the plot
+centre along N–S and E–W facing diagonal lines. At ﬁeld
+margins and windbreaks, plots were established at the
+centre of these linear habitats to minimise edge effects. To
+achieve comparative results across the different habitats,
+ﬁve traps in these linear habitats were placed with a dis-
+tance of 5 m between individual pitfall traps as in agricul-
+tural lands.
+
+The % cover of vascular plant species was surveyed in
+June and September 2010. Within each plot, all tree and
+shrub species were recorded in four randomly selected
+1 m 9 5 m sub-plots, while herb species were surveyed in
+four randomly selected 1 m 9 1 m sub-plots. Data sets in
+both seasons for each plot were combined, allocating the
+maximum % cover recorded at these two sampling events
+to each plant species.
+
+Landscape data
+
+Land-use types in the study region were digitised based
+on an extensive ﬁeld mapping surveys in combination
+with high-resolution Quickbird satellite imagery (resolu-
+tion 0.6 m) during sampling season. Landscape metrics
+within a radius of 300 m were considered in this study as
+it was supposed that most carabid beetles disperse within
+the limited distance of up to 50 m (Welsh, 1990) and
+respond to landscape structure at ﬁne spatial scales (Avi-
+ron et al., 2005; Bat(cid:2)ary et al., 2007). Shannon Diversity
+Index was selected as an indicator for the heterogeneity of
+landscape structure as it is widely applied in research on
+(Concepci(cid:2)on et al.,
+landscape–biodiversity relationships
+2008; Bassa et al., 2011), and it was calculated using
+FRAGSTATS 3.3 (Mcgarigal et al., 2002).
+
+Data analysis
+
+Carabid beetles were divided into small (<15 mm) and
+large species (>15 mm) (Cole et al., 2002) according to
+their averaged body size measured using a vernier calliper.
+They were also divided into predators and omnivores
+according to their predominantly feeding traits during
+their entire life cycle (Antonenko, 1980; Yu, 1980, 1981;
+Deng, 1983; Deng et al., 1985; Liang & Yu, 2000; Sasaka-
+wa, 2007, 2009). As little information is available for the
+feeding habits of Chinese carabids, we categorised them
+depending on assumptions on the basis of taxonomic
+afﬁnity in the cases where information for a speciﬁc spe-
+cies was lacking. Accordingly, Amara spp. was assumed
+to be omnivorous (H(cid:3)urka & Jaro(cid:2)s(cid:2)ık, 2003). Harpalus
+spp., which tends to be gramnivorous, but is also known
+to utilise other food sources (Brandmayr, 1990; Deng
+1983; Kirk, 1973; Liang & Yu, 2000; Lund & Turpin,
+1977; Yu, 1981), was categorised as omnivorous.
+
+Beetle data for each plot were pooled for subsequent
+analysis. Non-metric multidimensional scaling base on
+Chord distances was applied to analyse species turnover
+rates of different carabid groups between sites using
+PAST (Hammer et al., 2001). Species richness was calcu-
+lated using EstimateS V9.1.0 (Colwell, 2013) based on the
+Chao1 species richness estimator to account for the inevi-
+table confounding effects of sample size resulting from the
+varied shapes of investigated habitats and arrangement of
+pitfall traps. The Gini-Simpson diversity index which em-
+phasises ‘evenness’ of the community and varies between
+0 and 1 was calculated to characterise the diversity of the
+plant communities using the statistical package PAST
+(Hammer et al., 2001).
+
+To investigate the effects of landscape structure, habitat
+type and local plant diversity on the activity-abundance
+and estimated species richness of each beetle group, linear
+mixed effect models with ﬁxed variance (gls, nlme package
+version 3.1-108 in R) (Pinheiro et al., 2013) were used in
+R 2.15.2 (R Core Team, 2012). Landscape diversity, habi-
+tat type as well as local plant diversity were used as ﬁxed
+predictors, and the model was simpliﬁed using the step-
+AIC function in the package MASS (Venables & Ripley,
+2002). The normality of the distribution of the raw-depen-
+dent variables was assessed using QQ–plots. Data were
+log10-transformed or sqrt-transformed where necessary.
+To account for spatial autocorrelation, we ﬁtted gls mod-
+els to response variables with Gauss–Kr€uger coordinates
+treated as spatial covariates, assuming a spherical spatial
+correlation structure (Pinheiro & Bates, 2000), but no spa-
+tial autocorrelation was found.
+
+Three separate partial redundancy analyses (pRDA)
+were used to investigate the separate effects of local plant
+diversity, habitat type and landscape diversity on species
+composition of the all beetle assemblages and the four
+functional groups when combining the other two variables
+as conditional variables. Prior to the analyses, the beetle
+species matrix was modiﬁed using Hellinger transforma-
+tion (Legendre & Gallagher, 2001) in preparation for the
+use in PCA and RDA Pseudo-F values and the corre-
+sponding signiﬁcance levels were calculated based on 999
+Monte-Carlo permutations. Finally, spatial autocorrela-
+tions of plots were diagnosed using the mso function, but
+no spatial patterns were apparent. Calculations were
+performed using the vegan package (version 2.0-2)
+in
+R (Oksanen et al., 2012).
+
+Results
+
+Species composition and turnover
+
+A total of 1750 carabids representing 17 species and 9
+genera were caught during the sampling season (Table 1).
+Among these, 11 species with a total of 1246 individuals
+were smaller than 15 mm, while the remaining six species
+representing 504 individuals were classiﬁed as large beetles
+(>15 mm). Furthermore,
+representing 781
+
+six species
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+Functional diversity of carabids in agrolandscape
+
+167
+
+Table 1. Effects of landscape diversity, habitat type and local plant diversity on the activity-abundance and species richness of different
+carabid groups.
+
+Depend variable
+
+Functional group
+
+Explanatory variables
+
+d.f.
+
+AIC
+
+F-value
+
+P-value
+
+Activity-abundance
+
+Species richness (Chao1)
+
+Overall carabids
+Large carabids
+Small carabids
+Predatory carabids
+Omnivorous carabids
+Overall carabids
+Large carabids
+Small carabids
+Predatory carabids
+Omnivorous carabids
+
+Habitat type
+Habitat type
+Habitat type
+Habitat type
+Habitat type
+Habitat type
+Habitat type
+Plant diversity
+Habitat type
+Plant diversity
+
+5, 18
+5, 18
+5, 18
+5, 18
+5, 18
+5, 18
+5, 18
+1, 22
+5, 18
+1, 22
+
+120.612
+92.757
+18.961
+17.232
+17.547
+(cid:2)13.262
+65.838
+(cid:2)12.680
+66.653
+(cid:2)4.498
+
+4.405
+5.840
+5.040
+8.256
+6.134
+2.875
+4.893
+4.383
+3.712
+2.878
+
+0.009
+0.002
+0.005
+<0.0001
+0.002
+0.044
+<0.005
+0.048
+0.018
+0.104
+
+individuals were predatory, while the remaining 12 species
+accounting for 969 individuals were classed as omnivores.
+Among the omnivorous carabids, more than 97% of the
+individuals were also small species. Accordingly, more
+than 75% of small carabids were omnivorous. On the
+other hand, 94% of large individuals were classed as pred-
+atory, but only 61% of the predatory individuals repre-
+sented large species. Harpalus pastor, Dolichus halensis,
+Chlaenius posticalis and Harpalus pallidipennis were the
+four most common species in the sampled agricultural
+landscape, accounting for 43.3%, 21.3%, 17.5% and
+8.2% of all sampled individuals respectively.
+
+The NMDS ordination showed that plots dominated by
+woody plants including orchards, windbreaks and wood-
+land harboured distinctly different carabid species assem-
+blage from the plots dominated by herbaceous plants,
+including wheat/maize ﬁelds, peanut ﬁelds and ﬁeld mar-
+gins (Fig. 2a). This distinction was also evident for large
+carabids (Fig. 2b), small carabids (Fig. 2c) and predators
+(Fig. 2d). In contrast, all sampling plots for omnivorous
+carabids were closely clustered together with an exception
+of four plots, indicating a more homogenous composition
+of omnivorous carabid species across the sampled habitats
+(Fig. 2e).
+
+Effects of local plant diversity, habitat type and landscape
+structure on abundance and diversity
+
+Activity-abundance and species richness.
+
+The activity-
+abundance of the overall carabid assemblage and of the
+four functional groups were strongly inﬂuenced by the dif-
+ference in habitat types, but not by landscape diversity
+and local plant diversity (Table 1). Peanut ﬁelds generally
+harboured the lowest activity-abundance, followed gener-
+ally by woodland activity-abundance levels
+(Fig. 3a).
+Field margins in contrast were characterised by a high
+activity-abundance of large and predatory carabids, and
+in orchards a high activity-abundance of carabid species
+across all four groups.
+
+Differences in species richness for the overall carabid
+assemblages, large and predatory carabid functional groups
+were all strongly associated with differences in habitat type,
+
+but no differences were observed for the species richness of
+both small and omnivorous carabids (Table 1). Peanut
+ﬁelds harboured the lowest species richness for the overall
+carabid assemblage and all functional groups (Fig. 3b).
+Wheat/maize ﬁeld, ﬁeld margins and orchard harboured a
+large species richness of both large and predatory carabids,
+while woodland assemblages contained a large number of
+predatory carabids (Fig. 3b). In addition, species richness
+of small carabid was positively associated with plant diver-
+sity (Table 1; Fig. 4), while omnivorous species richness
+responded to none of the parameters landscape structure,
+habitat type or local plant diversity (Table 1).
+
+Species composition.
+
+The partial RDA ordination
+plots indicate varied responses of beetle assemblages to
+the individual variable of landscape diversity, habitat type
+and plant diversity across the different functional carabid
+groups when the effects of the other two of these three
+variables were excluded (Table 2). The overall carabid
+assemblage was signiﬁcantly associated with habitat type
+and local plant diversity, but not with landscape diversity.
+Large carabid assemblages changed signiﬁcantly only
+between habitat types, while shifts in small and omnivo-
+rous carabid assemblages were again associated with both
+changes in habitat type and local plant diversity. Preda-
+tory carabid turnover ﬁnally was not signiﬁcantly associ-
+ated with any of
+type was the
+variable that explained the overall greatest amount in var-
+iation (>21%) in the species composition across all cara-
+bid groups; species composition of overall, small and
+omnivorous assemblages were much more closely linked
+to plant diversity than by landscape structures. In con-
+trasted, large and predatory carabid assemblages, whose
+species compositions were much more explained by land-
+scape structure than by local plant diversity.
+
+the factors. Habitat
+
+Discussion
+
+Effects of plant diversity
+
+The taxonomic diversity of plant species is commonly
+suggested to be directly and indirectly linked to the
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+(b)
+
+(d)
+
+168 Yunhui Liu et al.
+
+(a)
+
+(c)
+
+(e)
+
+Fig. 2. Nonlinear two-dimensional scaling of different carabid groups based on the Chord distance: (a) Overall carabids; (b) Large cara-
+bids; (c) Small carabids; (d) Predatory carabids; (e) Omnivorous carabids.
+
+diversity of invertebrate taxa (Kareiva, 1983; Siemann,
+1998). On one hand, increasing in plant species richness
+can potentially support increasing numbers of specialised
+consumers (Murdoch et al., 1972; Siemann et al., 1998),
+which in turn can encourage a greater diversity of preda-
+tors through cascade effects (Hunter & Price, 1992). On
+the other hand, plant communities can impact consumer
+diversity indirectly by mediating the physical structure of
+
+the environment, which again increases in heterogeneity
+with increasing plant species richness, with implications
+for distribution and interactions of species in the increased
+niche spaces (Lawton, 1983; McCoy & Bell, 1991). The
+strong association observed between changes in overall
+beetle and plant species composition in our study could
+be explained by either of these direct and indirect effects,
+especially in relation to the strong correlation between
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+(a)
+
+(b)
+
+Fig. 3. Abundance and species richness of carabid groups in the
+different habitats. AC, Overall carabids; LC, Large carabids; SC,
+Small carabids; PC, Predatory carabids; OC, Omnivorous cara-
+bids. Bars indicate standard error (1 SE).
+
+Fig. 4. Relationship between species richness of small carabids
+and plant diversity based on generalised least square model
+results.
+
+plant diversity and small carabid assemblage structure,
+and to the strongly differentiated species composition
+between habitats dominated by woody versus herbaceous
+plants.
+
+Functional diversity of carabids in agrolandscape
+
+169
+
+;
+1
+7
+6
+.
+1
+
+=
+
+)
+6
+1
+,
+1
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+9
+1
+4
+.
+1
+
+=
+
+)
+6
+1
+,
+1
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+8
+8
+7
+.
+1
+
+=
+
+)
+6
+1
+,
+1
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+1
+3
+9
+.
+0
+
+=
+
+)
+6
+1
+,
+1
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+1
+0
+6
+.
+1
+
+=
+
+)
+6
+1
+,
+1
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+6
+.
+5
+
+8
+.
+3
+
+6
+.
+5
+
+4
+.
+4
+
+1
+.
+5
+
+2
+5
+1
+.
+0
+
+=
+
+P
+
+2
+.
+0
+3
+
+9
+3
+2
+.
+0
+
+=
+
+P
+
+0
+.
+1
+2
+
+3
+6
+1
+.
+0
+
+=
+
+P
+
+2
+.
+5
+3
+
+8
+3
+4
+.
+0
+
+=
+
+P
+
+0
+.
+4
+2
+
+6
+1
+.
+0
+
+=
+
+P
+
+3
+.
+2
+3
+
+;
+5
+9
+7
+.
+1
+
+=
+
+)
+6
+1
+,
+5
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+6
+5
+5
+.
+1
+
+=
+
+)
+6
+1
+,
+5
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+1
+4
+2
+.
+2
+
+=
+
+)
+6
+1
+,
+5
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+7
+0
+9
+.
+1
+
+=
+
+)
+6
+1
+,
+5
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+1
+4
+0
+.
+2
+
+=
+
+)
+6
+1
+,
+5
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+2
+4
+0
+.
+0
+
+=
+
+P
+
+3
+.
+1
+2
+
+2
+1
+1
+.
+0
+
+=
+
+P
+
+5
+.
+0
+
+2
+1
+0
+.
+0
+
+=
+
+P
+
+3
+.
+2
+1
+
+2
+2
+0
+.
+0
+
+=
+
+P
+
+6
+.
+0
+
+8
+0
+0
+.
+0
+
+=
+
+P
+
+5
+.
+9
+
+;
+5
+1
+9
+.
+5
+
+=
+
+)
+6
+1
+,
+1
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+1
+8
+1
+.
+0
+
+=
+
+)
+6
+1
+,
+1
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+9
+9
+8
+.
+3
+
+=
+
+)
+6
+1
+,
+1
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+1
+3
+2
+.
+0
+
+=
+
+)
+6
+1
+,
+1
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+;
+7
+0
+0
+.
+3
+
+=
+
+)
+6
+1
+,
+1
+(
+F
+-
+o
+d
+u
+e
+s
+P
+
+3
+1
+0
+.
+0
+
+=
+
+P
+
+9
+1
+9
+.
+0
+
+=
+
+P
+
+3
+2
+0
+.
+0
+
+=
+
+P
+
+1
+7
+8
+.
+0
+
+=
+
+P
+
+5
+3
+0
+.
+0
+
+=
+
+P
+
+e
+p
+a
+c
+s
+d
+n
+a
+L
+
+y
+t
+i
+s
+r
+e
+v
+i
+d
+
+t
+a
+t
+i
+b
+a
+H
+
+e
+p
+y
+t
+
+y
+t
+i
+s
+r
+e
+v
+i
+d
+
+t
+n
+a
+l
+P
+
+i
+
+s
+d
+b
+a
+r
+a
+c
+
+s
+u
+o
+r
+o
+v
+i
+n
+m
+O
+
+i
+
+s
+d
+b
+a
+r
+a
+c
+
+y
+r
+o
+t
+a
+d
+e
+r
+P
+
+i
+
+s
+d
+b
+a
+r
+a
+c
+
+l
+l
+a
+m
+S
+
+i
+
+s
+d
+b
+a
+r
+a
+c
+
+e
+g
+r
+a
+L
+
+i
+
+s
+d
+b
+a
+r
+a
+c
+
+l
+l
+a
+r
+e
+v
+O
+
+y
+r
+o
+t
+a
+n
+a
+l
+p
+x
+E
+
+.
+)
+
+A
+D
+R
+p
+(
+
+s
+e
+s
+y
+l
+a
+n
+a
+
+y
+c
+n
+a
+d
+n
+u
+d
+e
+r
+
+l
+a
+i
+t
+r
+a
+p
+
+y
+b
+
+d
+e
+n
+i
+a
+l
+p
+x
+e
+
+e
+c
+n
+a
+i
+r
+a
+v
+
+f
+o
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+p
+
+:
+s
+p
+u
+o
+r
+g
+
+l
+a
+n
+o
+i
+t
+c
+n
+u
+f
+
+i
+
+d
+b
+a
+r
+a
+c
+
+f
+o
+
+n
+o
+i
+t
+i
+s
+o
+p
+m
+o
+c
+
+s
+e
+i
+c
+e
+p
+S
+
+.
+2
+
+e
+l
+b
+a
+T
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+170 Yunhui Liu et al.
+
+to
+
+by
+
+The
+
+related
+
+bottom-up
+
+signiﬁcant association between the
+
+functional
+groups of both omnivores and small carabids, but not
+predatory or large beetles, with plant diversity is congru-
+ent with observations made in previous studies (Harvey
+et al., 2008; (cid:4)Seri(cid:2)c Jelaska et al., 2010). The previous stud-
+ies suggested that herbivore diversity is affected predomi-
+resource
+effects
+nantly
+availability, a trend commonly reported in environments
+with poor plant species diversity, while top-down effects
+are believed to become more pronounced in environments
+with high-quality plants or in high-productivity (Hunter &
+Price, 1992; Stiling & Rossi, 1997; Denno et al., 2002). As
+seed feeding species contribute strongly to the groups of
+omnivores and small carabid beetles in this study, their
+strong association with plant diversity could indeed be
+explained by bottom-up effects of resource availability.
+Top-down effects related to predation pressure might also
+be at work. For example, in the case of peanut ﬁelds, very
+low plant coverage could lead to small beetles being more
+prone to attack from their natural enemies.
+
+It is remarkable that predatory and large beetles did
+not show any signiﬁcant links with plant diversity in this
+study. Predators are often assumed to be more abundant
+and more diverse in species-rich plant communities with a
+greater variety of habitats and more availability of prey
+according to the natural enemy hypothesis (Jactel et al.,
+2005). Scherber et al. (2010) however, showed that the
+links between plant diversity and arthropod diversity
+dampen with increasing trophic level. The lack of correla-
+tion between plant diversity and predatory and large bee-
+tles could be explained by the poor habitat quality of
+some of the investigated habitats so that they were unable
+to support sufﬁcient numbers of herbivores to sustain
+large predator assemblages, or by predatory and large
+beetles having strong dispersal ability, enabling them to
+use resources at large spatial scales. Vegetation structure
+still appears to play a role in affecting the composition of
+predatory and large beetles, as indicated by the differen-
+tial species composition between habitats dominated by
+woody and herbaceous plant species for both predatory
+and large beetles.
+
+Effects of habitat
+
+In accordance with our initial hypothesis, habitat type
+presented a key factor in determining the overall diversity
+of carabids. As also mentioned above, the distinct plant
+structure of the different habitats determines the availabil-
+ity of both structural niches and environmental resources
+required by the different carabid species (Bazzaz, 1975;
+Mortimer et al., 1998; Brose, 2003; Asteraki et al., 2004;
+Axmacher et al., 2009). This is further supported by the
+observed distinct species assemblages supported by the
+structurally more complex woody habitats, which also
+tended to support a greater taxonomic diversity of plant
+species. Habitat types are also closely linked to distur-
+bance intensity and productivity (Murison et al., 2007;
+
+Liu et al., 2012). Agricultural intensiﬁcation is commonly
+seen as a main cause of biodiversity loss (Matson et al.,
+1997; Wilson et al., 1999), despite observations that inten-
+sively managed habitats can sometimes support diverse
+and abundant populations of ground beetles when they
+provide large quantities of potential resources in some
+cases (Tscharntke et al., 2005; Liu et al., 2010). Carabids
+are nonetheless generally known to show higher diversity
+levels in habitats with less intensive management (Carca-
+mo et al., 1995; Pﬁffner & Luka, 2003). Therefore, the
+low activity-abundance and species richness of the overall
+carabid assemblages in peanut ﬁelds could be further con-
+tributed to higher management intensity and much sim-
+pler and more homogenous vegetation structure in these
+habitats. The heterogeneous carabid species composition
+of large and predatory species as well as in the overall
+species assemblage for habitats dominated by herbaceous
+plants could similarly be related to the stronger gradient
+in management intensity. Furthermore, the cultivation of
+annual crops on these sites will strongly inﬂuence their
+microclimatic conditions, which form a further, important
+factor determining carabid distribution (Thiele, 1977). It
+is therefore likely that the signiﬁcant inﬂuence of the habi-
+tat type on the diversity of all carabid groups can be
+attributed to the interaction of several factors including
+plant diversity and plant structure, productivity, land-use
+intensity and microclimate conditions. This complex inter-
+action appears to lead to a strong similarity in activity-
+abundance and species richness between the intensively
+managed, more productive wheat/maize ﬁelds and exten-
+sively managed, more structurally complex habitats, such
+as orchards, ﬁeld margins and woodland.
+
+Effects of landscape structure
+
+Wider landscape structure has been demonstrated to
+signiﬁcantly affect carabid species richness and density
+(Burel et al., 1998; Purtauf et al., 2005a,b; Bat(cid:2)ary et al.,
+2007; Diek€otter et al., 2010), as well as on ground beetle
+species composition (de la Pe~na et al., 2003; Aviron et al.,
+2005; Diek€otter et al., 2010). Carabids with different traits
+also show different responses to landscape structure, with
+species richness of carnivorous and phytophagous carabid
+species decreasing with a decrease in non-cropping area in
+the landscape, while no effects on species richness were
+observed for omnivorous species (Purtauf et al., 2005a).
+The relative abundance of large species (>15 mm) was
+also found to signiﬁcantly correlate with the proportion
+of woody elements in the landscape, whereas small species
+were not similarly affected (Aviron et al., 2005).
+In contrast to the above published results,
+
+landscape
+structure did not show any signiﬁcant effects on abun-
+dance or species richness of the overall carabid assem-
+blage and the four functional groups investigated in our
+study. Although consisted with our hypothesis that land-
+scape structure showed a greater relative impact on the
+species composition of large and predatory carabid in
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+(<6%). Compared to earlier
+
+comparison to small and omnivorous species, landscape
+structure explained very small percentage of the variance
+in species composition of both large and predatory cara-
+bid assemblages
+studies
+reporting strong positive effects of a heterogeneous land-
+scape on local arthropod diversity (see also Weibull
+et al., 2000; Clough et al., 2005; Bat(cid:2)ary et al., 2007), the
+landscape investigated in this study was overall rather
+homogenous and had experienced serious semi-natural
+loss and fragmentation for
+several millennia due to
+strong anthropogenic inﬂuences, leaving no natural resid-
+ual habitats. The substantial habitat loss and fragmenta-
+tion would result dramatic loss of biodiversity before
+this investigation. The most
+‘natural’ habitats in the
+landscape we investigated are mainly formed by monoto-
+nous monocultures of poplar (woodland and windbreak)
+or secondary herbaceous vegetation, largely restricted to
+‘edge’ environments of a lower habitat
+than
+pristine habitats would have contained. Overall, any hab-
+itat specialists specialised on the potential natural vegeta-
+tion will have been lost, and the resulting assemblages
+are predominantly composed of generalist species which
+least partly adapted to crop land (Tscharntke
+are at
+et al., 2012). The lack of any natural habitat
+in the
+the study area would rule out any
+wider vicinity of
+cross-habitat spillover from natural habitats into the
+agricultural landscape. With more than 75% of the total
+landscape being under cultivation or classed as residen-
+tial and roads areas and another 12% being covered in
+semi-natural habitats, the local traits and quality of hab-
+itats can therefore be expected to be more important
+than the surrounding landscape matrix in determining
+the ground beetle species composition and diversity
+(Tscharntke et al., 2005).
+
+‘quality’
+
+Effects of sampling methods
+
+Although pitfall trapping is the most commonly used
+the method in to gain standardised quantitative samples
+of carabid beetles in ecological studies, its effective cap-
+ture rates depend both on activity patterns and popula-
+the captured species (Mitchell, 1963;
+tion densities of
+Greenslade, 1964). Habitat-related or traits-related differ-
+ences in the activity patterns of carabid species therefore
+somewhat complicate direct comparisons of pitfall trap-
+ping results (Spence & Niemel€a, 1994), and the subsequent
+analysis of assemblage data (Kotze et al., 2011). Unfortu-
+nately, these drawbacks in pitfall-trapped samples remain
+unresolved (Kotze et al., 2011). The different arrangement
+of pitfall traps between different habitat types in our
+results as well,
+investigation will
+although these were necessary to ensure the collection of
+representative samples for the different habitat types (see
+also Kotze et al., 2011), and we used the estimated species
+richness was used to eliminate the effects of differences in
+our sampling sizes. It is nonetheless important to recog-
+nise that there are inherent limitations to the accuracy of
+
+further affect
+
+the
+
+Functional diversity of carabids in agrolandscape
+
+171
+
+results obtained solely from pitfall trapping. Combina-
+tions with other sampling methods should therefore be
+considered in future research to further substantiate our
+results (Liu et al., 2007).
+
+Implications for conservation
+
+region should therefore
+
+With a long history of agricultural use, little natural or
+even semi-natural residual habitats remaining in this key
+area of China’s cereal production. A ﬁrst important mea-
+sure to support and enhance the existing regional bio-
+diversity in the
+focus on
+improvements at small spatial scales. As our study indi-
+cates, the habitat type and plant diversity currently play
+an important role in driving the diversity of the overall
+carabid assemblages. A diverse range of cropping systems
+in the landscape is therefore seen as critical for enhancing
+the carabid diversity. Speciﬁcally, extensively managed
+orchards appear to be of high value for carabid conserva-
+tion particularly when there is a high production pressure
+on the land due to food requirements and to ensure the
+farmers’ income. Field margins which are allowed to go
+through succession to increase in complexity and in their
+proportion of woody plant components could also be an
+economic and efﬁcient way to promote the abundance
+particularly of large and predatory carabids, which are
+(Yu et al.,
+the key group in arthropod pests control
+2006). In addition, given the strong effects of the plant
+future
+community on overall ground beetle diversity,
+management of non-cropping habitats should be aimed
+towards creating a more complex vegetation structure
+with higher levels of plant diversity. Speciﬁcally, habitats
+containing woody vegetation such as orchard, woodland
+and windbreak in addition to semi-natural ﬁeld margins,
+should be maintained and sustainably managed as a fur-
+ther loss of such habitat would be detrimental to the bio-
+logical control service in the agricultural
+landscape. At
+the same time, the plant species composition should be
+carefully managed (Landis et al., 2000; Fiedler et al.,
+2008), as particularly small and omnivorous ground beetle
+species, which show strong association with plant diversity
+in our study, are known to form agricultural pests them-
+selves
+(Yu, 1980). Given our
+substantial knowledge gaps in this area, a better under-
+standing of plant–insect relationships is critical to formu-
+late clear guidance for the enhancement of biodiversity
+and associated ecosystem services in the agricultural land-
+scape.
+
+in some circumstances
+
+Despite a less pronounced effect of the landscape struc-
+ture on carabid assemblages in comparison to habitat and
+plant diversity and the scarcity of any pristine habitats in
+the study area, maintaining landscape heterogeneity is
+particularly important to support the biological pests con-
+trol function of ground beetles. This is crucially important
+for predatory carabid since variation in predatory carabid
+assemblage was much more strongly linked to landscape
+structure than local plant diversity. On the other hand,
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+172 Yunhui Liu et al.
+
+the 17 species sampled in six different habitats during a
+period of 30 sampling days between May and September
+indicated an overall very low level of species richness in
+the local carabid species pool compared to other regions
+(Liu et al., 2012) or even to other villages in the same
+area (Yu et al., 2006 – unfortunately these study sites
+have now been replaced by a residential area due to the
+rapid urbanisation of Beijing). On a longer term, measures
+at larger scales, like ecological networks connecting agri-
+cultural
+land with high-quality natural or semi-natural
+habitats, could be effective steps for the recovery of the
+remaining biodiversity in the entire region (Jones-Walters,
+2007).
+
+Conclusion
+
+The key ﬁnding of this study is that it is habitat and local
+plant diversity rather than landscape structure are driving
+the changes in diversity of carabid assemblages; and cara-
+bid beetles, response patterns to local plant diversity and
+landscape structure depending on their functional traits.
+Small and omnivorous carabid assemblages are more
+affected local plant diversity, while large and predatory
+carabid assemblages are more strongly associated with
+landscape structure. Conservation management needs to
+consider these spatially varied responses of
+functional
+groups to optimise diversity and biological pest control
+service. In the intensively managed agricultural landscape
+of the NCP, a tailored increase in habitat diversity and
+local plant diversity can therefore provide a good starting
+point to support the carabid diversity and assemblage
+structure. In the long term, the establishment of a pro-
+tected area network speciﬁcally based on strongly
+degraded agricultural habitats left to natural vegetation
+succession and linking the overall agricultural landscape
+with remnants of pristine habitats could enable the future
+enhancement of the carabid biodiversity and their biologi-
+cal pest control service.
+
+Acknowledgements
+
+The authors are greatly indebted to the National Natural
+Science Foundation of China (30800150 and 41271198)
+and the China University Scientiﬁc Fund (2014JD067).
+We are also very grateful to Dr. Hongbin Liang from the
+Institute of Zoology at the Chinese Academy of Sciences
+for his great help with the identiﬁcation of carabid speci-
+mens. We also would ﬁnally like to thank two anonymous
+reviewers for their valuable suggestions and comments,
+which were of great help in improving the paper.
+
+References
+
+Aavik, T. & Liira, J. (2010) Quantifying the effect of organic
+farming, ﬁeld boundary type and landscape structure on the
+
+vegetation of ﬁeld boundaries. Agriculture, Ecosystems & Envi-
+ronment, 135, 178–186.
+
+Antonenko, O.P. (1980) Remove from marked Records Biologi-
+cal peculiarities of predacious carabids and their role in the
+reduction of numbers of the noxious pentatomid (Eurygaster
+integriceps) in the Saratov region. Zoologicheskii Zhurnal, 59,
+1634–1643.
+
+Asteraki, E.J., Hart, B.J., Ings, T.C. & Manley, W.J. (2004) Fac-
+tors inﬂuencing the plant and invertebrate diversity of arable
+ﬁeld margins. Agriculture, Ecosystems and Environment, 102,
+219–231.
+
+Aviron, S., Burel, F., Baudry, J. & Schermann, N. (2005) Carabid
+assemblages in agricultural landscapes: impacts of habitat fea-
+tures, landscape context at different spatial scales and farming
+intensity. Agriculture, Ecosystems & Environment, 108, 205–217.
+Axmacher, J.C., Brehm, G., Hemp, A., T€unte, H., Lyaruu,
+H.V.M., M€uller-Hohenstein, K. & Fiedler, K. (2009) Determi-
+nants of diversity in afrotropical herbivorous insects (Lepidop-
+tera: Geometridae): plant diversity, vegetation structure or
+abiotic factors? Journal of Biogeography, 36, 337–349.
+
+Bassa, M., Boutin, C., Chamorro, L. & Sans, F.X. (2011) Effects
+of farming management and landscape heterogeneity on plant
+species composition of Mediterranean ﬁeld boundaries. Agricul-
+ture, Ecosystems & Environment, 141, 455–460.
+
+Bat(cid:2)ary, P., B(cid:2)aldi, A., Sz(cid:2)e, G., Podluss(cid:2)any, A., Rozner, I. &
+Erd}os, S. (2007) Responses of grassland specialist and general-
+ist beetles to management and landscape complexity. Diversity
+and Distribution, 13, 196–202.
+
+Bat(cid:2)ary, P., Holzschuh, A., Orci, K.M., Samu, F. & Tscharntke,
+T. (2012) Responses of plant, insect and spider biodiversity to
+local and landscape scale management intensity in cereal crops
+and grasslands. Agriculture, Ecosystems and Environment, 146,
+130–136.
+
+Bazzaz, F.A. (1975) Plant species diversity in old-ﬁeld succes-
+sional ecosystems in southern Illinois. Ecology, 56, 485–488.
+Bennett, A.F., Radford, J.Q. & Haslem, A. (2006) Properties of
+land mosaics: implications for nature conservation in agricul-
+tural environments. Biological Conservation, 133, 250–264.
+
+Blake, S., Foster, G.N., Eyre, M.D. & Luff, M.L. (1994) Effects
+of habitat type and grassland management practice on the
+body size distribution of carabid beetles. Pedobiologia, 28, 502–
+512.
+
+Bohan, D.A., Boursault, A., Brooks, D.R. & Sandrine, P. (2011)
+National-scale regulation of the weed seed bank by carabid
+predators. Journal of Applied Ecology, 48, 888–898.
+
+Brandmayr, T.Z.
+
+(1990) Spermophagous (seed-eating) ground
+beetles: ﬁrst comparison of the diet and ecology of the Harpa-
+line genera Harpalus and Ophonus (Col.: Carabidae). The Role
+of Ground Beetles in Ecological and Environmental Studies (ed.
+by N.E. Stork), pp. 307–316. Intercept, Andover, Hampshire,
+UK.
+
+Brose, U. (2003) Bottom-up control of carabid beetle communi-
+ties in early successional wetlands: mediated by vegetation
+structure or plant diversity? Oecologia, 135, 407–413.
+
+Burel, F., Baudry, J., Butet, A., Clergeau, P., Delettre, Y., Le
+Coeur, D., Dubs, F., Morvan, N., Paillat, G., Petit, S., The-
+nail, C., Brunel, E. & Lefeuvre, J.C. (1998) Comparative biodi-
+landscapes. Acta
+versity along a gradient of agricultural
+Oecologica, 19, 47–60.
+
+Burel, F., Butet, A., Delettre, Y.R. & de la Pe~na, N.M. (2004)
+Differential response of selected taxa to landscape context and
+agricultural intensiﬁcation. Landscape and Urban Planning, 67,
+195–204.
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+Carcamo, H.A., Niemala, J.K. & Spence, J.R. (1995) Farming
+and ground beetles – effects of agronomic practice on popula-
+tions and community structure. Canadian Entomologist, 127,
+123–140.
+
+Clough, Y., Kruess, A., Kleijn, D. & Tscharntke, T. (2005)
+Spider diversity in cereal ﬁelds: comparing factors at local,
+landscape and regional scales. Journal of Biogeography, 11,
+2007–2014.
+
+Clough, Y., Kruess, A. & Tscharntke, T. (2007) Organic versus
+conventional arable farming systems: functional grouping helps
+understand staphylinid response. Agriculture, Ecosystems &
+Environment, 118, 285–290.
+
+Cole, L.J., McCracken, D.I., Nennis, P., Downie, I.S., Grifﬁn,
+A.L., Foster, G.N., Murphy, K.J. & Waterhouse, T. (2002)
+Relationships between agricultural management and ecological
+groups of ground beetles (Coleoptera: Carabidae) on Scottish
+farmland. Agriculture, Ecosystems & Environment, 93, 323–
+336.
+
+Colwell, R.K. (2013) EstimateS: Statistical estimation of species
+richness and shared species from samples. Version 9. <http://
+purl.oclc.org/estimates> 16th September 2013.
+
+Concepci(cid:2)on, E.D. & D(cid:2)ıaz, M. (2011) Field, landscape and regio-
+nal effects of farmland management on specialist open-land
+birds: does body size matter? Agriculture, Ecosystems and Envi-
+ronment, 142, 303–310.
+
+Concepci(cid:2)on, E.D., D(cid:2)ıaz, M. & Baquero, R.A. (2008) Effects of
+landscape complexity on the ecological effectiveness of agri-
+environment schemes. Landscape Ecology, 23, 135–148.
+
+Deng, D. (1983) The feeding habits of thirteen species of ground
+beetles (Coleoptera: Carabidae). Acta Entomologica Sinica, 26,
+356–357.
+
+Deng, D., Wang, G. & Li, J. (1985) Bionomics of predacious
+carabids in Heilongjiang. Acta Entomologica Sinica, 28, 281–
+287.
+
+Denno, R.F., Gratton, C., Peterson, M.A., Langellotto, G.A.,
+Finke, D.L. & Huberty, A.F. (2002) Bottom-up forces mediate
+natural-enemy impact in a phytophagous insect community.
+Ecology, 83, 1443–1458.
+
+Diek€otter, T., Wamser, S., Wolters, V. & Birkhofer, K. (2010)
+Landscape and management effects on structure and function
+of soil arthropod communities in winter wheat. Agriculture,
+Ecosystems & Environment, 137, 108–112.
+
+EBIBAG (Editor Board for Inventory on the biodiversity in agri-
+cultural region) (2009) Inventory on the Biodiversity in Agricul-
+tural Region. Chinese Environmental Sciences Press, Beijing,
+China.
+
+Fiedler, A.K., Landis, D.A. & Wratten, S.D. (2008) Maximizing
+ecosystem services from conservation biological control: the
+role of habitat management. Biological Control, 45, 254–271.
+Fischer, J., Lindenmayer, D.B. & Manning, A.D. (2006) Biodi-
+versity, ecosystem function, and resilience: ten guiding princi-
+ples for commodity production landscapes. Frontiers in Ecology
+and the Environment, 4, 80–86.
+
+Gabriel, D., Sait, S.M., Hodgson, J.A., Schmutz, U., Kunin,
+W.E. & Benton, T.G. (2010) Scale matters: the impact of
+organic farming on biodiversity at different spatial scales. Ecol-
+ogy Letters, 13, 858–869.
+
+Gard, T.C. (1984) Persistence in food webs. Mathematical Ecol-
+ogy (ed. by S.A. Levin and T.G. Hallam), pp. 208–219.
+Springer Verlag, Berlin, Germany.
+
+Greenslade, P.J.M. (1964) Pitfall trapping as a method for study-
+ing populations of Carabidae (Coleoptera). Journal of Animal
+Ecology, 33, 301–310.
+
+Functional diversity of carabids in agrolandscape
+
+173
+
+Guo, J.H., Liu, X.J., Zhang, Y., Shen, J.L., Han, W.X., Zhang,
+W.F., Christie, P., Goulding, K.W.T., Vitousek, P.M. &
+Zhang, F.S. (2010) Signiﬁcant acidiﬁcation in major Chinese
+croplands. Science, 327, 1008–1010.
+
+Hammer, Ø., Harper, D.A.T. & Ryan, P.D. (2001) PAST: pale-
+ontological statistics software package for education and data
+analysis. <http://palaeo-electronica.org/2001_1/past/issue1_01.
+htm> 12th October 2009.
+
+Harvey, J.A., van der Putten, W.H., Turin, H., Wagenaar, R. &
+Bezemer, T.M. (2008) Effects of changes in plant species rich-
+ness and community traits on carabid assemblages and feeding
+guilds. Agriculture, Ecosystems and Environment, 127, 100–106.
+Hendrickx, F., Maelfait, J., Van Wingerden, W., Schweiger, O.,
+Speelmans, M., Aviron, S., Augenstein, I., Billeter, R., Bailey,
+D., Bukacek, R., Burel, F., Diek€otter, T., Dirksen, J., Herzog,
+F., Liira, J., Roubalova, M., Vandomme, V. & Bugter, R.
+(2007) How landscape structure, land-use intensity and habitat
+total arthropod diversity in
+diversity affect components of
+agricultural landscapes. Journal of Applied Ecology, 44, 340–
+351.
+
+Henle, K., Davies, K.F., Kleyer, M., Margules, C. & Settele, J.
+(2004) Predictors of species sensitivity to fragmentation. Biodiv-
+ersty Conservation, 13, 207–251.
+
+Holt, R.D. (1996) Food webs in space: an island biogeographic
+perspective. Food Webs: Integration of Patterns and Dynamics
+(ed. by G.A. Polis and K.O. Winemiller), pp. 313–323. Chap-
+man & Hall, New York City, New York.
+
+Hunter, M.D. & Price, P.W. (1992) Playing chutes and ladders:
+heterogeneity and the relative roles of bottom-up and top-down
+forces in natural communities. Ecology, 73, 724–732.
+
+H(cid:3)urka, K. & Jaro(cid:2)s(cid:2)ık, V. (2003) Larval omnivory in Amara aenea
+(Coleoptera: Carabidae). European Journal of Entomology, 100,
+329–335.
+
+Jactel, H., Brockerhoff, E.G. & Duelli, P. (2005) A test of the
+biodiversity-stability theory: meta-analysis of tree species diver-
+sity effects in insect pest infestations, and re-examination of
+responsible factors. Forest Diversity and Function: Temperate
+and Boreal Systems (ed. by M. Scherer-Lorenzen, Ch. K€orner
+and E.D. Schulze), pp. 235–261. Springer, Berlin, Heidelberg,
+Germany.
+
+Jetz, W., Carbone, C., Fulford, J. & Brown, J.H. (2004) The scal-
+
+ing of animal space use. Science, 306, 266–268.
+
+Jonason, D., Smith, H.G., Bengtsson, J. & Birkhofer, K. (2013)
+Landscape simpliﬁcation promotes weed seed predation by
+carabid beetles (Coleoptera: Carabidae). Landscape Ecology,
+28, 487–494.
+Jones-Walters, L.
+
+(2007) Pan-European ecological networks.
+
+Journal for Nature Conservation, 15, 262–264.
+
+Ju, X.T., Kou, C.L., Zhang, F.S. & Christie, P. (2006) Nitrogen
+balance and groundwater nitrate contamination: Comparison
+among three intensive cropping systems on the North China
+Plain. Environmental Pollution, 143, 117–125.
+
+Kareiva, P. (1983) Inﬂuence of vegetation texture on herbivore
+populations: resource concentration and herbivore movement.
+Variable Plants and Herbivores in Natural and Managed Sys-
+tems (ed. by R.F. Denno and M.S. McClure), pp. 259–289.
+Academic Press, New York City, New York.
+
+Kirk, V.M. (1973) Biology of a ground bootle, Harpalus pensylva-
+nicus. Annals of the Entomological Society of America, 66, 513–
+518.
+
+Kleijn, D. & Sutherland, W.J. (2003) How effective are European
+agrienvironment schemes in conserving and promoting biodi-
+versity? Journal of Applied Ecology, 40, 947–969.
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+174 Yunhui Liu et al.
+
+Kotze, D.J., Brandmayr, P., Casale, A., Dauffy-Richard, E., De-
+koninck, W., Koivula, M.J., L€ovei, G.L., Mossakowski, D.,
+Noordijk, J., Paarmann, W., Pizzolotto, R., Saska, P., Sch-
+werk, A., Serrano, J., Szyszko, J., Taboada, A., Turin, H.,
+Venn, S., Vermeulen, R. & Zetto, T. (2011) Forty years of
+carabid beetle research in Europe–from taxonomy, biology,
+ecology and population studies to bioindication, habitat assess-
+ment and conservation. ZooKeys, 100, 55–148.
+
+Kromp, B. (1999) Carabid beetles in sustainable agriculture: a
+review on pest control efﬁcacy, cultivation impacts and
+enhancement. Agriculture, Ecosystems & Environment, 74, 187–
+228.
+
+Landis, D.A., Wratten, S.D. & Gurr, G.M. (2000) Habitat man-
+agement to conserve Natural enemies of arthropod pests in
+agriculture. Annual Review of Entomology, 45, 175–201.
+
+Lawton, J.H.
+
+(1983) Plant architecture and the diversity of
+phytophagous insects. Annual Review of Entomology, 28, 23–
+39.
+
+Legendre, P. & Gallagher, E.D. (2001) Ecologically meaningful
+transformations for ordination of species data. Oecologia, 129,
+271–280.
+
+Liang, H. & Yu, P. (2000) Species of ground beetles (Coleopter-
+an: Carabidae) predating oriental armyworm (Lepidoptera:
+Notuidae) in China. Journal of Environmental Entomology, 22,
+160–167.
+
+Liu, Y., Axmacher, J.C., Wang, C., Li, L. & Yu, Z. (2007)
+Ground beetle (Coleoptera: Carabidae) inventories: a compari-
+son of light and pitfall trapping. Bulletin of Entomological
+Research, 97, 577–583.
+
+Liu, Y., Axmacher, J.C., Wang, C., Li, L. & Yu, Z. (2010)
+Ground beetles (Coleoptera: Carabidae) in the intensively culti-
+vated agricultural landscape of Northern China - implications
+for biodiversity conservation. Insect Conservation and Diversity,
+3, 34–43.
+
+Liu, Y., Axmacher, J.C., Wang, C., Li, L. & Yu, Z. (2012)
+Ground beetle (Coleoptera: Carabidae) assemblages of restored
+semi-natural habitats and intensively cultivated ﬁelds in North-
+ern China. Restoration Ecology, 20, 234–239.
+
+Liu, Y., Yu, Z., Gu, W. & Axmacher, J.C. (2006) Diversity of
+carabids (Coleoptera, Carabidae) in the desalinized agricultural
+landscape of Quzhou county, China. Agriculture, Ecosystems &
+Environment, 113, 45–50.
+
+L€ovei, G.L. & Magura, T. (2006) Body size changes in ground
+beetle assemblages-a reanalysis of Braun et al. (2004)’s data.
+Ecological Entomology, 31, 411–414.
+
+Lund, R.D. & Turpin, F.T. (1977) Carahid damage to weed seeds
+found in Indiana cornﬁelds. Environmental Entomology, 6, 695–
+698.
+
+Matson, P.A., Parton, W.J., Power, A. & Swift, M. (1997) Agri-
+cultural intensiﬁcation and ecosystem properties. Science, 277,
+504–509.
+
+McCoy, E.D. & Bell, S.S. (1991) Habitat structure: the evolution
+and diversiﬁcation of a complex topic. Habitat Structure: The
+Physical Arrangement of Objects in Space (ed. by S.S. Bell,
+E.D. McCoy and H.R. Mushinsky), pp. 3–27. Chapman and
+Hall, London, UK.
+
+Mcgarigal, K., Cushman, S.A., Neel, M.C. & Ene, E. (2002)
+FRAGSTATS: Spatial Pattern Analysis Program for categori-
+cal maps. <http://www.umass.edu/landeco/research/fragstats/
+fragstats.html> 12th May 2013
+
+Mitchell, B. (1963) Ecology of two carabid beetles, Bembidion
+lampros (Herbst) and Trechus quadristriatus (Schrank). II.
+Studies on populations of adults in the ﬁeld, with special refer-
+
+ence to the technique of pitfall trapping. Journal of Animal
+Ecology, 32, 377–392.
+
+Mortimer, S.R., Hollier, J.A. & Brown, V.K. (1998) Interactions
+between plant and insect diversity in the restoration of lowland
+calcareous grasslands in Southern Britain. Applied Vegetation
+Science, 1, 101–114.
+
+Murdoch, W.W., Evans, F.C. & Peterson, C.H. (1972) Diversity
+
+and pattern in plants and insects. Ecology, 53, 819–829.
+
+Murison, G., Bullock, J.M., Underhill-Day, J., Langston, R.,
+Brown, A.F. & Sutherland, W.J. (2007) Habitat type deter-
+mines the effects of disturbance on the breeding productivity of
+the Dartford Warbler Sylvia undata. Ibis, 149(Suppl. 1), 16–26.
+(2008) Agriculture and biodiversity conservation:
+
+Norris, K.
+
+opportunity knocks. Conservation Letters, 1, 2–11.
+
+Oksanen, J., Guillaume Blanchet, F., Kindt, R, Legendre, P.,
+Minchin, P.R., O’Hara, R.B., Simpson, G.L., Solymos, P., Ste-
+vens, M.H.H. & Wagner, H. (2012) Vegan: Community Ecol-
+ogy Package. R package version 2.0-5. <http://CRAN.R-
+project.org/package=vegan> 10th March 2013.
+
+de la Pe~na, N.M., Butet, A., Delettre, Y., Morant, P. & Burel, F.
+(2003) Landscape context and carabid beetles (Coleoptera: Car-
+abidae) communities of hedgerows in western France. Agricul-
+ture, Ecosystems and Environment, 94, 59–72.
+
+Pﬁffner, L. & Luka, H. (2003) Effects of low-input farming sys-
+tems on carabids and epigeal spiders - a paired farm approach.
+Basic and Applied Ecology, 4, 117–127.
+
+Pinheiro, J.C. & Bates, D.M. (2000) Mixed-Effects Models in S
+
+and S-plus. Springer, New York City, New York.
+
+Pinheiro, J., Bates, D., DebRoy, S. & Sarkar, D.; R Core Team
+(2013) nlme: Linear and Nonlinear Mixed Effects Models. R
+package version 3.1-108. http://cran.r-project.org/web/packages/
+nlme/index.html 10th January 2013.
+
+Purtauf, T., Dauber, J. & Wolters, V. (2005a) The response of
+carabids to landscape simpliﬁcation differs between trophic
+groups. Oecologia, 142, 458–464.
+
+Purtauf, T., Roschewitz, I., Dauber, J., Thies, C., Tscharntke, T.
+& Wolters, V. (2005b) Landscape context of organic and con-
+ventional farms: inﬂuences on carabid beetle diversity. Agricul-
+ture. Ecosystems & Environment, 108, 165–174.
+
+R Core Team (2012) R: A Language and Environment for Statisti-
+cal Computing. R Foundation for Statistical Computing,
+Vienna, Austria.
+
+Ritchie, M. & Olff, H. (1999) Spatial scaling laws yield a syn-
+
+thetic theory of biodiversity. Nature, 400, 557–560.
+
+Roth, T., Amrhein, V., Peter, B. & Weber, D. (2008) A Swiss
+agri-environment scheme effectively enhances species richness
+for some taxa over time. Agriculture, Ecosystems and Environ-
+ment, 125, 167–172.
+
+Sasakawa, K. (2007) Laboratory studies on larval feeding habits
+of Amara macronota (Coleoptera: Carabidae: Zabrini). Applied
+Entomology and Zoology, 42, 669–674.
+
+Sasakawa, K. (2009) Effects of maternal diet on fecundity and
+larval development in the ‘primitive’ granivorous carabid amar-
+a (curtonotus) macronota. Entomologia Experimentalis Et Ap-
+plicata, 130, 106–112.
+
+Scherber, C., Eisenhauer, N., Weisser, W.W., Schmid, B., Voigt,
+W., Fischer, M., Schulze, E.D., Roscher, E., Weigelt, A., Allan,
+E., Beßler, H., Bonkowski, M., Buchmann, N., Buscot, F.,
+Clement, L.W., Ebeling, A., Engels, C., Halle, S., Kertscher, I.,
+Klein, A.M., Koller, R., K€onig, S., Kowalski, E., Kummer, V.,
+Kuu, A., Lange, M., Lauterbach, D., Middelhoff, C., Miguno-
+va, V.D., Milcu, A., M€uller, R., Partsch, S., Petermann, J.S.,
+Renker, C., Rottstock, T., Sabais, A., Scheu, S., Schumacher,
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+J., Temperton, V.M. & Tscharntke, T. (2010) Bottom-up effects
+of plant diversity on multitrophic interactions in a biodiversity
+experiment. Nature, 468, 553–556.
+
+(cid:4)Seri(cid:2)c Jelaska, L., Je(cid:4)sovnik, A., Jelaska, S.D., Pirnat, A., Ku(cid:4)cini(cid:2)c,
+M. & Durbe(cid:4)si(cid:2)c, P. (2010) Variations of carabid beetle and ant
+assemblages, and their morpho-ecological traits within natural
+temperate forests in Medvednica Nature Park. (cid:1)Sumarski list,
+134, 475–486.
+
+Siemann, E. (1998) Experimental tests of effects of plant produc-
+tivity and diversity on grassland arthropod diversity. Ecology,
+79, 2057–2070.
+
+Siemann, E., Tilman, D., Haarstad, D.J. & Ritchie, M. (1998)
+Experimental tests of the dependence of arthropod diversity on
+plant diversity. The American Naturalist, 152, 738–750.
+
+S€oderstr€om, B., Svensson, B., Vessby, K. & Glimsk€ar, A. (2001)
+Plants, insects and birds in semi-natural pastures in relation to
+local habitat and landscape factors. Biodiversity & Conserva-
+tion, 10, 1839–1863.
+
+Spence, J.R. & Niemel€a, J.K. (1994) Sampling carabid assem-
+blages with pitfall traps: the madness and the method. Cana-
+dian Entomologist, 126, 881–894.
+
+Stiling, P. & Rossi, A.M. (1997) Experimental manipulations of
+topdown and bottom-up factors in a tri-trophic system. Ecol-
+ogy, 78, 1602–1606.
+
+Thiele, H.U. (1977) Carabid Beetles in their Environments – A
+Study on Habitat Selection by Adaptations in Physiology and
+Behavior. Springer-Verlag, New York City, New York.
+
+Thomas, C.F.G. & Marshall, E.J.P. (1999) Arthropod abundance
+and diversity in differently vegetated margins of arable ﬁelds.
+Agriculture, Ecosystems & Environment, 72, 131–144.
+
+Tischler, M., Christopher, R., Dickmanand, C.R. & Wardle,
+G.M.
+(2013) Avian functional group responses to rainfall
+across four vegetation types in the Simpson Desert, central
+Australia. Austral Ecology, 38, 809–819.
+
+Tscharntke, T., Klein, A.M., Kruess, A., Steffan-Dewenter, I. &
+Thies, C. (2005) Landscape perspectives on agricultural intensi-
+ﬁcation and biodiversity-ecosystem service management. Ecol-
+ogy Letters, 8, 857–874.
+
+Tscharntke, T., Tylianakis, J.M., Rand, T.A., Didham, R.K.,
+Fahrig, L., Bat(cid:2)ary, P., Bengtsson, J., Clough, Y., Crist, T.O.,
+Dormann, C.F., Ewers, R.M., Fr€und, J., Holt, R.D., Holz-
+schuh, A., Klein, A.M., Kleijn, D., Kremen, C., Landis,
+D.A., Laurance, W., Lindenmayer, D., Scherber, C., Sodhi,
+N., Steffan-Dewenter, I., Thies, C., van der Putten, W.H. &
+Westphal, C.
+(2012) Landscape moderation of biodiversity
+patterns and processes – eight hypotheses. Biological Reviews,
+87, 661–685.
+
+Venables, W.N. & Ripley, B.D. (2002) Modern Applied Statistics
+
+with S, 4th edn. Springer, New York City, New York.
+
+Functional diversity of carabids in agrolandscape
+
+175
+
+Weibull, A.C., Bengtsson, J. & Nohlgren, E. (2000) Diversity of
+butterﬂies in the agricultural landscape: the role of farming sys-
+tem and landscape heterogeneity. Ecography, 23, 743–750.
+
+Welsh, R.C. (1990) Dispersal of invertebrates in the agricultural
+environment. Species Dispersal in Agricultural Habitats (ed. by
+R.G.H. Bunce and D.C. Howard), pp. 203–218. Belhaven
+Press, London, UK.
+
+Werling, B.P. & Gratton, C. (2008) Inﬂuence of ﬁeld margins and
+landscape context on ground beetle diversity in Wisconsin
+(USA) potato ﬁelds. Agriculture, Ecosystems and Environment,
+128, 104–108.
+
+Willand, J.E., Wodika, B.R., Palmer, J., Jenkins, S.E. &
+Mccravy, K.W. (2011) Diversity of ground beetles (Coleoptera:
+Carabidae) in relation to habitat type in West-central Illinois.
+The American Midland Naturalist, 166, 266–282.
+
+Wilson, J.D., Morris, A.J., Arroyo, B.E., Clark, S.C. & Brad-
+bury, R.B. (1999) A review of the abundance and diversity of
+invertebrate and plant foods of granivorous birds in northern
+Europe in relation to agricultural change. Agriculture, Ecosys-
+tems and Environment, 75, 13–30.
+
+Woodcock, B.A., Potts, S.G., Tscheulin, T., Pilgrim, E., Ramsey,
+A.J., Harrison-Cripps, J., Brown, V.K. & Tallowin, J.R. (2009)
+Responses of invertebrate trophic level, feeding guild and body
+size to the management of improved grassland ﬁeld margins.
+Journal of Applied Ecology, 46, 920–929.
+
+Wu, J.G. (2008) Changing perspectives on biodiversity conserva-
+tion: from species protection to regional sustainability. Biodi-
+versity Science, 16, 205–213.
+
+Xu, J. & Wilkes, A. (2004) Biodiversity impact analysis in north-
+west Yunnan, southwest China. Biodiversity & Conservation,
+13, 959–983.
+
+Yaacobi, G., Ziv, Y. & Rosenzweig, M.L. (2006) Effects of inter-
+active scale-dependent variables on beetle diversity patterns in
+a semi-arid agricultural landscape. Landscape Ecology, 22, 687–
+703.
+
+Yu, P. (1980) Preliminary study on Chinese carabid beetles as
+
+grain crop pests. Entomotaxonomia, 2, 81–84.
+
+Yu, P. (1981) Key to genera of phytophagous carabidae. Entomo-
+
+taxonomia, 3, 153–154.
+
+Yu, Z., Liu, Y.H. & Axmacher, J.C. (2006) Field margins as rap-
+idly evolving local diversity hospots for ground beetles (Cole-
+in Northern China. The Coleoperists
+optera: Carabidae)
+Bulletin, 60, 135–143.
+
+Accepted 24 September 2014
+First published online 28 October 2014
+
+Editor: Alan Stewart
+Associate editor: Robert Ewers
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+176 Yunhui Liu et al.
+
+Appendix
+
+Table A1. Individuals and traits of carabid species caught during the sampling season in 2010.
+
+Species
+
+Amara sp.
+Calosoma denticolle
+
+Gebler, 1833
+
+Chlaenius micans (Fabricius), 1792
+Chlaenius posticalis Motschulsky, 1853
+Curtonotus giganteus Motschulsky, 1844
+Cymindis daimio Bates, 1873
+Dolichus halensis (Schaller), 1783
+Harpalus bungii Chaudoir, 1844
+Harpalus corporosus (Motschulsky, 1861)
+Harpalus crates Bates, 1883
+Harpalus lumbaris Mannerheim, 1825
+Harpalus pallidipennis Morawitz, 1862
+Harpalus griseus (Panzer, 1796)
+Harpalus pastor Motschulsky, 1844
+Harpalus simplicidens Schauberger, 1929
+Pterostichus gebleri Dejean,1831
+Scarites terricola Bonelli, 1813
+
+Body
+size
+(mm)
+
+6.0
+22.2
+
+15.7
+12.8
+21.3
+9.2
+17.3
+6.5
+13.5
+9.3
+10.4
+8.5
+9.6
+11.4
+11.2
+16.4
+17.9
+
+Feeding
+
+Omnivorous
+Predatory
+
+Predatory
+Predatory
+Omnivorous
+Predatory
+Predatory
+Omnivorous
+Omnivorous
+Omnivorous
+Omnivorous
+Omnivorous
+Omnivorous
+Omnivorous
+Omnivorous
+Predatory
+Omnivorous
+
+Total
+individuals
+
+1
+1
+
+9
+306
+15
+1
+372
+10
+5
+1
+3
+144
+10
+758
+7
+92
+15
+
+(cid:1) 2014 The Authors. Insect Conservation and Diversity published by John Wiley & Sons Ltd
+on behalf of Royal Entomological Society., 8, 163–176
+
+

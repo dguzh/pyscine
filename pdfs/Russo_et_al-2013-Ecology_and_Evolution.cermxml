@@ -1,0 +1,2568 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <article-id pub-id-type="doi">10.1002/ece3.703</article-id>
+      <title-group>
+        <article-title>Supporting crop pollinators with floral resources: network- based phenological matching</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Laura Russo</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Nelson DeBarros</string-name>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Suann Yang</string-name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Katriona Shea</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>David Mortensen</string-name>
+          <xref ref-type="aff" rid="aff4">4</xref>
+          <xref ref-type="aff" rid="aff5">5</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Biology Department, Pennsylvania State University</institution>
+          ,
+          <addr-line>415 Mueller Laboratory, University Park, Pennsylvania</addr-line>
+          ,
+          <country country="US">USA</country>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Biology Department, Presbyterian College</institution>
+          ,
+          <addr-line>Clinton, South Carolina</addr-line>
+          ,
+          <country country="US">USA</country>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>Connecticut Department of Energy and Environmental Protection</institution>
+          ,
+          <addr-line>Hartford, Connecticut</addr-line>
+          ,
+          <country country="US">USA</country>
+        </aff>
+        <aff id="aff3">
+          <label>3</label>
+          <institution>DEB-0815373. This study was also supported by the NSF under a grant awarded in 2008 to S. Y</institution>
+        </aff>
+        <aff id="aff4">
+          <label>4</label>
+          <institution>Department of Plant Sciences, Pennsylvania State University</institution>
+          ,
+          <addr-line>University Park, Pennsylvania</addr-line>
+          ,
+          <country country="US">USA</country>
+        </aff>
+        <aff id="aff5">
+          <label>5</label>
+          <institution>Funding Information Support was provided by the Pennsylvania State University, USDA National Needs Program grant</institution>
+          ,
+          <country country="US">USA</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2013</year>
+      </pub-date>
+      <fpage>3125</fpage>
+      <lpage>3140</lpage>
+      <history>
+        <date date-type="accepted">
+          <day>1</day>
+          <month>7</month>
+          <year>2013</year>
+        </date>
+        <date date-type="received">
+          <day>19</day>
+          <month>12</month>
+          <year>2012</year>
+        </date>
+        <date date-type="revised">
+          <day>28</day>
+          <month>6</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <abstract>
+        <p />
+      </abstract>
+      <kwd-group>
+        <kwd>eol&gt;Crop pollination</kwd>
+        <kwd>ecosystem services</kwd>
+        <kwd>floral provisioning</kwd>
+        <kwd>mutualism</kwd>
+        <kwd>native pollinators</kwd>
+        <kwd>network theory</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="pdfs\Russo_et_al-2013-Ecology_and_Evolution.images\img_4_1.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>Introduction</title>
+      <p>
+        The production of diverse and affordable agricultural crop species depends on
+pollination services provided by bees. Indeed, the proportion of
+pollinatordependent crops is increasing globally. Agriculture relies heavily on the
+domesticated honeybee; the services provided by this single species are under threat
+and becoming increasingly costly. Importantly, the free pollination services
+provided by diverse wild bee communities have been shown to be sufficient for
+high agricultural yields in some systems. However, stable, functional wild bee
+communities require floral resources, such as pollen and nectar, throughout
+their active season, not just when crop species are in flower. To target floral
+provisioning efforts to conserve and support native and managed bee species,
+we apply network theoretical methods incorporating plant and pollinator
+phenologies. Using a two-year dataset comprising interactions between bees
+(superfamily Apoidea, Anthophila) and 25 native perennial plant species in floral
+provisioning habitat, we identify plant and bee species that provide a key and
+central role to the stability of the structure of this community. We also examine
+three specific case studies: how provisioning habitat can provide temporally
+continuous support for honeybees (Apis mellifera) and bumblebees (Bombus
+impatiens), and how resource supplementation strategies might be designed for
+a single genus of important orchard pollinators (Osmia). This framework could
+be used to provide native bee communities with additional, well-targeted floral
+resources to ensure that they not only survive, but also thrive.
+ever larger areas are devoted to pollinator-dependent crops
+        <xref ref-type="bibr" rid="ref1">(Aizen et al. 2008)</xref>
+        .
+      </p>
+      <p>
+        However, honeybee populations are threatened by a suite
+of hazards, including pesticides, diseases, the mite Varroa
+destructor
+        <xref ref-type="bibr" rid="ref16">(vanEngelsdorp et al. 2009)</xref>
+        , and the potential
+indirect effects of loss of habitat
+        <xref ref-type="bibr" rid="ref40 ref47">(Potts et al. 2003; Winfree
+et al. 2007)</xref>
+        and host plants resulting from herbicide drift
+        <xref ref-type="bibr" rid="ref34">(Mortensen et al. 2012)</xref>
+        . These threats have highlighted the
+dependency of modern agriculture on increasingly
+threatened pollination services
+        <xref ref-type="bibr" rid="ref19">(Gallai et al. 2009)</xref>
+        .
+      </p>
+      <p>
+        While honeybees are traditionally considered to be the
+most valuable pollinators
+        <xref ref-type="bibr" rid="ref18">(Free 1993)</xref>
+        , they are not the
+most efficient pollinators for all crops. Native bees are
+often efficient and sometimes superior pollinators, and
+contribute significantly to crop yield
+        <xref ref-type="bibr" rid="ref21 ref21 ref26 ref29 ref29 ref45 ref45">(Klein et al. 2003;
+Greenleaf and Kremen 2006; Losey and Vaughan 2006)</xref>
+        .
+      </p>
+      <p>
+        For example, for “Red Delicious” apples, flowers visited
+by Osmia cornuta were five times more likely to set fruit
+than honeybee-visited flowers, and resulting fruits were
+larger when flowers were visited by O. cornuta
+        <xref ref-type="bibr" rid="ref33 ref46">(Vicens
+and Bosch 2000)</xref>
+        . The value of pollination services
+provided by wild bees has been estimated at approximately
+3.07 billion US$ in the United States alone
+        <xref ref-type="bibr" rid="ref21 ref29 ref45">(Losey and
+Vaughan 2006)</xref>
+        and they were globally valued at 248
+billion US$ in 2009
+        <xref ref-type="bibr" rid="ref19">(Gallai et al. 2009)</xref>
+        . Native bees are
+capable of fully supplying the pollination services required
+by certain crops
+        <xref ref-type="bibr" rid="ref47">(Winfree et al. 2007)</xref>
+        , but require
+sufficient habitat with floral and nesting resources to maintain
+a population size large enough to be effective crop
+pollinators
+        <xref ref-type="bibr" rid="ref28 ref6">(Kremen et al. 2004; Cane 2008)</xref>
+        . In response to
+habitat loss, for example, there have been declines in
+native bee populations in the northeastern United States
+        <xref ref-type="bibr" rid="ref2">(Bartomeus et al. 2013)</xref>
+        . Supplementing habitat for native
+bees may provide the additional benefit of supporting
+managed bee populations
+        <xref ref-type="bibr" rid="ref7">(Carvalheiro et al. 2012)</xref>
+        . For
+example,
+        <xref ref-type="bibr" rid="ref7">Carvalheiro et al. (2012)</xref>
+        found increased
+honeybee contribution to the pollination of mangoes when
+floral provisioning resources were provided for native bees.
+      </p>
+      <p>
+        Both in response to threats to honeybees, and in
+recognition of the potential benefits of augmenting wild bees,
+methods are being developed to conserve native and
+domesticated bee populations. One strategy involves
+managing agricultural field edges to increase the diversity
+of floral provisioning resources
+        <xref ref-type="bibr" rid="ref14 ref34 ref48">(Winfree et al. 2008; Egan
+and Mortensen 2012)</xref>
+        and the abundance of specific floral
+hosts
+        <xref ref-type="bibr" rid="ref23">(Isaacs et al. 2009)</xref>
+        . Current recommendations for
+selecting floral provisioning species are often based on
+pollinator syndromes, without incorporating information
+about actual insect visitation frequencies (e.g., NAPPC
+(North American Pollinator Protection Campaign) 2011).
+      </p>
+      <p>
+        However, selecting the best plants for provisioning wild
+pollinators with nectar and pollen resources can be difficult
+because visitation rates often depend on multiple complex
+floral characters
+        <xref ref-type="bibr" rid="ref42">(Thompson 2001)</xref>
+        . The quality and
+quantity of resources provided by flower species can vary
+significantly, and quantifying these resources can be challenging
+        <xref ref-type="bibr" rid="ref25">(Kearns and Inouye 1993)</xref>
+        . For this study, we asked the
+question: given the threats to pollinators, how can we
+promote stability and diversity of bee communities that
+provide pollination services to crops?
+      </p>
+      <p>
+        To make a more informed decision about the plant
+species that might be used to conserve bee communities, and
+to identify bee species that might also visit a wide variety
+of crop species, it is necessary to observe interactions
+between bees and plants. These observations can then be
+used to capture community interaction structure in the
+form of bipartite mutualistic networks
+        <xref ref-type="bibr" rid="ref31">(Memmott 1999)</xref>
+        .
+      </p>
+      <p>
+        Such networks have recently gained attention in the
+scientific literature as a vital tool for understanding how
+ecological communities form and function
+        <xref ref-type="bibr" rid="ref31 ref37 ref5">(Memmott 1999;
+Olesen et al. 2008; Campbell et al. 2011)</xref>
+        . Here we show
+that these methods can also be used to address the
+realworld management problem of how to improve floral
+provisioning with the objective of conserving native and
+managed bee populations to provide crop pollination services.
+      </p>
+      <p>Specifically, we use network measures to assess the
+stability of community interaction structure over time and
+the role of individual species. These measures allow us to
+investigate the roles of individual plant species in the
+connectivity of the pollinator community, and we thus are
+able to rank them. Our analyses include one novel “node
+duration” measure to demonstrate how phenology relates
+to the importance of species, but we also show how
+interaction phenology can be used to match pollinators with a
+suite of plants that provide continuous floral provisioning
+resources throughout the season and how the phenology
+of the interacting species relates to the stability of the
+community as a whole over time.</p>
+      <p>We investigate three case studies to demonstrate how
+our framework might be used to target management
+objectives. First, we demonstrate how floral resources
+might benefit the domesticated honeybee (A. mellifera).</p>
+      <p>
+        We show that the provisioning habitat could be used to
+complement and supplement crop species, and to provide
+continuous resources throughout the active season.
+Second, we demonstrate how a generalist bee species, the
+common eastern bumblebee (Bombus impatiens), could be
+supported by multiple floral provisioning species
+throughout the summer. A. mellifera has long been used in
+agriculture, whereas B. impatiens has only been recently
+domesticated
+        <xref ref-type="bibr" rid="ref21 ref29 ref45">(i.e., in the 1970s, Velthuis and van Doorn
+2006)</xref>
+        ; both might benefit from additional and varied
+resources
+        <xref ref-type="bibr" rid="ref7">(Carvalheiro et al. 2012)</xref>
+        .
+      </p>
+      <p>
+        Next, we focus on the genus Osmia; some Osmia species
+have gained attention because of their potential to be
+managed as orchard pollinators
+        <xref ref-type="bibr" rid="ref22 ref33 ref4 ref46">(Vicens and Bosch 2000; Bosch
+and Kemp 2002; Gruber et al. 2011)</xref>
+        . For example, Osmia
+lignaria, O. cornifrons, and O. cornuta are sometimes
+managed as pollinators of almonds, cherries, plums, pears, and
+apples
+        <xref ref-type="bibr" rid="ref4">(Bosch and Kemp 2002)</xref>
+        . In most cases, the bloom
+period of these crop plants corresponds directly with the
+natural activity period of native Osmia spp.
+        <xref ref-type="bibr" rid="ref4">(Bosch and
+Kemp 2002)</xref>
+        . Although they prefer flowers of orchard trees
+when available, they require other resources when orchards
+are not flowering
+        <xref ref-type="bibr" rid="ref4">(Bosch and Kemp 2002)</xref>
+        . Floral resource
+provisioning in an orchard setting could help sustain O.
+lignaria populations when crop flowering is poor (e.g.,
+when a hard freeze or pest infestation kills buds or
+blossoms) and also help to build local populations over time.
+      </p>
+      <p>
+        As other Osmia spp. may also be effective crop pollinators,
+we have selected them as a target group to illustrate the
+application of our framework
+        <xref ref-type="bibr" rid="ref22">(Gruber et al. 2011)</xref>
+        .
+      </p>
+    </sec>
+    <sec id="sec-2">
+      <title>Material and Methods</title>
+      <sec id="sec-2-1">
+        <title>Experimental design</title>
+        <p>
+          We established floral provisioning habitat 25 m from
+the edge of a 6-hectare corn field in the Russell E.
+Larson research farm, Centre County, PA (coordinates;
+40.712019, 77.934192). The experiment consisted of 25
+native perennial species (Table 1) and was established in
+2007 in a randomized complete block design, with four
+blocks of the 25 species. We chose native plant species
+because they represent appropriate taxa for floral
+provisioning with native pollinators and require less
+maintenance than plants not adapted to the local climate
+          <xref ref-type="bibr" rid="ref23">(Isaacs
+et al. 2009)</xref>
+          . Each block consisted of individual plants,
+separated by 3 m, within a 12 m 9 12 m grid. Blocks
+were aligned in a single row and positioned 6 m apart.
+The effect of blocks was not significant, and we
+subsequently pool visitors from each species and across both
+years that bees were collected (2008 and 2009). The
+purpose of the randomized complete block design was
+therefore to ensure that each plant was treated as an individual
+experimental unit, and also to ensure a relatively even
+spatial distribution of the species.
+        </p>
+        <p>
+          In the summers of 2008 and 2009, we vacuum sampled
+the flowers every other week from May to October with a
+modified leaf blower (Craftsman, model #358794760,
+Hoffman Estates, IL)
+          <xref ref-type="bibr" rid="ref43 ref9">(Tuell et al. 2008; DeBarros 2010)</xref>
+          .
+On a sampling day, each individual plant was vacuumed
+for 15 sec in a randomized sequence from 0900–
+1200 EST and again from 1300-1600 Eastern Standard
+Time (EST). Therefore, there were a total of 18.3
+sampling hours on this community between the 2 years.
+        </p>
+        <p>
+          We also measured a number of other plant
+characteristics, such as the area of each individual flower and the total
+number of flowers across both seasons. The average planar
+floral area of an individual blossom was measured for each
+species by taking digital photographs of 10 representative
+blossoms or blossom clusters on each individual plant,
+keeping a metric ruler in each photographic frame for
+reference. We then used Adobe Photoshop CS4 Extended
+(Version 11.0, Adobe 2008) to calculate the area of the
+blossom in each photograph, and averaged across the 10
+photographs for each individual. The total floral area for
+individual plants was then estimated for each week by
+multiplying the number of observed flowers by the average
+blossom area for the species
+          <xref ref-type="bibr" rid="ref9">(DeBarros 2010)</xref>
+          . Floral
+visitors of the superfamily Apoidea were pinned and identified
+to the species level, except for 62 Lasioglossum specimens
+that could only be resolved to morphospecies because they
+were too damaged to be identified or were males. Males of
+the genus Lasioglossum are not well resolved, and are often
+impossible to separate taxonomically (S. Droege, pers.
+comm.). Thus, they likely represent more than one species.
+Nonetheless, due to their impact on the visitation rates of
+plants, it was inappropriate to leave the specimens out of
+the analysis entirely. For all species, we deposited voucher
+specimens in the collections at the Pennsylvania
+Department of Agriculture in Harrisburg, PA.
+        </p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>Network construction and analysis</title>
+        <p>
+          From floral visitation events, we constructed both
+weighted and unweighted bipartite networks with plant
+and bee nodes, using a visitation event as an interaction
+(Fig. 1), with the “bipartite” package in R
+          <xref ref-type="bibr" rid="ref11 ref31">(Memmott
+1999; Dormann et al. 2008)</xref>
+          . The interaction network
+comprised visitation events from both years and all
+blocks. A weighted version was scaled by the abundance
+of bees collected on flowers, whereas an unweighted
+version of the network documented the presence or absence
+of species interactions only.
+        </p>
+        <p>
+          To evaluate the effect of phenology on network
+structure, we separated the season into early (May and June),
+middle (July and the first half of August), and late (from
+the second half of August through the first half of
+October) summer. These periods were chosen based on the
+flowering phenology of the plant species in the floral
+provisioning habitat. For each of these periods of the
+summer, we evaluated the size, nestedness, and connectance
+of the network. The size of the network at any given time
+is the sum of the species richness of interacting plant and
+bee species. Nestedness is a measure of order in a
+network, and has been shown to relate to species and
+community persistence
+          <xref ref-type="bibr" rid="ref3">(Bascompte et al. 2003)</xref>
+          and
+stability and robustness
+          <xref ref-type="bibr" rid="ref38 ref39 ref41">(Thebault and Fontaine 2010;
+Pocock et al. 2012)</xref>
+          . In addition, nestedness is not
+sensitive to network size
+          <xref ref-type="bibr" rid="ref24 ref36">(Nielsen and Bascompte 2007)</xref>
+          .
+Connectance has been theoretically shown to relate to the
+complexity and robustness of a community to species loss
+          <xref ref-type="bibr" rid="ref13">(Dunne et al. 2002)</xref>
+          and stability
+          <xref ref-type="bibr" rid="ref38 ref41">(Thebault and Fontaine
+2010)</xref>
+          . However, it is sensitive to small network sizes
+          <xref ref-type="bibr" rid="ref12">(Dormann et al. 2009)</xref>
+          .
+        </p>
+        <p>
+          On a node level (i.e., individual species), there are many
+ways to rank the species in the context of the community.
+Here, we evaluated the specialization, relative abundance,
+centrality, and duration of plant–pollinator interactions.
+As we were especially interested in identifying key plant
+species for floral provisioning, we also examined the
+number of visits each flower species received relative to their
+floral display, and ranked the plant species by their
+functional complementarity
+          <xref ref-type="bibr" rid="ref10">(Devoto et al. 2012)</xref>
+          . We tested
+for correlations between separate rankings using a
+Spearman’s correlation coefficient.
+        </p>
+        <p>
+          We first identified generalist plants and pollinators as
+those species with the highest degree
+          <xref ref-type="bibr" rid="ref31">(i.e., largest number
+of species interactions; Memmott 1999)</xref>
+          ; in network
+parlance, this can be referred to as degree centrality
+          <xref ref-type="bibr" rid="ref38">(Opsahl
+et al. 2010)</xref>
+          . Generalist plants support pollinator diversity,
+which in turn has been shown to provide increased crop
+yields
+          <xref ref-type="bibr" rid="ref20 ref26">(Klein et al. 2003; Garibaldi et al. 2013)</xref>
+          , especially
+given year to year variation in native bee populations. In
+turn, generalist pollinators are assumed to be more likely
+to visit not only plants in the floral provisioning habitat
+but also many crop species because they are less selective
+about where they obtain floral resources
+          <xref ref-type="bibr" rid="ref31 ref44">(Memmott 1999;
+Tylianakis et al. 2010)</xref>
+          .
+        </p>
+        <p>
+          We then identified plant species that supported large
+numbers of floral visitors by weighting interactions with
+interaction frequency to generate a quantitative network
+          <xref ref-type="bibr" rid="ref31">(Memmott 1999)</xref>
+          . The weighted degree of a node is the
+total abundance of all its interactions. Plant nodes with a
+high weighted degree are visited more. Highly visited
+plants likely support pollinator population growth and
+improve pollination services, especially if they provide
+both nectar and pollen, although they may also function
+as mating or nesting sites. In addition, some plants
+received a high frequency of visits despite having a
+relatively small floral display. We identified such species as
+those that were outside of a 95% confidence interval of
+the correlation between floral display and visitation
+frequency. In other words, they had more visitors than
+would be expected given the relationship between floral
+area and visitation frequency.
+        </p>
+        <p>
+          We used two additional separate measures of centrality
+in addition to degree centrality, both of which are
+common in the literature, for identifying the importance of
+individual nodes to network structure and stability
+          <xref ref-type="bibr" rid="ref24">(Jordan et al. 2007)</xref>
+          . Betweenness centrality ranks species
+as connectors between other species in the community,
+whereas closeness centrality ranks species relative to their
+topological proximity to other species in the community
+          <xref ref-type="bibr" rid="ref30 ref47">(Martın Gonzalez et al. 2007)</xref>
+          . As the interactions between
+plants and pollinators generate bipartite networks, we
+made single-mode projections of the plant species and
+pollinator species before calculating centrality. In the
+single-mode projections, links are formed between species
+that share interacting partners (e.g., plant species that
+share one or more pollinator species).
+        </p>
+        <p>We used duration of activity through the season of the
+plant and bee species as another measure of importance.</p>
+        <p>
+          For example, pollinators that actively forage for longer
+periods will likely visit multiple crop species with
+differing floral phenologies. Similarly, plant species that
+provide floral resources for longer periods can support
+pollinators when crops are not flowering. We define this
+new measure, which we term node duration, as the
+number of times out of the total number of samples that a
+species participates in the network. This measure is
+distinct from other measures of node dynamics in the
+literature
+          <xref ref-type="bibr" rid="ref32 ref37">(e.g., phenophase as defined by Olesen et al. 2008)</xref>
+          because it only accounts for the presence of the species
+within the network. For example, the phenophase of a
+plant species is the period between the opening of its first
+flower and the senescence of its last flower
+          <xref ref-type="bibr" rid="ref37">(Olesen et al.
+2008)</xref>
+          , whereas node duration is strictly defined by the
+number of times the plant species interacts with floral
+visitors in the community.
+        </p>
+        <p>
+          Finally, we calculated the functional complementarity
+of the plant species. Functional complementarity is a
+measure of how individual plant species support separate
+functional groups of pollinators in the community
+          <xref ref-type="bibr" rid="ref10">(Devoto et al. 2012)</xref>
+          . Plants that are visited by distinct
+groups of pollinators will therefore increase the functional
+complementarity of the community more than species
+that share the same species of pollinators. If there are
+constraints on the number of plants available for floral
+provisioning habitat, one might select a combination that
+maximizes functional complementarity to support the
+largest diversity of pollinators. As suggested by
+          <xref ref-type="bibr" rid="ref10">Devoto
+et al. (2012)</xref>
+          , we use branch lengths in a functional
+dendrogram based on a distance matrix generated from
+an interaction matrix. Here, we removed the species one
+by one in such a way as to maximize the functional
+complementarity of the community at each number of
+species. Thus, the order that the species are removed reflects
+a gradient from the species that are least critical to
+complementarity to those that are most critical.
+        </p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>Example with target groups</title>
+        <p>To demonstrate how the floral provisioning species could
+complement and supplement flowering crop species, we
+created a separate phenology graph incorporating the
+interaction phenology of A. mellifera and the plant species
+it visited over the season. We compared the interaction</p>
+        <p>Nestedness</p>
+        <p>Connectance</p>
+        <p>Number of plant species
+Number of insect species</p>
+        <p>Total size
+phenology of these species with the approximate
+flowering phenology of five pollinator-dependent crop species
+commonly found in the study area. We performed a
+similar analysis with B. impatiens for comparison. (Readers
+interested in seeing the phenology-oriented visitation
+for any other of the 64 bee species found in this
+provisioning habitat can visit the following website for
+additional figures: www.floralprovisioningforpollinators.
+wordpress.com.)</p>
+        <p>With the objective of conserving Osmia spp., we
+created a separate interaction network of the four Osmia
+spp. found in our provisioning habitat (O. atriventris,
+O. bucephala, O. cornifrons, and O. pumila) and the
+flowers they visited. We also evaluated the interaction
+phenology of the Osmia spp. to determine when they visited the
+provisioning habitat.</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>Results</title>
+      <p>
+        Over the two summers that the floral provisioning habitat
+was sampled, 64 bee species were captured while visiting
+the 25 perennial plant species. There were a total of 1651
+specimens captured, representing a total of 261 unique
+insect–flower species interactions. We performed an
+interaction rarefaction to estimate the completeness of our
+sampling
+        <xref ref-type="bibr" rid="ref34 ref8">(a Chao 1 estimator, see Chacoff et al. 2012)</xref>
+        ,
+and found that we captured 60.5% of the maximum
+number of expected interactions, a result consistent with
+other similar plant–pollinator communities, despite
+differing sampling methods
+        <xref ref-type="bibr" rid="ref10 ref7 ref8">(e.g., Chacoff et al. 2012; Devoto
+et al. 2012)</xref>
+        .
+      </p>
+      <p>
+        The community was dynamic across the summer,
+changing in size, nestedness, and connectance (Table 2).
+The community was largest in both the number of plant
+and insect species in the middle of the summer, and
+smallest early in the summer. The nestedness followed the
+same trend, being highest in the middle of the summer
+and lowest early in the summer, but the connectance
+followed an opposite trend, being lowest in the middle of
+the summer and highest early in the summer. When the
+interactions were pooled across the whole season, the
+nestedness was also maximized, but the connectance
+remained lower than the separate periods of the summer.
+However, the network size was below 50 species for
+the early division of the summer, and the measure of
+connectance for that time may therefore be less reliable
+        <xref ref-type="bibr" rid="ref12">(Dormann et al. 2009)</xref>
+        .
+      </p>
+      <p>We assessed the importance of plant and bee species in
+the context of the full network (Fig. 2) with five network
+measures: unweighted degree, weighted degree,
+betweenness, and closeness centrality, as well as node duration.
+Unweighted degree and weighted degree are correlated with
+each other and to both other measures of centrality, as well
+as functional complementarity in the plants (P &lt;&lt; 0.01 for
+all except floral area and node duration, for which P ~ 0.02,</p>
+      <p>Table 1A). However, none of the node measures are
+significantly correlated with floral area or node duration in the
+plants (Table 1A). In contrast, all measures are significantly
+correlated with each other in the bee species (P &lt;&lt; 0.01,
+Table 2A). Despite these significant correlations, each
+measure results in a substantially different ranking.</p>
+      <p>To demonstrate the relationships between these
+measures, we show the 25 plant species ranked by
+unweighted degree (Fig. 3, Table 3). Among the 25
+species, Veronicastrum virginicum (culver’s root) was visited
+(A)
+(B)
+(C)
+by the greatest number of bee species, whereas
+Eupatorium perfoliatum (common boneset) had the highest
+abundance of bee visitors, and Tradescantia ohiensis (Ohio
+spiderwort) had the longest duration of activity, from
+May to September. Interestingly, the plant species were
+not well separated by either betweenness or closeness
+centrality. Indeed, nine species shared the top value for
+closeness centrality (Fig. 3). Five plant species had more
+visitors than would be expected given the relationship
+between floral area and weighted degree: E. perfoliatum,
+Pycnanthemum tenuifolium (narrowleaf mountainmint),
+Conoclinium coelestinum (blue mistflower), Eurybia
+macrophylla (bigleaf aster), and V. virginicum (Fig. 4). In
+contrast, seven plant species had fewer visits than would
+be expected, given their floral area: Symphyotrichum
+novibelgii (New York aster), T. ohiensis, Desmodium canadense
+(showy ticktrefoil), Lysimachia quadrifolia (whorled yellow
+loosestrife), Lespedeza capitata (roundhead lespedeza),
+Senna hebecarpa (American senna), and Phlox divaricata
+(wild blue phlox).</p>
+      <p>We also ranked the 64 bee species that visited the floral
+provisioning habitat by unweighted degree (Fig. 5). The
+unresolved Lasioglossum spp. have the largest of four of the
+five measures (unweighted degree, node duration, and both
+measures of centrality). As a group, they interact with the
+largest number of species, have the longest duration of
+activity, and the highest of both betweenness and closeness
+centrality. However, because they are unresolved, they</p>
+      <p>Total floral area</p>
+      <p>Unweighted
+degree</p>
+      <p>Weighted
+degree
+individual species tend to be specialists, or rare. This poorly
+known group may therefore require more study in the
+future, including the development of better guides for the
+identification of male specimens. If we remove the effect of
+the unresolved Lasioglossum spp., B. impatiens was both the
+most generalist species and most abundant. Its abundance
+was more than twice that of any other bee species.
+However, Ceratina calcarata had the highest ranking in both
+measures of centrality and A. mellifera had the longest
+duration of activity, from June to October. Importantly,
+though we found significant correlations between weighted
+degree, unweighted degree, betweenness, and closeness
+centrality, and node duration, (P &lt;&lt; 0.01), each measure
+ranks the species differently.</p>
+      <p>Only three plant species, Asclepias tuberosa (butterfly
+milkweed), E. perfoliatum, and E. macrophylla, always appeared
+among the top ten species when ranked separately by
+unweighted degree (number of unique interactions),
+weighted degree (including abundance), betweenness, and
+closeness centrality, and node duration (duration of
+interactive interval) (Table 3). Of these, E. perfoliatum and E.
+macrophylla still rank in the top ten, even when we controlled for
+floral display. In contrast, there were seven bee species
+(B. impatiens, B. bimaculatus, Halictus ligatus, A. mellifera,
+Augochlora pura, Ceratina dupla, and C. calcarata) that
+appeared important by all five measures (Fig. 5).
+likely represent more than one species. The interpretation
+is therefore that the genus Lasioglossum as a whole is an
+important group in the community, despite the fact that
+Normalized Measure</p>
+      <p>The method of ranking may be adapted according to
+specific conservation goals. To show how one might select
+species to provide continuous floral resources for a target
+pollinator with a long duration of activity, we use the
+species visited by the honeybee (A. mellifera) as an
+example. The honeybee shifts its frequency of visitation from
+one species to another throughout the season; to ensure
+continuous resources, a manager would choose plants
+from each of the three periods (Fig. 6A). Floral resources
+could thus be available for this important domesticated
+pollinator when crop species are not in flower. In
+addition, we provide the approximate flowering times for five
+pollinator-dependent and high-yield crops in
+Pennsylvania (Fig. 6B). In contrast to the honeybee, the bumblebee
+(B. impatiens) was found to be extremely generalist,
+visiting multiple floral provisioning species within each time
+period (Fig. 7). This suggests that the bumblebee relies
+less on any single floral provisioning species and may be
+well supported by a wide variety of species.</p>
+      <p>Although Osmia spp. were not frequent visitors in
+our floral resource provisioning habitat, we provide
+preliminary analyses as to the species that they visited. Our
+network demonstrates that the four Osmia spp. in the
+floral provisioning site visited only three plant species,
+and three of them visited only Penstemon digitalis
+(foxglove penstemon) (Fig. 8), though this plant was a
+minor node of the full network (Fig. 2). In our
+provisioning habitat, there were few plants in flower at the
+time that the Osmia spp. were active, and because the
+visitation frequency from these species was low, we do
+not suggest that P. digitalis is the ideal resource for all
+Osmia spp.; empirical confirmation would be necessary.
+However, the example demonstrates how our framework
+might be used to identify such a resource for a
+particular objective.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>Discussion</title>
+      <p>
+        The benefits of a diverse bee community for agricultural
+yields have been convincingly demonstrated
+        <xref ref-type="bibr" rid="ref20">(e.g.,
+Garibaldi et al. 2013)</xref>
+        . However, in order to have a stable,
+functional wild bee community, it is necessary for there
+to be sufficient habitat
+        <xref ref-type="bibr" rid="ref47">(Winfree et al. 2007)</xref>
+        to provide
+floral resources, such as pollen and nectar
+        <xref ref-type="bibr" rid="ref23">(Isaacs et al.
+2009)</xref>
+        . We show how network theoretical methods
+incorporate plant and pollinator phenologies to target floral
+provisioning efforts to conserve and support native and
+managed bee species. Although many have suggested that
+networks can be used to direct conservation and
+management objectives
+        <xref ref-type="bibr" rid="ref41 ref44">(e.g., Tylianakis et al. 2010)</xref>
+        , our study
+demonstrates how network theory might have a practical
+application to a real and urgent problem. Understanding
+the temporal dynamics of community level interactions in
+a plant–pollinator network is critical for maximizing the
+provisioning of floral resources for crop pollinators and
+targeting conservation efforts at species that provide
+pollination services. In particular, knowledge of phenological
+constraints on plant–pollinator interactions, and plant
+species used by bee visitors, will be essential to managers
+that have bee conservation as an objective.
+      </p>
+      <p>Another advantage of our method is that it allows us
+to design the floral provisioning habitat with local bee
+assemblages in mind. This multispecies framework
+emphasizes the importance of key interactions. Stable,
+natural communities have particular structural aspects
+that we want to design or maintain to conserve diversity
+and functionality. In other words, we can select highly
+generalist species that are abundant and active over long
+periods of time, while sustaining rare interactions between
+uncommon or specialist species. In addition, by keeping
+the phenology of the whole community in mind, we can
+see where it might be more vulnerable, or less stable. For
+example, the nestedness of this community was lowest
+early in the summer, and highest in the middle of the
+season. That might pinpoint an opportunity to strengthen
+the bee community by providing more flower species with
+an early phenology in provisioning habitat. In contrast,
+the connectance of the community was highest early in
+the spring, though this was potentially influenced by
+network size.</p>
+      <p>
+        To explore the phenology of individual species, we
+developed a novel network measure, node duration, or the
+activity of interacting species over time. Node duration can
+provide useful information for managers concerned about
+relative flowering times of floral provisioning plants and
+crops. Some studies have shown a “magnet species” effect
+where pollinator visitation rates to nearby species are
+enhanced by the presence of a species with large floral
+rewards
+        <xref ref-type="bibr" rid="ref32">(Molina-Montenegro et al. 2008)</xref>
+        . In this case, it
+would be advantageous to synchronize the flowering of
+crop and nearby attractive wild plants. However, there is
+also some evidence for the opposite effect, where plants
+compete for pollinators
+        <xref ref-type="bibr" rid="ref17">(Feinsinger 1987)</xref>
+        . In this situation,
+it would be ideal to have plant species that support
+pollinators when crop species are not in flower. Interaction
+phenology allows species in the community to be selected on
+the basis of the duration or seasonality of their activity
+(Fig. 2), as relevant to the focal management situation;
+such insights will help with the design and tractability of
+field trials or provisioning applications. Toward this end,
+we explore the case study of the interaction phenology of
+A. mellifera relative to the phenology of a selection of
+pollinator-dependent crop species (Fig. 6); to provide
+continuous resources for this bee species, a manager might select
+one or more provisioning species flowering in each of the
+three periods of the summer. In contrast, the bumblebee
+(B. impatiens) visited several species in each period of the
+summer, and may therefore be less reliant on any one plant
+species (Fig. 7).
+      </p>
+      <p>
+        We identified generalist plant species, such as V.
+virginicum, that attracted a large number of bee species, but
+also E. perfoliatum that attracted a large abundance of
+bees, and T. ohiensis that provided attractive resources
+over a long period of time. This demonstrates that
+different plant species might be used for different provisioning
+objectives. In addition, three species (A. tuberosa, E.
+perfoliatum, and E. macrophylla) among the plants of our
+floral provisioning habitat were consistently ranked highly
+in all categories measured, and E. perfoliatum and E.
+macrophylla still rank in the top 10 species even when we
+control for the size of the floral display. These species
+might be the strongest candidates for resource
+provisioning; their efficacy as resources should then be the target
+of field trials. In contrast, seven species had fewer visitors
+than would be expected given their floral display. This
+demonstrates that the more showy flowers are not
+necessarily the most preferred by bee visitors, especially if more
+attractive flowers are present
+        <xref ref-type="bibr" rid="ref43">(but see Tuell et al. 2008)</xref>
+        .
+Interestingly, measures of node betweenness and closeness
+centrality were not effective for separating plant species,
+likely because a subset of the plants species all had a large
+number of connections and were thus equally central to
+the interaction structure (Fig. 3).
+      </p>
+      <p>
+        Although we focused on specific plant species that
+would be ideal for provisioning crop pollinators, the
+complex structure of this network demonstrates how a
+diversity of floral resources contributes to a diverse
+pollinator community. Given the asymmetric nature of our
+community (and mutualistic communities in general),
+generalist plant species such as V. virginicum are visited
+by a large number of specialist bee species. In turn, bee
+diversity has been shown to result in improved crop
+pollination
+        <xref ref-type="bibr" rid="ref20 ref26">(Klein et al. 2003; Garibaldi et al. 2013)</xref>
+        . Thus,
+there is a strong relationship between diversity and
+functionality. Diverse communities provide more ecosystem
+services, and communities providing ecosystem services
+(i.e., pollination or floral resource provisioning) support
+a higher level of diversity
+        <xref ref-type="bibr" rid="ref23 ref28">(Kremen et al. 2004; Isaacs
+et al. 2009)</xref>
+        .
+      </p>
+      <p>
+        Our results also highlight pollinator species that might
+augment crop pollination. There were seven consistently
+generalist and abundant species that were active for most
+of the summer, and central to the interaction structure.
+Their periods of activity could overlap with multiple
+different crop species. Among these, B. impatiens stood out
+as more than twice as abundant and was also a very
+generalist bee species. It is possible that choosing plants to
+support B. impatiens might encourage its population
+growth. However, a different species, C. calcarata, was the
+most central when ranked by both betweenness and
+closeness centrality (Fig. 5), suggesting that it has a central
+role in the web of pollination services provided by these
+bee species and may, in fact, contribute to the stability of
+the community
+        <xref ref-type="bibr" rid="ref24">(Jordan et al. 2007)</xref>
+        .
+      </p>
+      <p>Our approach can also be used to address specific
+management objectives, such as to maximize provision of
+resources that help conserve a target group of pollinators.
+The results of our second illustrative case study show that
+three of the four Osmia spp. active in the floral
+provisioning habitat visited one plant species in particular, P.
+digitalis. As few of the plants in our study were flowering
+early in the season, future studies would benefit from
+including additional, early blooming species. Indeed,
+despite the low sample size, we have included this analysis
+because managers are searching for new ways to support
+Osmia species in orchard systems, and experimentally
+testing multiple floral provisioning species (D. Biddinger,
+pers. comm.). Our study suggests that an empirical test
+comparing scenarios with and without P. digitalis would
+help to determine whether it is a key component of floral
+provisioning habitat designed to support orchard crops
+that might benefit from visits by Osmia spp. P. digitalis
+may serve to increase the population size of Osmia spp.,
+thereby enhancing crop pollination in future years. Our
+method also makes explicit how the flowering phenology
+of plants within the provisioning habitat synchronizes
+with crop phenologies. For example, P. digitalis flowered
+after orchard crops and would therefore not compete
+with them for pollinators; instead, our work suggests that
+P. digitalis plantings adjacent to orchards might support
+Osmia spp. at a critical time when floral resources
+provided by crops are absent.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>Conclusions</title>
+      <p>
+        Pollination services are critical for the production of
+foods necessary for a healthy human diet
+        <xref ref-type="bibr" rid="ref15">(Eilers et al.
+2011)</xref>
+        . The demand for pollinator-dependent crops is
+increasing much more rapidly than the availability of
+pollination services provided by honeybees
+        <xref ref-type="bibr" rid="ref1">(Aizen et al.
+2008)</xref>
+        , especially in the face of Colony Collapse Disorder.
+It is therefore imperative that these pollination
+requirements be supplemented with services provided by wild
+bees. However, wild bees require nesting and floral
+resources
+        <xref ref-type="bibr" rid="ref47">(Winfree et al. 2007)</xref>
+        , and relatively little is
+known about these requirements. Providing native bee
+communities with additional, well-targeted floral
+resources could ensure that they not only survive but also
+thrive; the benefits of such habitat may also support
+honeybees, which utilize similar floral resources, as evidenced
+by the visitation of honeybees to the species in our floral
+provisioning site. Our approach to assessing floral
+resources for crop pollinators integrates critical
+information about the community structure and phenology of
+relevant plant and bee species. As we illustrate, our
+framework can be used to inform hypotheses and design
+experiments, and has great flexibility for objectives intended to
+conserve wild bee populations and maintain the critical
+ecosystem service of pollination.
+      </p>
+    </sec>
+    <sec id="sec-6">
+      <title>Acknowledgments</title>
+      <p>We would like to acknowledge C. Campbell, B. Teller,
+and S. Droege for ideas and suggestions with revisions, S.
+Smiles and W. S. Harkcom for field assistance, Way Fruit
+Farm, S. Sidhu, and W. S. Harkcom for information
+about flowering times, and L. R. Donovall of the
+Pennsylvania Department of Agriculture for assisting N. D. with
+insect identification. Support was provided by the
+Pennsylvania State University, USDA National Needs Program
+grant #2008-38420-18722, and NSF grant #DEB-0815373.
+This study was also supported by the NSF under a grant
+awarded in 2008 to S. Y.</p>
+    </sec>
+    <sec id="sec-7">
+      <title>Conflict of Interest</title>
+      <p>None declared.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>Appendix</title>
+      <p>Closeness centrality
+Unweighted degree
+Weighted degree
+Node duration
+Floral area
+Functional complementarity</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Aizen</surname>
+            ,
+            <given-names>M. A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>L. A.</given-names>
+            <surname>Garibaldi</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S. A.</given-names>
+            <surname>Cunningham</surname>
+          </string-name>
+          ,
+          <article-title>and</article-title>
+          <string-name>
+            <given-names>A. M.</given-names>
+            <surname>Klein</surname>
+          </string-name>
+          .
+          <year>2008</year>
+          .
+          <article-title>Long-term global trends in crop yield and production reveal no current pollination shortage but increasing pollinator dependence</article-title>
+          .
+          <source>Curr. Biol</source>
+          .
+          <volume>18</volume>
+          :
+          <fpage>1572</fpage>
+          -
+          <lpage>1575</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Bartomeus</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J. S.</given-names>
+            <surname>Ascher</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Gibbs</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>B. N.</given-names>
+            <surname>Danforth</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>D. L.</given-names>
+            <surname>Wagner</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S. M.</given-names>
+            <surname>Hedtke</surname>
+          </string-name>
+          , et al.
+          <year>2013</year>
+          .
+          <article-title>Historical changes in northeastern US bee pollinators related to shared ecological traits</article-title>
+          .
+          <source>Proc. Natl Acad. Sci. doi:10</source>
+          .1073/pnas. 1218503110
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Bascompte</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>P.</given-names>
+            <surname>Jordano</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C. J.</given-names>
+            <surname>Melian</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>J. M.</given-names>
+            <surname>Olesen</surname>
+          </string-name>
+          .
+          <year>2003</year>
+          .
+          <article-title>The nested assembly of plant-animal mutualistic networks</article-title>
+          .
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <volume>100</volume>
+          :
+          <fpage>9383</fpage>
+          -
+          <lpage>9387</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Bosch</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>W. P.</given-names>
+            <surname>Kemp</surname>
+          </string-name>
+          .
+          <year>2002</year>
+          .
+          <article-title>Developing and establishing bee species as crop pollinators: the example of Osmia spp. (Hymenoptera: Megachilidae) and fruit trees</article-title>
+          .
+          <source>Bull. Entomol. Res</source>
+          .
+          <volume>92</volume>
+          :
+          <fpage>3</fpage>
+          -
+          <lpage>16</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Campbell</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Yang</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>R.</given-names>
+            <surname>Albert</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>K.</given-names>
+            <surname>Shea</surname>
+          </string-name>
+          .
+          <year>2011</year>
+          .
+          <article-title>A network model for plant-pollinator community assembly</article-title>
+          .
+          <source>Proc. Natl Acad. Sci</source>
+          .
+          <volume>108</volume>
+          :
+          <fpage>197</fpage>
+          -
+          <lpage>202</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Cane</surname>
+            ,
+            <given-names>J. H.</given-names>
+          </string-name>
+          <year>2008</year>
+          .
+          <article-title>A native ground-nesting bee (Nomia melanderi) sustainably managed to pollinate alfalfa across an intensively managed agricultural landscape</article-title>
+          .
+          <source>Apidologie</source>
+          <volume>39</volume>
+          :
+          <fpage>315</fpage>
+          -
+          <lpage>323</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Carvalheiro</surname>
+            ,
+            <given-names>L. G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C. L.</given-names>
+            <surname>Seymour</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S. W.</given-names>
+            <surname>Nicolson</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>R.</given-names>
+            <surname>Veldtman</surname>
+          </string-name>
+          .
+          <year>2012</year>
+          .
+          <article-title>Creating patches of native flowers facilitates crop pollination in large agricultural fields: mango as a case study</article-title>
+          .
+          <source>J. Appl. Ecol</source>
+          .
+          <volume>49</volume>
+          :
+          <fpage>1373</fpage>
+          -
+          <lpage>1383</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Chacoff</surname>
+            ,
+            <given-names>N. P.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>D. P.</given-names>
+            <surname>Vazquez</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S. B.</given-names>
+            <surname>Lomascolo</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>E. L.</given-names>
+            <surname>Stevani</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Dorado</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>B.</given-names>
+            <surname>Padron</surname>
+          </string-name>
+          .
+          <year>2012</year>
+          .
+          <article-title>Evaluating sampling completeness in a desert plant-pollinator network</article-title>
+          .
+          <source>J. Anim. Ecol</source>
+          .
+          <volume>81</volume>
+          :
+          <fpage>190</fpage>
+          -
+          <lpage>200</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>DeBarros</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          <year>2010</year>
+          .
+          <article-title>Floral resource provisioning for bees in Pennsylvania and the mid-Atlantic region</article-title>
+          . [Masters Thesis], Pennsylvania State University, University Park, PA.
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Devoto</surname>
+            , M.,
+            <given-names>S.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Bailey</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Craze</surname>
+            , and
+            <given-names>J.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Memmott</surname>
+          </string-name>
+          .
+          <year>2012</year>
+          .
+          <article-title>Understanding and planning ecological restoration of plant-pollinator networks</article-title>
+          .
+          <source>Ecol. Lett</source>
+          .
+          <volume>15</volume>
+          :
+          <fpage>319</fpage>
+          -
+          <lpage>328</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Dormann</surname>
+            ,
+            <given-names>C. F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>B.</given-names>
+            <surname>Gruber</surname>
+          </string-name>
+          , and J. Fru€nd.
+          <year>2008</year>
+          .
+          <article-title>Introducing the bipartite package: analysing ecological networks</article-title>
+          .
+          <source>R. News</source>
+          <volume>8</volume>
+          :
+          <fpage>8</fpage>
+          -
+          <lpage>11</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Dormann</surname>
+            ,
+            <given-names>C. F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>J</surname>
+          </string-name>
+          . Fru€nd, N. Blu€thgen, and
+          <string-name>
+            <given-names>B.</given-names>
+            <surname>Gruber</surname>
+          </string-name>
+          .
+          <year>2009</year>
+          .
+          <article-title>Indices, graphs and null models; analyzing bipartite ecological networks</article-title>
+          .
+          <source>Open Ecol. J</source>
+          .
+          <volume>2</volume>
+          :
+          <fpage>7</fpage>
+          -
+          <lpage>24</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Dunne</surname>
+            ,
+            <given-names>J. A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>R. J.</given-names>
+            <surname>Williams</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>N. D.</given-names>
+            <surname>Martinez</surname>
+          </string-name>
+          .
+          <year>2002</year>
+          .
+          <article-title>Network structure and biodiversity loss in food webs: robustness increases with connectance</article-title>
+          .
+          <source>Ecol. Lett</source>
+          .
+          <volume>5</volume>
+          :
+          <fpage>558</fpage>
+          -
+          <lpage>567</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Egan</surname>
+            ,
+            <given-names>J. F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>and D. A.</given-names>
+            <surname>Mortensen</surname>
+          </string-name>
+          .
+          <year>2012</year>
+          .
+          <article-title>A comparison of land sharing and land sparing strategies for conserving plant species richness in agricultural landscapes</article-title>
+          .
+          <source>Ecol. Appl</source>
+          .
+          <volume>22</volume>
+          :
+          <fpage>459</fpage>
+          -
+          <lpage>471</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Eilers</surname>
+            ,
+            <given-names>E. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Kremen</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S. S.</given-names>
+            <surname>Greenleaf</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A. K.</given-names>
+            <surname>Garber</surname>
+          </string-name>
+          ,
+          <article-title>and</article-title>
+          <string-name>
+            <given-names>A. M.</given-names>
+            <surname>Klein</surname>
+          </string-name>
+          .
+          <year>2011</year>
+          .
+          <article-title>Contribution of pollinator-mediated crops to nutrients in the human food supply</article-title>
+          .
+          <source>PLoS One</source>
+          <volume>6</volume>
+          :
+          <fpage>e21363</fpage>
+          . doi:
+          <volume>10</volume>
+          .1371/journal.pone.
+          <volume>0021363</volume>
+          :.
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>vanEngelsdorp</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J. D.</given-names>
+            <surname>Evans</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Saegerman</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Mullin</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>E.</given-names>
+            <surname>Haubruge</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>B. K.</given-names>
+            <surname>Nguyen</surname>
+          </string-name>
+          , et al.
+          <year>2009</year>
+          .
+          <article-title>Colony collapse disorder: a descriptive study</article-title>
+          .
+          <source>PLoS One</source>
+          <volume>4</volume>
+          :
+          <fpage>e6481</fpage>
+          . doi:
+          <volume>10</volume>
+          . 1371/journal.pone.0006481
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Feinsinger</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          <year>1987</year>
+          .
+          <article-title>Effects of plant species on each other's pollination: is community structure influenced? Trends Ecol</article-title>
+          .
+          <source>Evol</source>
+          .
+          <volume>2</volume>
+          :
+          <fpage>123</fpage>
+          -
+          <lpage>126</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Free</surname>
+            ,
+            <given-names>J. B.</given-names>
+          </string-name>
+          <year>1993</year>
+          .
+          <article-title>Insect pollination of crops</article-title>
+          . Academic Press, London, U.K.
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Gallai</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>J. M. Salles</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Settele</surname>
+            , and
+            <given-names>B. E.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Vaissiere</surname>
+          </string-name>
+          .
+          <year>2009</year>
+          .
+          <article-title>Economic valuation of the vulnerability of world agriculture confronted with pollinator decline</article-title>
+          .
+          <source>Ecol. Econ</source>
+          .
+          <volume>68</volume>
+          :
+          <fpage>810</fpage>
+          -
+          <lpage>821</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Garibaldi</surname>
+            ,
+            <given-names>L. A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>I.</given-names>
+            <surname>Steffan-Dewenter</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>R.</given-names>
+            <surname>Winfree</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M. A.</given-names>
+            <surname>Aizen</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>R.</given-names>
+            <surname>Bommarco</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S. A.</given-names>
+            <surname>Cunningham</surname>
+          </string-name>
+          , et al.
+          <year>2013</year>
+          .
+          <article-title>Wild pollinators enhance fruit set of crops regardless of honey bee abundance</article-title>
+          .
+          <source>Science. doi:10</source>
+          .1126/science.1230200
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Greenleaf</surname>
+            ,
+            <given-names>S. S.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Kremen</surname>
+          </string-name>
+          .
+          <year>2006</year>
+          .
+          <article-title>Wild bees enhance honey bees' pollination of hybrid sunflower</article-title>
+          .
+          <source>Proc. Natl Acad. Sci</source>
+          .
+          <volume>103</volume>
+          :
+          <fpage>13890</fpage>
+          -
+          <lpage>13895</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Gruber</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>K.</given-names>
+            <surname>Echel</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Everaars</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>C. F.</given-names>
+            <surname>Dormann</surname>
+          </string-name>
+          .
+          <year>2011</year>
+          .
+          <article-title>On managing the red mason bee (Osmia bicornis) in apple orchards</article-title>
+          .
+          <source>Apidologie</source>
+          <volume>42</volume>
+          :
+          <fpage>564</fpage>
+          -
+          <lpage>676</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>Isaacs</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Tuell</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Fiedler</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>Gardiner</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>D.</given-names>
+            <surname>Landis</surname>
+          </string-name>
+          .
+          <year>2009</year>
+          .
+          <article-title>Maximizing arthropod-mediated ecosystem services in agricultural landscapes: the role of native plants</article-title>
+          .
+          <source>Front. Ecol. Environ</source>
+          .
+          <volume>7</volume>
+          :
+          <fpage>196</fpage>
+          -
+          <lpage>203</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Jordan</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>Z.</given-names>
+            <surname>Benedek</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Podani</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>Quantifying positional importance in food webs: a comparison of centrality indices</article-title>
+          .
+          <source>Ecol. Model</source>
+          .
+          <volume>205</volume>
+          :
+          <fpage>270</fpage>
+          -
+          <lpage>275</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>Kearns</surname>
+            ,
+            <given-names>C. A.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>D. W.</given-names>
+            <surname>Inouye</surname>
+          </string-name>
+          .
+          <year>1993</year>
+          .
+          <article-title>Techniques for pollination biologists</article-title>
+          . University Press of Colorado, Niwot, CO.
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>Klein</surname>
+            ,
+            <given-names>A. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>I.</given-names>
+            <surname>Steffan-Dewenter</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>T.</given-names>
+            <surname>Tscharntke</surname>
+          </string-name>
+          .
+          <year>2003</year>
+          .
+          <article-title>Fruit set of highland coffee increases with the diversity of pollinating bees</article-title>
+          .
+          <source>Proc. Biol. Sci</source>
+          .
+          <volume>270</volume>
+          :
+          <fpage>955</fpage>
+          -
+          <lpage>961</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Klein</surname>
+            ,
+            <given-names>A. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>B. E.</given-names>
+            <surname>Vaissiere</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J. H.</given-names>
+            <surname>Cane</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>I.</given-names>
+            <surname>Steffan-Dewenter</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S. A.</given-names>
+            <surname>Cunningham</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Kremen</surname>
+          </string-name>
+          , et al.
+          <year>2007</year>
+          .
+          <article-title>Importance of pollinators in changing landscapes for world crops</article-title>
+          .
+          <source>Proc. Biol. Sci</source>
+          .
+          <volume>274</volume>
+          :
+          <fpage>303</fpage>
+          -
+          <lpage>313</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <surname>Kremen</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>N. M.</given-names>
+            <surname>Williams</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>R. L.</given-names>
+            <surname>Bugg</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J. P.</given-names>
+            <surname>Fay</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>R. W.</given-names>
+            <surname>Thorp</surname>
+          </string-name>
+          .
+          <year>2004</year>
+          .
+          <article-title>The area requirements of an ecosystem service: crop pollination by native bee communities in California</article-title>
+          . Ecol.
+          <source>Lett</source>
+          .
+          <volume>7</volume>
+          :
+          <fpage>1109</fpage>
+          -
+          <lpage>1119</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Losey</surname>
+            ,
+            <given-names>J. E.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>Vaughan</surname>
+          </string-name>
+          .
+          <year>2006</year>
+          .
+          <article-title>The economic value of ecological services provided by insects</article-title>
+          .
+          <source>Bioscience</source>
+          <volume>56</volume>
+          :
+          <fpage>311</fpage>
+          -
+          <lpage>323</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <given-names>Martın</given-names>
+            <surname>Gonzalez</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>A. M.</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>B.</given-names>
+            <surname>Dalsgaard</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>J. M.</given-names>
+            <surname>Olesen</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>Centrality measures and the importance of generalist species in pollination networks</article-title>
+          .
+          <source>Ecol. Complex</source>
+          .
+          <volume>7</volume>
+          :
+          <fpage>36</fpage>
+          -
+          <lpage>43</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <surname>Memmott</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          <year>1999</year>
+          .
+          <article-title>The structure of a plant-pollinator food web</article-title>
+          .
+          <source>Ecol. Lett</source>
+          .
+          <volume>2</volume>
+          :
+          <fpage>276</fpage>
+          -
+          <lpage>280</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <surname>Molina-Montenegro</surname>
+            ,
+            <given-names>M. A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>E. I.</given-names>
+            <surname>Badano</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>L. A.</given-names>
+            <surname>Cavieres</surname>
+          </string-name>
+          .
+          <year>2008</year>
+          .
+          <article-title>Positive interactions among plant species for pollinator service: assessing the 'magnet species' concept with invasive species</article-title>
+          .
+          <source>Oikos</source>
+          <volume>117</volume>
+          :
+          <fpage>1833</fpage>
+          -
+          <lpage>1839</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <string-name>
+            <surname>Morse</surname>
+            ,
+            <given-names>R. A.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>N. W.</given-names>
+            <surname>Calderone</surname>
+          </string-name>
+          .
+          <year>2000</year>
+          .
+          <article-title>The value of honey bees as pollinators of U.S. crops in 2000</article-title>
+          . Bee Cult.
+          <volume>128</volume>
+          :
+          <fpage>1</fpage>
+          -
+          <lpage>15</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <string-name>
+            <surname>Mortensen</surname>
+            ,
+            <given-names>D. A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J. F.</given-names>
+            <surname>Egan</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>B. D.</given-names>
+            <surname>Maxwell</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M. R.</given-names>
+            <surname>Ryan</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>R. G.</given-names>
+            <surname>Smith</surname>
+          </string-name>
+          .
+          <year>2012</year>
+          .
+          <article-title>Navigating a critical juncture for sustainable weed management</article-title>
+          .
+          <source>Bioscience</source>
+          <volume>62</volume>
+          :
+          <fpage>75</fpage>
+          -
+          <lpage>84</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <string-name>
+            <surname>NAPPC (North American Pollinator Protection Campaign)</surname>
+          </string-name>
+          .
+          <year>2011</year>
+          .
+          <article-title>Selecting plants for pollinators</article-title>
+          .
+          <source>Pollinator Partnership</source>
+          , San Francisco, CA.
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <string-name>
+            <surname>Nielsen</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <article-title>and</article-title>
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Bascompte</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>Ecological networks, nestedness and sampling effort</article-title>
+          .
+          <source>J. Ecol</source>
+          .
+          <volume>95</volume>
+          :
+          <fpage>1134</fpage>
+          -
+          <lpage>1141</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          <string-name>
+            <surname>Olesen</surname>
+            ,
+            <given-names>J. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Bascompte</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>H.</given-names>
+            <surname>Elberling</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>P.</given-names>
+            <surname>Jordano</surname>
+          </string-name>
+          .
+          <year>2008</year>
+          .
+          <article-title>Temporal dynamics in a pollination network</article-title>
+          .
+          <source>Ecology</source>
+          <volume>89</volume>
+          :
+          <fpage>1573</fpage>
+          -
+          <lpage>1582</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          <string-name>
+            <surname>Opsahl</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>F.</given-names>
+            <surname>Agneessens</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Skvoretz</surname>
+          </string-name>
+          .
+          <year>2010</year>
+          .
+          <article-title>Node centrality in weighted networks: generalizing degree and shortest paths</article-title>
+          .
+          <source>Soc. Networks</source>
+          <volume>32</volume>
+          :
+          <fpage>245</fpage>
+          -
+          <lpage>251</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          <string-name>
+            <surname>Pocock</surname>
+            ,
+            <given-names>M. J. O.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>D. M.</given-names>
+            <surname>Evans</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Memmott</surname>
+          </string-name>
+          .
+          <year>2012</year>
+          .
+          <article-title>The robustness and restoration of a network of ecological networks</article-title>
+          .
+          <source>Science</source>
+          <volume>335</volume>
+          :
+          <fpage>973</fpage>
+          -
+          <lpage>977</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          <string-name>
+            <surname>Potts</surname>
+            ,
+            <given-names>S. G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>B.</given-names>
+            <surname>Vulliamy</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Roberts</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>C. O'Toole</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dafni</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          <article-title>Ne'eman</article-title>
+          , et al.
+          <year>2003</year>
+          .
+          <article-title>Role of nesting resources in organising diverse bee communities in a Mediterranean landscape</article-title>
+          .
+          <source>Ecol. Entomol</source>
+          .
+          <volume>30</volume>
+          :
+          <fpage>78</fpage>
+          -
+          <lpage>85</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          <string-name>
+            <surname>Thebault</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Fontaine</surname>
+          </string-name>
+          .
+          <year>2010</year>
+          .
+          <article-title>Stability of ecological communities and the architecture of mutualistic and trophic networks</article-title>
+          .
+          <source>Science</source>
+          <volume>329</volume>
+          :
+          <fpage>853</fpage>
+          -
+          <lpage>856</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          <string-name>
+            <surname>Thompson</surname>
+            ,
+            <given-names>J. D.</given-names>
+          </string-name>
+          <year>2001</year>
+          .
+          <article-title>How do visitation patterns vary among pollinators in relation to floral display and floral design in a generalist pollination system?</article-title>
+          <source>Oecologia</source>
+          <volume>126</volume>
+          :
+          <fpage>386</fpage>
+          -
+          <lpage>394</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          <string-name>
+            <surname>Tuell</surname>
+            ,
+            <given-names>J. K.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A. K.</given-names>
+            <surname>Fiedler</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>D.</given-names>
+            <surname>Landis</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>R.</given-names>
+            <surname>Isaacs</surname>
+          </string-name>
+          .
+          <year>2008</year>
+          .
+          <article-title>Visitation by wild and managed bees (Hymenoptera: Apoidea) to eastern U.S. native plants for use in conservation programs</article-title>
+          .
+          <source>Environ. Entomol</source>
+          .
+          <volume>37</volume>
+          :
+          <fpage>707</fpage>
+          -
+          <lpage>718</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          <string-name>
+            <surname>Tylianakis</surname>
+            ,
+            <given-names>J. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>E.</given-names>
+            <surname>Laliberte</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Nielsen</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Bascompte</surname>
+          </string-name>
+          .
+          <year>2010</year>
+          .
+          <article-title>Conservation of species interaction networks</article-title>
+          .
+          <source>Biol. Conserv</source>
+          .
+          <volume>10</volume>
+          :
+          <fpage>2270</fpage>
+          -
+          <lpage>2279</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          <string-name>
+            <surname>Velthuis</surname>
+            ,
+            <given-names>H. H. W.</given-names>
+          </string-name>
+          ,
+          <article-title>and</article-title>
+          <string-name>
+            <surname>A. van Doorn.</surname>
+          </string-name>
+          <year>2006</year>
+          .
+          <article-title>A century of advances in bumblebee domestication and the economic and environmental aspects of its commercialization for pollination</article-title>
+          .
+          <source>Apidologie</source>
+          <volume>37</volume>
+          :
+          <fpage>421</fpage>
+          -
+          <lpage>451</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          <string-name>
+            <surname>Vicens</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          ,
+          <article-title>and</article-title>
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Bosch</surname>
+          </string-name>
+          .
+          <year>2000</year>
+          .
+          <article-title>Pollinating efficacy of Osmia cornuta and Apis mellifera (Hymenoptera: Megachilidae, Apidae) on 'Red Delicious' apple</article-title>
+          .
+          <source>Environ. Entomol</source>
+          .
+          <volume>29</volume>
+          :
+          <fpage>235</fpage>
+          -
+          <lpage>240</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          <string-name>
+            <surname>Winfree</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>N. M.</given-names>
+            <surname>Williams</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Dushoff</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Kremen</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>Native bees provide insurance against ongoing honey bee losses</article-title>
+          .
+          <source>Ecol. Lett</source>
+          .
+          <volume>10</volume>
+          :
+          <fpage>1105</fpage>
+          -
+          <lpage>1113</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          <string-name>
+            <surname>Winfree</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>N. M.</given-names>
+            <surname>Williams</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>H.</given-names>
+            <surname>Gaines</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J. S.</given-names>
+            <surname>Ascher</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Kremen</surname>
+          </string-name>
+          .
+          <year>2008</year>
+          .
+          <article-title>Wild bee pollinators provide the majority of crop visitation across land-use gradients in New Jersey and Pennsylvania</article-title>
+          , USA.
+          <source>J. Appl. Ecol</source>
+          .
+          <volume>45</volume>
+          :
+          <fpage>793</fpage>
+          -
+          <lpage>802</lpage>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
