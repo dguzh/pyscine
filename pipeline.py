@@ -205,9 +205,9 @@ def identify_and_filter_locations():
     # nltk customization
     nltk.data.path.append('data_NLTK')
     StanfordBaseDir = ''
-    os.environ['CLASSPATH'] = StanfordBaseDir + 'data_NER\\stanford-ner-2020-11-17\\'
-    os.environ['STANFORD_MODELS'] = StanfordBaseDir + 'data_NER\\stanford-ner-2020-11-17\\classifiers'
-    os.environ['JAVAHOME'] = 'C:\\Program Files\\Java\\jre1.8.0_351\\bin\\java.exe'
+    os.environ['CLASSPATH'] = StanfordBaseDir + 'data_NER/stanford-ner-2020-11-17/'
+    os.environ['STANFORD_MODELS'] = StanfordBaseDir + 'data_NER/stanford-ner-2020-11-17/classifiers'
+    os.environ['JAVAHOME'] = 'C:/Program Files/Java/jre1.8.0_351/bin/java.exe'
     # nltk initialization of Stanford NER tagger
     tagger = StanfordNERTagger('english.all.3class.distsim.crf.ser.gz')
 
