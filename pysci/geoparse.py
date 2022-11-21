@@ -43,7 +43,7 @@ def tuple_list_to_string(tuple_list):
     moses_string_clean = moses_string.replace("( ", "(")
     return moses_string_clean
 
-def extract_methods_text(article_content, par_range=4, max_words_in_heading=8, re_to_match=RE_BIOMED_METHODS_TEXT, verbose=False):
+def extract_methods_text(article_content, par_range=4, max_words_in_heading=8, re_to_match=RE_ORCHARDS_METHODS_TEXT, verbose=False):
     """
     Methods section detection function for raw-text content, which returns both the headings
     found and the text content identified. Because we don't have much structure in the
@@ -94,7 +94,7 @@ def extract_methods_text(article_content, par_range=4, max_words_in_heading=8, r
             continue
     return (methods_titles, text_contents)
 
-def extract_methods_xml(xml_root, re_to_match=RE_BIOMED_METHODS_HEADINGS, par_range=3, verbose=False):
+def extract_methods_xml(xml_root, re_to_match=RE_ORCHARDS_METHODS_HEADINGS, par_range=3, verbose=False):
     """
     Methods section detection function for XML content, which returns both the headings
     found and the text content identified. Rather complicated code because no easy way
@@ -163,7 +163,7 @@ def detect_methods_text(article_content, max_words_in_heading=8, verbose=False):
         # check for an initial capital letter and put a somewhat arbitrary length restriction
         if (re.match(RE_INITIAL_CAPITAL, candidate_title) and len(candidate_title.split(' ')) <= max_words_in_heading):
         # now finally match our more complex RE
-            if re.match(RE_BIOMED_METHODS_TEXT, candidate_title.lower()):
+            if re.match(RE_ORCHARDS_METHODS_TEXT, candidate_title.lower()):
                 methods.append(candidate_title)
                 if verbose:
                     print("Found section match: " + candidate_title)
@@ -179,7 +179,7 @@ def detect_methods_xml(xml_root):
     """
     methods = []
     for title in xml_root.iter('title'):
-        if re.match(RE_BIOMED_METHODS_HEADINGS, title.text.lower()):
+        if re.match(RE_ORCHARDS_METHODS_HEADINGS, title.text.lower()):
             methods.append(title.text)
     return methods
 

@@ -1,4 +1,4 @@
-def convert_pdfs():
+def convert_pdfs(articles_dir):
 
     import sys
     import os
@@ -18,7 +18,7 @@ def convert_pdfs():
     filename, headers = urllib.request.urlretrieve(cermine_url, cermine_jar_local_path)
 
     # directory containing the PDFs to process
-    articles_dir = 'pdfs'
+    articles_dir = articles_dir
 
     def convert_pdf_dir_to_xml(pdf_dir, verbose=True):
         output = subprocess.run([r"java", '-cp', cermine_jar_local_path, 'pl.edu.icm.cermine.ContentExtractor', 
@@ -80,7 +80,7 @@ def convert_pdfs():
     print('Conversion of all files in %s took %0.1fmin' %(articles_dir, (time2-time1)/60.0))
 
 
-def extract_text():
+def extract_text(articles_dir):
 
     import os
     import pandas as pd
@@ -90,7 +90,7 @@ def extract_text():
     from pysci import docutils as du
     from pysci import geoparse as gp
 
-    articles_dir = 'pdfs'
+    articles_dir = articles_dir
     corpus_name = 'test-corpus'
     path_to_pickle = 'science_articles.pkl'
 
@@ -366,6 +366,13 @@ def identify_and_filter_locations():
     location_sentences_flat = []
     use_xml_flat = []
     for doc in science_docs:
+        # Include title locations (Modified from E. Achesons Version)
+        for location in doc.title_locations:
+            content_locations_filtered_flat.append(location)
+            location_sentences_flat.append('TITLE LOCATION')
+            use_xml_flat.append(doc.use_xml)
+            filenames_flat.append(doc.file_name)
+
         if not doc.content_locations_filtered:
             # store the 'no location' case!
             content_locations_filtered_flat.append(gp.NO_LOCATIONS_STRING)
